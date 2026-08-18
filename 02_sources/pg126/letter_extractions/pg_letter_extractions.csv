@@ -1,0 +1,128 @@
+pg_unit,bucket,old_number,file_line_start,file_line_end,pg_page_marker_start,heading,addressee_line,chars,path
+PG001,Pre-Meursius,2,7631,7681,162,Βʹ.-Τῷ Σεβαστῷ Ἰωάννῃ τῷ γυναικαδέλφῳ τοῦ,,2282,02_sources/pg126/letter_extractions/PG001.txt
+PG002,Pre-Meursius,3,7682,7727,163,Γʹ.·Τῷ Μαχητάρῃ.,,2012,02_sources/pg126/letter_extractions/PG002.txt
+PG003,Pre-Meursius,4,7728,7764,164,Δʹ.-Τῷ πατριάρχῃ.,,1706,02_sources/pg126/letter_extractions/PG003.txt
+PG004,Pre-Meursius,,7765,7859,164,Ιν.-Ραίηαγοήα.,,4407,02_sources/pg126/letter_extractions/PG004.txt
+PG005,Pre-Meursius,,7860,7898,166,-Τῷ Ῥωμαίῳ.,,1702,02_sources/pg126/letter_extractions/PG005.txt
+PG006,Pre-Meursius,6,7899,7920,167,ϛʹ.Τῷ Μερμεντοπούλω,,967,02_sources/pg126/letter_extractions/PG006.txt
+PG007,Pre-Meursius,7,7921,7950,168,Ζʹ-Τῳ κυρῷ Μιχαὴλ τῷ Παντεχνῇ.,,1370,02_sources/pg126/letter_extractions/PG007.txt
+PG008,Pre-Meursius,8,7951,7972,168,ΗʹΤῶ Σερβλίᾳ κυρῷ Ἰωάννῃ.,,1026,02_sources/pg126/letter_extractions/PG008.txt
+PG009,Pre-Meursius,,7973,7973,169,ΙΧ.-ΡακΙλεεηα.,,14,02_sources/pg126/letter_extractions/PG009.txt
+PG010,Pre-Meursius,9,7974,7986,169,Θʹ.ῷ Παντεχνῇ.,,561,02_sources/pg126/letter_extractions/PG010.txt
+PG011,Pre-Meursius,30,7987,8002,169,ΚΙʹ.Τῷ χαρτοφύλακι κυρῷ Νικηφόρῳ.,,710,02_sources/pg126/letter_extractions/PG011.txt
+PG012,Pre-Meursius,11,8003,8054,169,ΙΑʹῷ Κίτρου.,,2403,02_sources/pg126/letter_extractions/PG012.txt
+PG013,Pre-Meursius,,8055,8179,170,iΒʹ.--Τῷ καματηρῷ κυρῷ Γρηγορίῳ.,,5787,02_sources/pg126/letter_extractions/PG013.txt
+PG014,Pre-Meursius,,8180,8241,172,-Τῷ πατμιάρχῃ.,,2814,02_sources/pg126/letter_extractions/PG014.txt
+PG015,Pre-Meursius,14,8242,8293,174,ΙΔʹ.-Τῷ Πακουριανῷ.,,2344,02_sources/pg126/letter_extractions/PG015.txt
+PG016,Pre-Meursius,,8294,8314,175,ΧΝ. Ερίεσορο βεηηοιαιε.,,915,02_sources/pg126/letter_extractions/PG016.txt
+PG017,Pre-Meursius,,8315,8340,175,ἐΕʹ -Τῶ ἐπισκόπῳ Σεμνῶν,,1167,02_sources/pg126/letter_extractions/PG017.txt
+PG018,Pre-Meursius,16,8341,8393,175,Ιϛʹ.-Τῷ ἐπισκόπῳ Βιδίνης.,,2409,02_sources/pg126/letter_extractions/PG018.txt
+PG019,Pre-Meursius,17,8394,8555,176,ΙΖʹ.Τῷ Τριαδίτης.,,7477,02_sources/pg126/letter_extractions/PG019.txt
+PG020,Pre-Meursius,,8556,8682,179,"Χνiii.-Εἰάεπο αά ενκοααπι ιοεάειε νεμεκίῆ, ΠΑʹ.-Τῷ αὐτῷ ἀπὸ τῆς συνόδου παραιτησαμένῳ",,5857,02_sources/pg126/letter_extractions/PG020.txt
+PG021,Pre-Meursius,20,8683,8813,182,ΚʹΤῶ αὐτώ παρὰ τοῦ ἀρχιεπισκόαου,,6124,02_sources/pg126/letter_extractions/PG021.txt
+PG022,Pre-Meursius,,8814,8874,184,Κʹ.-Ἐκ τῆς πρὸς Τιβάνιον Ἀρμένιον,,2787,02_sources/pg126/letter_extractions/PG022.txt
+PG023,Meursius,1,8875,8928,186,ΕΠΙΣΤΟΛΗ ΠΡΩΤΗ.,,2434,02_sources/pg126/letter_extractions/PG023.txt
+PG024,Meursius,2,8929,8983,187,ΕΠΙΣΤ. Βʹ.,Τῷ μαίστορι κυρίῳ Ἰωάννῃ.,2467,02_sources/pg126/letter_extractions/PG024.txt
+PG025,Meursius,3,8984,9020,188,ΕΠΙΣΤ. Γʹ.,Τῷ πατριάρχῃ κυρίῳ Νικολάῳ.,1551,02_sources/pg126/letter_extractions/PG025.txt
+PG026,Meursius,4,9021,9057,189,ΕΠΙΣΤ. Δʹ.,Τῷ Ταρωνίτῃ προέδρῳ κυρίῳ Γρηγορίω.,1677,02_sources/pg126/letter_extractions/PG026.txt
+PG027,Meursius,5,9058,9121,190,ΕΠΙΣΤ. Εʹ.,,2862,02_sources/pg126/letter_extractions/PG027.txt
+PG028,Meursius,6,9122,9175,191,ΕΠΙΣΤ. ϛʹ.,Τῷ Καματηρῷ κυρίῳ Γρηγορίῳ.,2471,02_sources/pg126/letter_extractions/PG028.txt
+PG029,Meursius,17,9176,9251,192,ΕΠΙΣΤ. Ζι.,"Τῶ Πακουριάνῳ κυρίῳ Γρηγορίῳ, τῷ γαμβρῷ τοῦ",3240,02_sources/pg126/letter_extractions/PG029.txt
+PG030,Meursius,9,9252,9291,194,ΕΠΙΣΤ. Θʹ.,"Τῷ διδασκάλῳ κυρίῳ Νικήτᾳ, τῷ Σεῤῥών.",1849,02_sources/pg126/letter_extractions/PG030.txt
+PG031,Meursius,10,9292,9337,194,ΕΠΙΣΤ. Ιʹ.,Τῷ Ὁρεομάχῳ.,1992,02_sources/pg126/letter_extractions/PG031.txt
+PG032,Meursius,,9338,9365,195,ΕΠΙΣΤ. ἰΑʹ.,Τῷ μηπροπολίτῃ Θεσσαλονίκης κιρίῳ Θεοδούλῳ.,1227,02_sources/pg126/letter_extractions/PG032.txt
+PG033,Meursius,12,9366,9446,196,ΕΠΙΣΤ ΙΒʹ,Τῷ Καίσαρι.,3680,02_sources/pg126/letter_extractions/PG033.txt
+PG034,Meursius,13,9447,9492,198,ΕΠΙΣΤʹ ΙΓʹ.,Τῷ Σεμνῶν.,2053,02_sources/pg126/letter_extractions/PG034.txt
+PG035,Meursius,,9493,9538,198,ΕΠΙΣΤ. ἰΔʹ.,,1977,02_sources/pg126/letter_extractions/PG035.txt
+PG036,Meursius,15,9539,9583,199,ΕΠΙΣΤ. ΙΕʹ.,Τῶ Καματηροπούλῳ.,1934,02_sources/pg126/letter_extractions/PG036.txt
+PG037,Meursius,,9584,9615,200,Τῷ Ἀγκυραίῳ.,,1328,02_sources/pg126/letter_extractions/PG037.txt
+PG038,Meursius,17,9616,9675,201,ΕΠΙΣΤ. ΙΖʹ.,Τῷ Κερκύρας.,2656,02_sources/pg126/letter_extractions/PG038.txt
+PG039,Meursius,,9676,9728,202,Τῷ Μερμεντλῶν,,2264,02_sources/pg126/letter_extractions/PG039.txt
+PG040,Meursius,,9729,9762,203,Τῷ Ἀνέμῳ.,,1426,02_sources/pg126/letter_extractions/PG040.txt
+PG041,Meursius,20,9763,9808,204,ΕΠΙΣΤ. Κʹ.,Τῷ Μερχμεντᾶῶν.,1895,02_sources/pg126/letter_extractions/PG041.txt
+PG042,Meursius,,9809,9960,205,Τῷ Ἀνέμω.,,7087,02_sources/pg126/letter_extractions/PG042.txt
+PG043,Meursius,23,9961,10029,208,ΕΠΙΣΤ. ΚΓʹ.,Τῷ αὐτῷ.,3054,02_sources/pg126/letter_extractions/PG043.txt
+PG044,Meursius,24,10030,10138,209,ΕΠΙΣΤ. ΚΔ,Τῷ μεγάλῳ δομεστίκῳ κυρίῳ Ἀριανῳ.,4977,02_sources/pg126/letter_extractions/PG044.txt
+PG045,Meursius,,10139,10172,212,Τῷ σεβαστῷ Πακουριάνῳ.,,1568,02_sources/pg126/letter_extractions/PG045.txt
+PG046,Meursius,26,10173,10311,212,ΕΠΙΣΤ. Κϛʹ,Τῷ Ταρωνίτῃ κυρίῳ Γρηγορίῳ.,6289,02_sources/pg126/letter_extractions/PG046.txt
+PG047,Meursius,27,10312,10387,215,ΕΠΙΣΤʹ ΚΖʹ,Τῷ τῆς Χαλκηδόνος πυρίῳ Μιχαήλ.,3518,02_sources/pg126/letter_extractions/PG047.txt
+PG048,Meursius,28,10388,10419,216,ΕΠΙΣΤ. ΚΗʹ.,,1363,02_sources/pg126/letter_extractions/PG048.txt
+PG049,Meursius,29,10420,10463,217,ΕΠΙΣΤ. ΚΘʹ.,"Τῷ μαθητῇ αὐτοῦ Νικήτα, διακόνῳ τῷ τοῦ Χαλκηδόνος.",1961,02_sources/pg126/letter_extractions/PG049.txt
+PG050,Meursius,,10464,10612,218,"Τῷ μγάλῳ δομεστίκῳ κιρίῳ Ἀδριονῳ, τ,",,6798,02_sources/pg126/letter_extractions/PG050.txt
+PG051,Meursius,,10613,10656,221,"Τῷ Βρυεννίφ, τῷ συμπενβέίῳ τοῦ βασιλέως,",,1955,02_sources/pg126/letter_extractions/PG051.txt
+PG052,Meursius,,10657,10723,222,Τῷ ἐπισκόπῳ Τριαδίτζης.,,3039,02_sources/pg126/letter_extractions/PG052.txt
+PG053,Meursius,3,10724,10774,223,ΕΠΙΣΤ ΛΓʹ.,"Τῷ κυρίῳ Ἰωάννῃ, τῷ γραμματικῷ τοῦ Πα λαιολόγου.",2338,02_sources/pg126/letter_extractions/PG053.txt
+PG054,Meursius,,10775,10823,224,Τῷ ἀδελφῷ βασιλέως κυρίῳ Ἀδριανῷ.,,2115,02_sources/pg126/letter_extractions/PG054.txt
+PG055,Meursius,,10824,10867,225,Τῶ χαρτοφύλακι.,,1899,02_sources/pg126/letter_extractions/PG055.txt
+PG056,Meursius,,10868,10939,226,"Τῷ Ταρων. τῃ, κυρίῳ Γρηγορίῳ.",,3299,02_sources/pg126/letter_extractions/PG056.txt
+PG057,Meursius,8,10940,10958,227,ΕΠΙΣΤ. ΛΗʹ,Τῷ ἀρχιατρῷ κυρίῳ Νικολάῳ τῷ Καλλικλεῖ.,861,02_sources/pg126/letter_extractions/PG057.txt
+PG058,Meursius,,10959,10978,228,Τῷ αὐτῷ.,,881,02_sources/pg126/letter_extractions/PG058.txt
+PG059,Meursius,40,10979,10997,228,ΕΠΙΣΤ. Μʹ,"Τῷ ὑπάτῳ τῶν φιλοσώφων, τῷ Ἀμυρναίῳ",826,02_sources/pg126/letter_extractions/PG059.txt
+PG060,Meursius,41,10998,11229,228,ΕΠΙΣΤ ΜΑʹ.,"Τῷ πανυπερσεβάστῳ Ερυεννίῳ, τῷ γαμβρῷ τοῦ",10420,02_sources/pg126/letter_extractions/PG060.txt
+PG061,Meursius,42,11230,11279,233,ΕΠΙΣΤ. ΜΒʹ.,Τῷ Κυρίῳ Ἰωάννῃ τῷ Περιβλεπτηνῷ,2252,02_sources/pg126/letter_extractions/PG061.txt
+PG062,Meursius,43,11280,11420,234,ΕΠΙΣΤ. ΜΓʹ,"Τῷ ἀδελφῷ τοῦ βασιλέως κυρίῳ Ἀδριανῳ,",6267,02_sources/pg126/letter_extractions/PG062.txt
+PG063,Meursius,,11421,11454,237,ΚΤῷ ἰατρῷ τοῦ βασιλέως τῷ Παντέχνῃ.,,1515,02_sources/pg126/letter_extractions/PG063.txt
+PG064,Meursius,,11455,11504,238,Τῷ Φιλοσόφῳ καρίῳ Ἰωάννῃ.,,2181,02_sources/pg126/letter_extractions/PG064.txt
+PG065,Meursius,46,11505,11524,239,ΕΠΙΣΤ. Μϛʹ,Τῷ Περιβλεπτηνῷ κυρίῳ Ἰωάννη.,866,02_sources/pg126/letter_extractions/PG065.txt
+PG066,Meursius,47,11525,11574,239,ΕΠΙΣΤ. ΜΖ,"Τᾷ μαθητῇ αὐτοῦ, τῷ Παντέχνῃ, κυρίῳ Ἀεχαήλ,",2191,02_sources/pg126/letter_extractions/PG066.txt
+PG067,Meursius,,11575,11604,240,"Τῷ αὐτοκράτορι τοῦ δουκὸς Ἀτταλίας, κυρίῳ·",,1339,02_sources/pg126/letter_extractions/PG067.txt
+PG068,Meursius,50,11605,11662,241,ΕΠΙΣΤ. Νʹ.,,2524,02_sources/pg126/letter_extractions/PG068.txt
+PG069,Meursius,52,11663,11674,242,ΕΠΙΣΤ. ΝΒʹ.,,508,02_sources/pg126/letter_extractions/PG069.txt
+PG070,Meursius,53,11675,11699,242,ΕΠΙΣΤ. ΝΓʹ.,"Τῶ Μακρεμβολίτῃ, τῆς Πρέσπας ἄρκοντι",1071,02_sources/pg126/letter_extractions/PG070.txt
+PG071,Meursius,,11700,11730,242,Τῷ ἐπὶ τῶν δεήσεων.,,1218,02_sources/pg126/letter_extractions/PG071.txt
+PG072,Meursius,55,11731,11775,243,ΕΠΙΣΤ. ΝΕʹ.,Τῷ ἰατρῷ τοῦ βασιλέως κυρίῳ Νικήτᾳ.,2044,02_sources/pg126/letter_extractions/PG072.txt
+PG073,Meursius,56,11776,11815,244,ΕΠΙΣΤ. Νϛʹ.,Τῶ κυρίω Νικολάῳ τῷ Καλλικλεῖ,1633,02_sources/pg126/letter_extractions/PG073.txt
+PG074,Meursius,57,11816,11842,245,ΕΠΙΣΤʹ. ΝΖʹ.,Τῷ αὐτῳ.,1132,02_sources/pg126/letter_extractions/PG074.txt
+PG075,Meursius,,11843,11880,245,Τῷ Κίτρου,,1686,02_sources/pg126/letter_extractions/PG075.txt
+PG076,Meursius,59,11881,11904,246,ΕΠΙΣΤʹ. ΝΘʹ,"Τῷ προέδρῳ, καὶ Προξίμῳ τῷ Παντέχιῃ.",1023,02_sources/pg126/letter_extractions/PG076.txt
+PG077,Meursius,60,11905,11928,247,ΕΠΙΣΤ. Ξ,,828,02_sources/pg126/letter_extractions/PG077.txt
+PG078,Meursius,61,11929,11941,247,ΕΠΙΣΤ. ΞΑʹ.,Τῷ αὐτῷ.,520,02_sources/pg126/letter_extractions/PG078.txt
+PG079,Meursius,62,11942,11952,247,ΕΠΙΣΤ. ΞΒʹ.,Τῷ αὐτῷ.,402,02_sources/pg126/letter_extractions/PG079.txt
+PG080,Meursius,,11953,11987,247,Τῶ σεβαστῷ κυρίῳ Κωνσταντίνῳ τῷ Δούκᾳ.,,1565,02_sources/pg126/letter_extractions/PG080.txt
+PG081,Meursius,,11988,12010,248,Τῷ αὐτῷ.,,892,02_sources/pg126/letter_extractions/PG081.txt
+PG082,Meursius,65,12011,12078,249,ΕΠΙΣΤʹ. ΞΕʹ.,,3066,02_sources/pg126/letter_extractions/PG082.txt
+PG083,Meursius,,12079,12115,250,Τῷ ἑπισκόπῳ Κίτρου.,,1613,02_sources/pg126/letter_extractions/PG083.txt
+PG084,Meursius,70,12116,12118,251,ΕΠΙΣΤ. Ξχι,,40,02_sources/pg126/letter_extractions/PG084.txt
+PG085,Meursius,,12119,12138,251,Τῷ ἐπισκόπῳ Δέβρης.,,876,02_sources/pg126/letter_extractions/PG085.txt
+PG086,Meursius,68,12139,12169,251,ΕΠΙΣΤʹ. ΞΗʹ.,"Τῷ σεβαστῷ καὶ δουκὶ Βεῤῥοίας, κυρίῳ Κοσταντίνῳ,",1408,02_sources/pg126/letter_extractions/PG086.txt
+PG087,Meursius,9,12170,12178,252,ΚΕΠΙΣΤ. ΣΘ.,Τῷ ἀποχαρτοφύλακι κυρίῳ Νικηφόρῳ.,303,02_sources/pg126/letter_extractions/PG087.txt
+PG088,Meursius,,12179,12392,252,Τῷ Παλαιολόγῳ.,,9665,02_sources/pg126/letter_extractions/PG088.txt
+PG089,Meursius,2,12393,12414,256,ΕΠΙΣΤ. ΟΒʹ.,Τῷ προέδρῳ τῷ Παντέχνῃ.,761,02_sources/pg126/letter_extractions/PG089.txt
+PG090,Meursius,3,12415,12436,257,ΕΠΙΣΤʹ. ΟΓʹ.,Τῷ ἰατρῷ τοῦ βσσιλέως κυρίῳ Μιχαήλ,860,02_sources/pg126/letter_extractions/PG090.txt
+PG091,Meursius,1,12437,12446,257,ΕΠΙΣΤ. ΟΑʹ.,Τῷ αὐτῷ,405,02_sources/pg126/letter_extractions/PG091.txt
+PG092,Meursius,5,12447,12454,257,ΚΕΠΙΣΤ. ΟΕ.,Τῷ αὐτῳ.,261,02_sources/pg126/letter_extractions/PG092.txt
+PG093,Lami-Finetti,1,12455,12562,258,ΕΠΙΣΤ. Αʹ.,Τῆ δεσποίνῃ κυρᾷ Μαρίᾳ.,4812,02_sources/pg126/letter_extractions/PG093.txt
+PG094,Lami-Finetti,,12563,12679,260,Τῷ μεγάλῳ δομεστίκῳ.,,5303,02_sources/pg126/letter_extractions/PG094.txt
+PG095,Lami-Finetti,,12680,12698,262,Τῷ διδασκάλῳ τῆς μεγάλης ἐκκᾶησίας κιρῷ,,868,02_sources/pg126/letter_extractions/PG095.txt
+PG096,Lami-Finetti,4,12699,12752,262,ΕΠΙΣΤ. Δʹ.,,2324,02_sources/pg126/letter_extractions/PG096.txt
+PG097,Lami-Finetti,5,12753,12797,263,ΕΠΙΣΤ. Εʹ.,Τῷ Καίσαρι,2037,02_sources/pg126/letter_extractions/PG097.txt
+PG098,Lami-Finetti,6,12798,12824,264,ΕΠΙΣΤ. ϛʹ.,Τῷ υἱῷ τοῦ σεβαστοκράτορος.,1180,02_sources/pg126/letter_extractions/PG098.txt
+PG099,Lami-Finetti,,12825,12881,264,Τῷ σεβαστῷ κυρῷ Ἰωάννῃ τῷ υιῷ τοῦ σεβαστοκράτορος.,,2532,02_sources/pg126/letter_extractions/PG099.txt
+PG100,Lami-Finetti,8,12882,12928,265,ΕΠΙΣΤ Ηʹ.,,2156,02_sources/pg126/letter_extractions/PG100.txt
+PG101,Lami-Finetti,,12929,12965,266,Τῷ Καίσαρι τῷ Μελισσηνῷ,,1544,02_sources/pg126/letter_extractions/PG101.txt
+PG102,Lami-Finetti,,12966,13006,267,ΕΠΙΣΤ.!.,Τῷ Διαβολογύρῃ.,1932,02_sources/pg126/letter_extractions/PG102.txt
+PG103,Lami-Finetti,40,13007,13051,267,ΕΠΙΣΤ. ΙΛʹ.,Τῷ Ταρχανείτῳ.,1998,02_sources/pg126/letter_extractions/PG103.txt
+PG104,Lami-Finetti,12,13052,13104,268,ΚΕΠΙΣΤ. ΙΒʹ,Τῷ γιναικαδέλφῳ τοῦ βασιλέως κυρῷ Ἰωάννῃ,2329,02_sources/pg126/letter_extractions/PG104.txt
+PG105,Lami-Finetti,13,13105,13178,269,ΕΠΙΣΤ. ΙΓʹ,Τῷ Τορνωσοπούλῳ τῷ Δοκισκοπιῶν.,3443,02_sources/pg126/letter_extractions/PG105.txt
+PG106,Lami-Finetti,14,13179,13219,270,ΕΠΙΣΤ. ΙΔʹ.,Τῷ Ταρχανείτῳ.,1707,02_sources/pg126/letter_extractions/PG106.txt
+PG107,Lami-Finetti,10,13220,13251,271,ΕΠΙΣΤʹ. ΙἘʹ.,Τῷ Πελαγονίας.,1374,02_sources/pg126/letter_extractions/PG107.txt
+PG108,Lami-Finetti,,13252,13316,272,Τῷ υἱῷ τοῦ σεβαστοκράτορος.,,2755,02_sources/pg126/letter_extractions/PG108.txt
+PG109,Lami-Finetti,,13317,13345,273,Τῷ αὐτῳ.,,1316,02_sources/pg126/letter_extractions/PG109.txt
+PG110,Lami-Finetti,18,13346,13387,273,ΕΠΙΣΤ. ΙΗʹ.,Τῷ αὐτῷ.,1826,02_sources/pg126/letter_extractions/PG110.txt
+PG111,Lami-Finetti,,13388,13413,274,Τῶ Μεριουντοπούλῳ.,,1185,02_sources/pg126/letter_extractions/PG111.txt
+PG112,Lami-Finetti,20,13414,13462,274,ΕΠΙΣΤ. Κʹ.,Τῷ σεβαστῷ τοῦ σεβαστοκράτορος.,2015,02_sources/pg126/letter_extractions/PG112.txt
+PG113,Lami-Finetti,21,13463,13494,275,ΕΠΙΣΤʹ. ΚΑʹ.,Τῷ Σμυρναίῳ.,1404,02_sources/pg126/letter_extractions/PG113.txt
+PG114,Lami-Finetti,22,13495,13535,275,ΕΠΙΣΤ. ΚΒʹ.,Τῷ χαρτοφύλακι κυρῷ Νικηφορῷ,1793,02_sources/pg126/letter_extractions/PG114.txt
+PG115,Lami-Finetti,23,13536,13600,276,ΕΠΙΣΤ. ΚΓʹ.,Τῷ Καματηρῷ.,2736,02_sources/pg126/letter_extractions/PG115.txt
+PG116,Lami-Finetti,,13601,13640,277,Τῷ Ἀνέμῳ.,,1764,02_sources/pg126/letter_extractions/PG116.txt
+PG117,Lami-Finetti,25,13641,13665,278,ΕΠΙΣΤ. ΚΕʹ.,Τῷ Μερμεντούλῳ.,1151,02_sources/pg126/letter_extractions/PG117.txt
+PG118,Lami-Finetti,26,13666,13701,278,ΕΠΙΣΤ. Κϛʹ.,Τῷ Ἀνέμῳ.,1473,02_sources/pg126/letter_extractions/PG118.txt
+PG119,Lami-Finetti,27,13702,13748,279,ΕΠΙΣΤ. ΚΖʹ.,Τῷ μητροπολίτῃ Ναυπάκτου τῷ Χρυσοβέργη.,2146,02_sources/pg126/letter_extractions/PG119.txt
+PG120,Lami-Finetti,40,13749,13814,280,ΕΠΙΣΤ. ΚΙΙʹ.,,3035,02_sources/pg126/letter_extractions/PG120.txt
+PG121,Lami-Finetti,29,13815,13892,281,ΕΠΙΣΤ. ΚΘʹ.,Τῷ ἡγουμένῳ τῆς ἐν τῷ Ἀνάπλῳ κιρῷ Συμεών,3601,02_sources/pg126/letter_extractions/PG121.txt
+PG122,Lami-Finetti,30,13893,13944,282,ΕΠΙΣΤ. Λ.,Τῷ καματηρῷ κυρῷ Γρηγορίῳ.,2267,02_sources/pg126/letter_extractions/PG122.txt
+PG123,Lami-Finetti,2,13945,14013,283,ΕΠΙΣΤ. ΑΑʹ.,ΚΤῷ κυρῷ Μιχαὴλ τῷ παντέχνοω.,3245,02_sources/pg126/letter_extractions/PG123.txt
+PG124,Lami-Finetti,3,14014,14047,284,ΕΠΙΣΤ. ΑΒʹ.,Τῷ κυρίῳ Νικήτᾳ τῷ Πολίτῃ.,1345,02_sources/pg126/letter_extractions/PG124.txt
+PG125,Lami-Finetti,11,14048,14072,285,ΕΠΙΣΤ. ΑΙʹ.,Τῷ Ἀνέμῳ.,1107,02_sources/pg126/letter_extractions/PG125.txt
+PG126,Lami-Finetti,4,14073,14120,285,ΕΠΙΣΤ. ΛΔʹ.,Τῷ Ῥωμαίῳ Θεοφυλάκτῳ.,2191,02_sources/pg126/letter_extractions/PG126.txt
+PG127,Lami-Finetti,5,14121,14180,286,ΕΠΙΣΤ ΛΕʹ.,Τῷ αὐτῷ.,2513,02_sources/pg126/letter_extractions/PG127.txt

@@ -1,0 +1,240 @@
+﻿﻿<html>
+
+<head>
+<meta http-equiv="Content-Language" content="bg">
+<meta http-equiv="Content-Type" content="text/html; charset=unicode">
+<title>ГИБИ, том IX, ч. 2 (1994) - Индекс</title>
+<style>
+        <!--
+                A {text-decoration: none}
+                A:hover {color: red; text-decoration: underline}
+        -->
+</style>
+</head>
+
+<body>
+
+<p align="center"> <font face="Times New Roman"> <b><br>
+	</b>Институт за История<b><br>
+	<br>
+	<font size="4">ГРЪЦКИ ИЗВОРИ ЗА БЪЛГАРСКАТА ИСТОРИЯ</font><br>
+	<span lang="en-gb"><font size="4">FONTES GRAECI HISTORIAE 
+BULGARICAE</font></span></b></font></p>
+<p align="center"> <font face="Times New Roman"> <b><br>
+	<font size="4">том 
+<span lang="en-gb">IX </span></font></b></font></p>
+<p class="MsoNormal" align="center"><b><font face="Times New Roman">Произведения 
+на Теофилакт Охридски, архиепископ български, отнасящи се до българската история</font></b><font face="Times New Roman"><br>
+</font><b>
+	<font size="4" face="Times New Roman">част 2</font></b></p>
+<p align="center"><font face="Times New Roman">Подготвени от Илия Г. Илиев</font></p>
+<p align="center"><font face="Times New Roman"><b>Theophylacti Achridensis, 
+archiepiscopi Bulgariae, scripta ad historiam Bulgariae pertinentia<br>
+Secunda pars<br>
+</b><br>
+Vita S. Clementis Achridensis, historia martyrii XV martyrum Tiberiupolitanorum, 
+epistulae, carmen ad Nicephorum Bryennium,<b><br>
+</b>pars expositionis in epistulam Pauli 
+apostoli ad Romanos</font></p>
+<p align="center"><font face="Times New Roman">elaboravit Iliya G. Iliev</font></p>
+<p align="center"><font face="Times New Roman"><b>
+	<font size="2">
+	<br>
+	</font>
+	</b><font size="2">Издание на Българската Академия на Науките<b><br>
+	</b>София, 19</font><span lang="en-gb"><font size="2">94</font></span><b><br>
+	&nbsp;</b></font></p>
+<div align="center">
+	<table border="0" width="80%" cellpadding="2">
+		<tr>
+			<td width="272" align="center"><font face="Times New Roman"><b><i>
+			<a href="gal/index.html">
+			<span style="text-decoration: none">Галерия от сканове</span></a></i></b></font></td>
+			<td align="center" width="413"><font face="Times New Roman">
+			<a href="gibi_9_2.pdf">
+			<span style="text-decoration: none">В .</span><span style="text-decoration: none" lang="en-gb">pdf
+			</span><span style="text-decoration: none">формат</span></a><span lang="en-gb">&nbsp; 
+			(286 </span>Мб<span lang="en-gb">)</span></font></td>
+			<td align="center"><font face="Times New Roman">
+			<a href="gibi_9_2.djvu">
+			<span style="text-decoration: none">В .</span><span style="text-decoration: none" lang="en-gb">djvu
+			</span><span style="text-decoration: none">формат</span></a><span lang="en-gb">&nbsp; 
+			(9.3 </span>Мб<span lang="en-gb">)</span></font></td>
+		</tr>
+		<tr>
+			<td width="272" align="center"><font face="Times New Roman"><b><i><span lang="en-gb">
+			<a href="gal/index.html"><span style="text-decoration: none">Gallery 
+			of scans</span></a></span></i></b></font></td>
+			<td align="center" width="413"><font face="Times New Roman">
+			<span lang="en-gb"><a href="gibi_9_2.pdf">In .pdf format</a>&nbsp; (286 Mb)</span></font></td>
+			<td align="center"><font face="Times New Roman"><span lang="en-gb">
+			<a href="gibi_9_2.djvu">In .djvu format</a>&nbsp; (9.3 Mb)</span></font></td>
+		</tr>
+	</table>
+</div>
+<blockquote>
+	<p><br>
+	<span lang="en-gb">&nbsp; </span><a href="gal/9_2_005.html">Предговор&nbsp; <i>(Иван Божилов)</i></a>
+	<span lang="en-gb">&nbsp;. . . . . </span>5<br>
+	<span lang="en-gb">&nbsp; </span><a href="gal/9_2_008.html">Увод&nbsp; <i>(Илия Г. Илиев)</i></a>&nbsp; <span lang="en-gb"> 
+	. . . . . </span>8</p>
+	<p><b><a href="gal/9_2_010.html">1. Житие на Климент Охридски</a></b><span lang="en-gb"> 
+	. . . . . 10</span><b><br>
+	</b><i>
+	<span style="line-height: 115%; font-family: 'Times New Roman',serif">
+	<span lang="en-gb"><font size="2">&nbsp;&nbsp; </font></span><font size="2">Живот, дейност, изповедание и кратък разказ за чудесата на светия наш отец
+	</font>
+	</span>
+	</i><font size="2"><i>
+	<span lang="BG" style="line-height: 115%; font-family: 'Times New Roman',serif">
+	К</span><span style="line-height: 115%; font-family: 'Times New Roman',serif">лимент, 
+	епископ български, написан от светейшия и славен архиепископ на </span>
+	<span lang="BG" style="line-height: 115%; font-family: 'Times New Roman',serif">
+	П</span><span style="line-height: 115%; font-family: 'Times New Roman',serif">ърва 
+	юстиниана и на цяла </span>
+	<span lang="BG" style="line-height: 115%; font-family: 'Times New Roman',serif">
+	Б</span><span style="line-height: 115%; font-family: 'Times New Roman',serif">ългария 
+	господин </span>
+	<span lang="BG" style="line-height: 115%; font-family: 'Times New Roman',serif">
+	Т</span><span style="line-height: 115%; font-family: 'Times New Roman',serif">еофилакт,</span><span lang="BG" style="line-height: 115%; font-family: 'Times New Roman',serif"> 
+	к</span><span style="line-height: 115%; font-family: 'Times New Roman',serif">ойто 
+	бил магистър на реторите в </span>
+	<span lang="BG" style="line-height: 115%; font-family: 'Times New Roman',serif">
+	К</span></i><span style="line-height: 115%; font-family: 'Times New Roman',serif"><i>онстантинопол<span lang="en-gb"> 
+	(11)</span></i></span><i> </i>
+	<span lang="en-gb">&nbsp;</span><span lang="el">//</span><span lang="en-gb">
+	</span>
+	<span lang="el">&nbsp;</span><span style="line-height: 115%; font-family: 'Times New Roman',serif">Βιο<span lang="el">ς</span> και πολιτεια, ομολο<span lang="el">γι</span>α τε 
+	και μερικη θαυματων διηγησι<span lang="el">ς</span> του εν αγιοι<span lang="el">ς</span> 
+	πατρο<span lang="el">σ</span> ημων <span lang="el">Κ</span>λημεντο<span lang="el">ς</span> 
+	επισκοπου <span lang="el">Β</span>ουλγαρων, συ<span lang="el">γ</span>γραφεισα 
+	παρα του α<span lang="el">γι</span>ωτατου και αοιδιμου αρχιεπισκοπου τη<span lang="el">ς</span> 
+	πρωτη<span lang="el">ς</span> <span lang="el">Ι</span>ουστινιανη<span lang="el">ς</span> 
+	και παση<span lang="el">ς</span> <span lang="el">Β</span>ουλγαρια<span lang="el">ς</span>, 
+	κυρου <span lang="el">Θ</span>εοφυλακτου, χρηματισαντο<span lang="el">ς</span> 
+	εν <span lang="el">Κ</span>ωνσταντινουπολει μαιστορο<span lang="el">ς</span> 
+	των ρητορων<i> <span lang="en-gb">(</span></i></span><i>1</i></font><i><span lang="en-gb"><font size="2">1)</font></span></i></p>
+	<p><b><a href="gal/9_2_042.html">2. Мъченичество на 15-те тивериуполски мъченици</a></b><span lang="en-gb"> 
+	. . . . . 42</span><b><br>
+	<span lang="en-gb">&nbsp;&nbsp; </span></b><i>
+	<span style="line-height: 115%; font-family: 'Times New Roman',serif">
+	<font size="2">Мъченичество на светите славни 15 свещеномъченици, пострадали в Тивериупол, 
+	именуван на български Струмица, в царуването на злочестия Юлиан отстъпника, 
+	написано от Теофилакт, светейшия архиепископ на цяла България</font></span></i><font size="2"><i><span lang="en-gb">
+	</span><span lang="el">(</span></i><span lang="en-gb"><i>42) </i> &nbsp;</span><span lang="el">//</span><span lang="en-gb">
+	</span><span lang="el">&nbsp;</span><span style="line-height: 115%; font-family: 'Times New Roman',serif">Μαρτυριον των αγιων ενδοξων ιερομαρτυρον ιε&#39; των εν <span lang="el">Τ</span>ιβεριουπο<span lang="el">λ</span>ει 
+	τηι <span lang="el">Β</span>ουλγ<span lang="el">α</span>ρικος επονομαζομηνηι
+	<span lang="el">Σ</span>τρουμμιτζηι μαρτυρησαντων επι τη<span lang="el">ς</span> 
+	βασιλεια<span lang="el">ς</span> του δυσσεβου<span lang="el">ς</span>
+	<span lang="el">Ι</span>ουλιανου του παραβατου συγγραφεν υπο <span lang="el">
+	Θ</span>εοφυλακτου του α<span lang="el">γι</span>ωτατου αρχιεπισκοπου παση<span lang="el">σ</span>
+	<span lang="el">Β</span>ουλγαρια<span lang="el">ς </span><i>
+	<span lang="en-gb">(</span></i></span><i>42</i></font><i><span lang="en-gb"><font size="2">)</font></span></i></p>
+	<p><b><a href="gal/9_2_080.html">3. Писма <span lang="BG">н</span>а <span lang="BG">п</span>реблажения
+	<span lang="BG">г</span>осподин Теофилакт, <span lang="BG">е</span>пископ 
+	Български<span lang="en-gb"> // </span>Επιστολαι του μακαριωτατου επισκοπου <span lang="el">Β</span>ουλγαρια<span lang="el">ς</span> 
+	κυρου <span lang="el">Θ</span>εοφυλακτου</a></b><span lang="en-gb"> . . . . 
+	. 80</span><b><br>
+	</b><i><span lang="en-gb"><font size="2">&nbsp;&nbsp; </font></span>
+	<font size="2">4. До деспина госпожа Мария&nbsp;</font><span lang="en-gb"><font size="2">(81). 
+	5. До Великия доместик (84). 6. (До препозита за мобите) (85). 7. До учителя 
+	на Великата църква господин Никита, [племеник] на серския епископ (87). 8. 
+	От същия до севаст Йоан, шурея на царя (87). 9. До кесаря (88). 10. До сина 
+	на севастократова (90). 11. До господин севаста Йоан, сина на севастократора 
+	(90). 12. До същия (92). 13. До кесаря Мелисин (93). 14. До кипърския 
+	епископ (94). 15. До Диавологир (95). 16. До Тарханиот (96). 17. До господин 
+	Йоан, шурея на царя (97). 18. До Таронитопул, дука на Скопие (98). 19. (До 
+	сина на севастократора) (100). 20. До Тарханиот (100). 21. До пелагонийския 
+	[епископ] (101). 22. До сина на севастократора (102). 23. До същия (103). 
+	24. До същия (104). 25. До Мерментопул (105). 26. До севаста, сина на 
+	севастократора [Йоан Комнин] (106). 27. До Каматиропул (107). 28. До 
+	Смирненски (108). 29. До Мерментул (108). 30. До хартофилакса господин 
+	Никифор (110). 31. До Каматир (111). 32. До Анема (112). 33. До Мерментул 
+	(113). 34. До Анема (114). 35. До навпактския митрополит Хризоверг (115). 
+	36. До пелагонийския епископ (116). 37. До господин Симеон, игумен на 
+	манастира в Анаплус (117). 38. До господин Григорий Каматир (119). 39. До 
+	господин Михаил Пантехни (120). 40. До господин Никита Полит (122). 41. До 
+	Анема (122). 42. До Теофилакт Ромей (123). 43. До същия (124). 44. До 
+	Махитар (125). 45. До патриарха [Николай III Граматик] (126). 46. До Ромей 
+	(129). 47. До Мерментопул (130). 48. До господин Михаил Пантехни (130). 49. 
+	До господин Йоан Сервлиа (131). 50. До Пантехни (132). 51. До хартофилакса 
+	господин Никифор (132). 52. До кипърския епископ (132). 53. До господин 
+	Григорий Каматир (133). 54. До патриарха [Николай III Граматик] (136). 55. 
+	До Пакуриан (138). 56. До семнонския епископ (139). 57. До видинския епископ 
+	(140). 58. До триадишкия епископ (141). 59. До същия от Синода, задето 
+	помолил да бъде освободен от заседанията (145). 60. До същия от архиепископа 
+	(147). 61. ? (151). 62. До господина магистъра Йоан (152). 63. ? (152). 64. 
+	До господин патриарха Николай (153). 65. До господин Григорий, племенник на 
+	Таронит (154). 66. До господин хартофилакса Никифор (155). 67. До господин 
+	Григорий Каматир (156). 68. До господина Григорий Пакуриан, зетя на Великия 
+	друнгарий (158). 69. До Офеомах (159). 70. До дидаскала господин Никита, [племенник 
+	на] серския епископ (159). 71. До Офеомах (160). 72. До солунския митрополит 
+	господин Теодул (161). 73. До кесаря [Никифор Мелисин] (162). 74. До 
+	семнонския епископ (164). 75. До епископа на Керкира (165). 76. До епископа 
+	на Керкира (165). 77. До Мерментул (166). 78. До епископа на Керкира (167). 
+	79. До същия (170). 79. До Великия доместик господин Адриан (172). 80. До 
+	севаста Пакуриан (174). 81. До господин Григорий Таронит (175). 82. До 
+	господин Михаил [племенник] на халкидонския епископ (178). 83. До 
+	хартофилакса господин Никита (180). 84. До своя ученик Никита, дякон, [племенник] 
+	на халкидонския епископ (181). 85. До Великия доместик господин Адриан, брат 
+	на царя [Адриан Комнин] (182). 86. До вриениий, свата на царя (185). 87. До 
+	триадишкия епископ (186). 88. До господин Йоан, писаря на Палеолог (188). 
+	89. До господин Адриан, брат на царя (189). 90. До хартофилакса (190). 91. 
+	До учителя на Великата църква (191). 92. До господин Григорий Таронит (191). 
+	93. До главния лекар господин Николай Каликъл (193). 94. До същия (193). 95. 
+	До началника на философите, Смирненски (194). 96. До паниперсеваста Вриений, 
+	зетя на царя (194). 97. До господин Йоан Перивлептин (199). 98. До господин 
+	Адриан, брат на царя (200). 99. До лекаря на царя, Пантехни (203). 100. До 
+	философа господин Йоан (204). 101. До господин Йоан Перивлептин (205). 102. 
+	До неговия ученик, лекаря господин Михаил Пантехни (206). 103. До поучените 
+	от него българи (206). 104. До господин Йоан Аталиат, протонотарий на 
+	аталийския дука (207). 105. До дирахийския дука Вриений (207). 106. ? (208). 
+	107. До деспината [Мария Аланска], която го посети, когато беше болен (209). 
+	108. До Макремволит, преспанския управител (209). 109. До [препозита] за 
+	молбите (210). 110. До царския лекар господин Никита (210). 111. До господин 
+	Николай Каликъл (211). 112. До същия (212). 113. До кипърския епископ (213). 
+	114. До проедъра и проксима Пантехни (214). 115. ? (214). 116. До същия 
+	(215). 117. До същия (215). 118. До господин севаста Константин Дука (215). 
+	119. До същия (216). 120. До господин агистъра Йоан Пантехни (217). 121. До 
+	кипърския епископ (218). 122. До дебърския епископ (219). 123. До господин 
+	Севаста и верийски дука Константин, син на севастократора (219). 124. До 
+	бившия хартофилакс господин Никифор (220). 125. ? (220). 126. До Палеолог 
+	(220). 127. До протоасикрита господин Григорий Каматир (221). 128. До 
+	проедъра Пантехни (226). 129. До царския лекар господин Михаил Пантехни 
+	(226). 130. До същия (226). 131. До същия (227). 132. До брата на покойния 
+	Псел от архиепископа на България (227). 133. Утешително [писмо, написано] от 
+	архиепископа на България за различни мъки и болести (227). 134. [Част] от 
+	посланието на господин Теофилакт, архиепископа на България до арменеца 
+	Тиваний (228)</font></span></i><font size="2"> <span lang="en-gb">&nbsp;</span>// 
+	</font> <span lang="el"> <font size="2">&nbsp;</font></span><font size="2">4. Τ<font face="Times New Roman">ῇ</font> 
+	δεσποίν<span lang="el">ῃ</span> κυρ<span lang="el"><font face="Times New Roman">ᾷ</font></span> 
+	Μαρί<span lang="el">ᾳ</span></font><span lang="en-gb"><font size="2">. 5. ...</font></span></p>
+	<p><b><a href="gal/9_2_231.html">4. Стихотворение, посветено на Никифор Вриений 
+	<span lang="en-gb">&nbsp;</span><span lang="el">//</span><span lang="en-gb">
+	</span> <span lang="el">&nbsp;</span><span style="font-size: 12.0pt; line-height: 115%; font-family: 'Times New Roman',serif">Του <span lang="el">Θ</span>εοφυλακτου ει<span lang="el">ς</span> τον
+	<span lang="el">Β</span>ρυεννιον αιτησαμενον γραφειν αυτ<span lang="el">σ</span>ι</span></a></b><span lang="el" style="font-size: 12.0pt; line-height: 115%; font-family: 'Times New Roman',serif">
+	</span><span lang="en-gb">. . . . . </span>231</p>
+	<p><a href="gal/9_2_233.html"><b>5. Обяснение на писмото на апостол <span lang="BG">П</span>авел до 
+	римляните от<span lang="BG"> Т</span>еофилакт, архиепископ български 
+	<span lang="en-gb">&nbsp;</span>//<span lang="en-gb"> </span>&nbsp;<span style="font-size: 12.0pt; line-height: 115%; font-family: 'Times New Roman',serif">Θεοφυλακτου αρχιεπισκοπου </span>
+	<span style="font-size: 12.0pt; line-height: 115%; font-family: 'Palatino Linotype',serif">
+	Β</span><span style="font-size: 12.0pt; line-height: 115%; font-family: 'Times New Roman',serif">ουλγαρια<span lang="el">ς</span> 
+	τη<span lang="el">ς</span> του αγιου <span lang="el">Π</span>αυλου προ<span lang="el">ς</span>
+	</span><font face="Palatino Linotype">
+	<span style="font-size: 12.0pt; line-height: 115%">Ρ</span></font></b><b><span style="font-size: 12.0pt; line-height: 115%; font-family: 'Times New Roman',serif">ωμαιο<span lang="el">υς</span> 
+	επιστολη<span lang="el">ς</span> εξηγησι<span lang="el">ς</span></span></b></a><span lang="en-gb" style="font-size: 12.0pt; line-height: 115%; font-family: 'Times New Roman',serif">
+	</span><span lang="en-gb">. . . . . </span>233<b><br>
+	&nbsp;</b></p>
+	<p><span lang="en-gb">&nbsp;&nbsp; </span><a href="gal/9_2_235.html">Показалец на имената в текста на 
+	изворите</a> <span lang="en-gb">. . . . . </span>235<b><br>
+	</b><span lang="en-gb">&nbsp;&nbsp; </span><a href="gal/9_2_239.html">Списък на съкращенията</a>
+	<span lang="en-gb">. . . . . </span>239<b><br>
+	</b><span lang="en-gb">&nbsp;&nbsp; </span><a href="gal/9_2_240.html">Съдържание</a>
+	<span lang="en-gb">. . . . . </span>240<b><br>
+	&nbsp;</b></p>
+</blockquote>
+<p><font face="Times New Roman"><span lang="en-gb">[<a href="../../index.html">Back to Main Page</a>]</span></font></p>
+
+</body>
+
+</html>

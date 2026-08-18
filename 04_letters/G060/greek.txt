@@ -1,0 +1,10 @@
+﻿G060 Greek Working Text
+
+Paste or transcribe the Greek here with line references.
+
+Source status:
+- [ ] OCR only
+- [ ] Checked against PG image
+- [ ] Checked against Gautier
+- [ ] Textual problems recorded in notes.md
+
