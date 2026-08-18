@@ -1,0 +1,17 @@
+# G106 Source Identification And Audit
+
+- Clause-by-clause Greek audit status: not_started
+- First-pass status: translated_from_pg_ocr_merged_packet_needs_gautier_collation
+- Source packet used in first pass: PG068
+- PG marker / packet size: 241 / 2524 chars
+- GIBI page: 208
+- Confidence category: C
+- Current exception status: yes
+
+## Evidence Notes
+
+No special evidence note recorded at initialization.
+
+## Direct Greek Audit Notes
+
+- Pending.
