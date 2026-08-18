@@ -1,7 +1,7 @@
 # G122 Translation V2
 
-Second-pass status: targeted_second_pass_checked_no_material_change_needs_gautier_collation
-Confidence category: C
+Second-pass status: gautier_collated_short_letter_checked
+Confidence category: A
 
 ## Corpus Identity
 
@@ -9,10 +9,11 @@ Confidence category: C
 - Recipient: the bishop of Deabolis/Debar
 - Old numbering: Meursius LXVIII
 - Conventional title / incipit: До дебърския епископ
-- Gautier page range: [not yet verified]
+- Gautier page range: Gautier II, letter 122; local PDF text pages 280-281
+- Gautier source packet: 02_sources/gautier/letter_packets/G122_gautier.txt
 - PG / source location: PG085 (PG marker 251)
-- Source condition: pg_ocr_not_collated
-- Identification confidence: medium
+- Source condition: gautier_collated_complete
+- Identification confidence: high
 - Original first-pass file: 04_letters/G122/translation.md
 
 ## Revised English Translation
@@ -25,17 +26,17 @@ You too seek this very thing for us from him. Add also the request that you retu
 
 ## Consequential Changes From First Pass
 
-- Checked against `02_sources/pg126/letter_extractions/PG085.txt`; no material semantic correction made.
+- Checked against Gautier II, letter 122; no material semantic correction made.
+- Corrected the see to Debre, a suffragan of Achrida, rather than leaving the Deabolis/Debar doublet unresolved.
 
 ## Source And Revision Notes
 
-- This is another short bereavement letter after the death of Theophylact's brother.
+- This is another short bereavement letter after the death of Theophylact's brother Demetrios.
 - The final request urges the bishop to return to his see.
-- The Greek heading in the local PG extraction reads as the bishop of Debre/Deabolis; retain the normalized doublet until Gautier is checked.
 
 ## Unresolved Issues
 
-- [ ] Confirm whether Gautier prints Deabolis or Debar for the see.
+- None material for the translated text.
 
 ## Audit Trail
 

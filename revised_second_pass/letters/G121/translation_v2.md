@@ -1,18 +1,19 @@
 # G121 Translation V2
 
-Second-pass status: targeted_second_pass_checked_localized_ocr_uncertainty
-Confidence category: C
+Second-pass status: gautier_collated_short_letter_checked
+Confidence category: A
 
 ## Corpus Identity
 
 - Gautier ID: G121
 - Recipient: the bishop of Kitros
 - Old numbering: Meursius LXVI
-- Conventional title / incipit: До кипърския епископ
-- Gautier page range: [not yet verified]
+- Conventional title / incipit: To the bishop of Kitros
+- Gautier page range: Gautier II, letter 121; local PDF text pages 279-279
+- Gautier source packet: 02_sources/gautier/letter_packets/G121_gautier.txt
 - PG / source location: PG083 (PG marker 250)
-- Source condition: pg_ocr_not_collated
-- Identification confidence: medium
+- Source condition: gautier_collated_complete
+- Identification confidence: high
 - Original first-pass file: 04_letters/G121/translation.md
 
 ## Revised English Translation
@@ -25,8 +26,8 @@ Let the greater part of that help, then, be your prayers, honored sir, given alw
 
 ## Consequential Changes From First Pass
 
-- Checked against `02_sources/pg126/letter_extractions/PG083.txt`; no material semantic correction made.
-- Retained a literal rendering of the body/stream metaphor near the end because the OCR is awkward and needs Gautier collation.
+- Checked against Gautier II, letter 121; no material semantic correction made.
+- Retained a literal rendering of the bodily "flow" language near the end because the Greek is deliberately physical.
 
 ## Source And Revision Notes
 
@@ -36,9 +37,10 @@ Let the greater part of that help, then, be your prayers, honored sir, given alw
 
 ## Unresolved Issues
 
-- [ ] Collate the damaged page break around the closing.
+- None material for the translation.
 
 ## Audit Trail
 
 - 2026-08-18: Second-pass layer initialized. Original first-pass translation preserved unchanged.
 - 2026-08-18: Short-letter check against PG083; no substantive English change made; closing metaphor flagged.
+- 2026-08-18: Gautier collation cleared the addressee and closing-page uncertainty.

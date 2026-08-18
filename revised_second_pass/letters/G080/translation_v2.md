@@ -1,7 +1,7 @@
 # G080 Translation V2
 
-Second-pass status: baseline_first_pass_copied_pending_clause_audit
-Confidence category: C
+Second-pass status: gautier_collated_clause_checked_complete
+Confidence category: A
 
 ## Corpus Identity
 
@@ -9,10 +9,11 @@ Confidence category: C
 - Recipient: Gregory Pakourianos
 - Old numbering: Meursius XXV
 - Conventional title / incipit: До севаста Пакуриан
-- Gautier page range: [not yet verified]
+- Gautier page range: Gautier II, letter 80; local PDF text pages 211-212
+- Gautier source packet: 02_sources/gautier/letter_packets/G080_gautier.txt
 - PG / source location: PG045 (PG marker 212)
-- Source condition: pg_ocr_not_collated
-- Identification confidence: medium
+- Source condition: gautier_collated_complete
+- Identification confidence: high
 - Original first-pass file: 04_letters/G080/translation.md
 
 ## Revised English Translation
@@ -25,17 +26,17 @@ Still, because the savagery of the many rages against their own kind, the better
 
 ## Consequential Changes From First Pass
 
-- No substantive translation change yet; first-pass English preserved pending direct clause audit.
+- Checked the self-condemnation, nature/law/gospel argument, and Galatians/Ephesians allusions against Gautier.
 
 ## Source And Revision Notes
 
-- The letter plays on Matthew 23:24 and Matthew 7:3-5.
-- The final phrase is broken in the OCR but the sense continues Theophylact's standard closing wish.
+- Checked against Gautier II, letter 80.
 
 ## Unresolved Issues
 
-- [ ] Verify the closing formula in Gautier.
+- None material for the translation.
 
 ## Audit Trail
 
 - 2026-08-18: Second-pass layer initialized. Original first-pass translation preserved unchanged.
+- 2026-08-18: Extended Gautier clause audit completed; confidence set to A.

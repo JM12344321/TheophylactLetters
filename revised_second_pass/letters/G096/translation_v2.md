@@ -1,6 +1,6 @@
 # G096 Translation V2
 
-Second-pass status: targeted_second_pass_checked_fiscal_terms_need_gautier_collation
+Second-pass status: targeted_second_pass_checked_fiscal_terms_need_full_clause_audit
 Confidence category: C
 
 ## Corpus Identity
@@ -9,10 +9,11 @@ Confidence category: C
 - Recipient: Bryennios, panhypersebastos and son-in-law of the emperor
 - Old numbering: Meursius XLI
 - Conventional title / incipit: До паниперсеваста Вриений, зетя на царя
-- Gautier page range: [not yet verified]
+- Gautier page range: Gautier II, letter 96; local PDF text pages 241-246
+- Gautier source packet: 02_sources/gautier/letter_packets/G096_gautier.txt
 - PG / source location: PG060 (PG marker 228)
-- Source condition: pg_ocr_not_collated
-- Identification confidence: medium
+- Source condition: gautier_packet_available_pending_full_clause_audit
+- Identification confidence: high
 - Original first-pass file: 04_letters/G096/translation.md
 
 ## Revised English Translation
@@ -55,20 +56,20 @@ For all these things I ask, as I said, that a place for defense be kept for me t
 
 ## Consequential Changes From First Pass
 
-- Checked against `02_sources/pg126/letter_extractions/PG060.txt`; no material semantic correction made in the passages sampled.
+- Checked against the earlier PG060 OCR and packeted with Gautier; no full Gautier clause audit has yet been completed.
 - Fiscal and measurement vocabulary was preserved conservatively rather than normalized into modern equivalents.
 
 ## Source And Revision Notes
 
-- The letter is one of the fullest fiscal complaints in this section: Lazaros, paroikoi, clerical exemptions, mills, fish channels, and land measurement all require Gautier collation.
+- The letter is one of the fullest fiscal complaints in this section: Lazaros, paroikoi, clerical exemptions, mills, fish channels, and land measurement all require a full Gautier clause audit.
 - The "Hippocleides does not care" phrase is a classical proverb.
 - The PG extraction has visible OCR damage in fiscal sections; the local English should not be treated as critically collated.
 
 ## Unresolved Issues
 
-- [ ] Collate all fiscal terms and units: paroikos, zeugarion, strougai, modioi, diobol, and the "thirteen units."
+- [ ] Complete a full clause audit of all fiscal terms and units: paroikos, zeugarion, strougai, modioi, diobol, and the "thirteen units."
 
 ## Audit Trail
 
 - 2026-08-18: Second-pass layer initialized. Original first-pass translation preserved unchanged.
-- 2026-08-18: Targeted Greek audit against PG060; fiscal terminology flagged for Gautier collation.
+- 2026-08-18: Targeted Greek audit against PG060; fiscal terminology flagged for full Gautier clause audit.

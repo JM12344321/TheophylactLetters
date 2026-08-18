@@ -1,7 +1,7 @@
 # G007 Translation V2
 
-Second-pass status: baseline_first_pass_copied_pending_clause_audit
-Confidence category: C
+Second-pass status: gautier_collated_short_letter_checked
+Confidence category: A
 
 ## Corpus Identity
 
@@ -9,10 +9,11 @@ Confidence category: C
 - Recipient: Niketas, teacher of the Great Church, connected with Serres
 - Old numbering: Lami-Finetti III
 - Conventional title / incipit: До учителя на Великата църква господин Никита, [племеник] на серския епископ
-- Gautier page range: [not yet verified]
+- Gautier page range: Gautier II, letter 7; local PDF text pages 075-075
+- Gautier source packet: 02_sources/gautier/letter_packets/G007_gautier.txt
 - PG / source location: PG095 (PG marker 262)
-- Source condition: pg_ocr_not_collated
-- Identification confidence: medium
+- Source condition: gautier_collated_complete
+- Identification confidence: high
 - Original first-pass file: 04_letters/G007/translation.md
 
 ## Revised English Translation
@@ -25,16 +26,16 @@ However you come to know the circumstances in which I am placed, make every effo
 
 ## Consequential Changes From First Pass
 
-- No substantive translation change yet; first-pass English preserved pending direct clause audit.
+- Checked the whole short companion letter against Gautier; no material semantic correction required.
 
 ## Source And Revision Notes
 
-- The "stage of tragedies" is Theophylact's own theatrical metaphor for his sufferings.
-- The letter points readers to two companion letters: one to the Grand Domestic and one to the official in charge of petitions.
+- Gautier confirms that this letter points to G005 and G006 as companion accounts of Theophylact's troubles.
+- The addressee is Niketas, didaskalos of the Great Church and nephew of the metropolitan of Serres.
 
 ## Unresolved Issues
 
-- [ ] Direct clause-by-clause audit against Greek still required.
+- None material for the translated text.
 
 ## Audit Trail
 

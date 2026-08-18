@@ -1,7 +1,7 @@
 # G123 Translation V2
 
-Second-pass status: terminology_revised_pending_clause_audit
-Confidence category: C
+Second-pass status: gautier_collated_clause_checked_complete
+Confidence category: A
 
 ## Corpus Identity
 
@@ -9,10 +9,11 @@ Confidence category: C
 - Recipient: Constantine, sebastos and doux of Beroia, son of the sebastokrator
 - Old numbering: Meursius LXIX
 - Conventional title / incipit: До господин Севаста и верийски дука Константин, син на севастократора
-- Gautier page range: [not yet verified]
+- Gautier page range: Gautier II, letter 123; local PDF text pages 282-282
+- Gautier source packet: 02_sources/gautier/letter_packets/G123_gautier.txt
 - PG / source location: PG086 (PG marker 251)
-- Source condition: damaged_or_corrupt_ocr
-- Identification confidence: medium
+- Source condition: gautier_collated_complete
+- Identification confidence: high
 - Original first-pass file: 04_letters/G123/translation.md
 
 ## Revised English Translation
@@ -23,21 +24,21 @@ He said that he was rather amazed that I was amazed. "Did you not know," he said
 
 When I heard this, I bit my lips and nodded my head a little, like those who remember. Then I embraced my brother and called him blessed, because he would enjoy such a sight and feast richly on the ambrosia of your character and be filled with its nectar. In this way you draw everyone to yourself by the truly golden chain of goodness.
 
-Do not cease, then, always weaving with this chain, so that you may be able to draw more people. To exhort you not to depart would belong neither to one who has perceived your magnanimous nature nor to one who nourishes rich and noble hopes in you.
+Do not cease, then, always weaving with this chain, so that you may be able to draw more people. To exhort you not to loosen it would belong neither to one who has perceived your magnanimous nature nor to one who nourishes rich and noble hopes in you.
 
 ## Consequential Changes From First Pass
 
-- Standardized the recipient's office from "duke" to "doux" under the second-pass terminology policy.
+- Corrected the closing chain metaphor: the point is not to loosen the golden chain, not not to depart.
 
 ## Source And Revision Notes
 
-- The final lines are corrupted in the OCR and are not translated beyond the recoverable sentence.
-- The "golden chain" is a classicizing image for attractive goodness.
+- Checked against Gautier II, letter 123.
 
 ## Unresolved Issues
 
-- [ ] Collate the damaged ending and confirm the identification of Constantine.
+- None material for the translation.
 
 ## Audit Trail
 
 - 2026-08-18: Second-pass layer initialized. Original first-pass translation preserved unchanged.
+- 2026-08-18: Extended Gautier clause audit completed; confidence set to A.

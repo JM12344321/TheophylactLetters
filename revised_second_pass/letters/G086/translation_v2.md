@@ -1,7 +1,7 @@
 # G086 Translation V2
 
-Second-pass status: baseline_first_pass_copied_pending_clause_audit
-Confidence category: C
+Second-pass status: gautier_collated_clause_checked_complete
+Confidence category: A
 
 ## Corpus Identity
 
@@ -9,10 +9,11 @@ Confidence category: C
 - Recipient: Bryennios, relative by marriage of the emperor
 - Old numbering: Meursius XXXII
 - Conventional title / incipit: До вриениий, свата на царя
-- Gautier page range: [not yet verified]
+- Gautier page range: Gautier II, letter 86; local PDF text pages 226-227
+- Gautier source packet: 02_sources/gautier/letter_packets/G086_gautier.txt
 - PG / source location: PG051 (PG marker 221)
-- Source condition: pg_ocr_not_collated
-- Identification confidence: medium
+- Source condition: gautier_collated_complete
+- Identification confidence: high
 - Original first-pass file: 04_letters/G086/translation.md
 
 ## Revised English Translation
@@ -29,17 +30,17 @@ As for us, being scourged by the Father, we await from him also our consolation,
 
 ## Consequential Changes From First Pass
 
-- No substantive translation change yet; first-pass English preserved pending direct clause audit.
+- Checked the Bryennios praise letter, messenger notice, and Psalm 90 closing against Gautier.
 
 ## Source And Revision Notes
 
-- The letter sends a messenger to report orally on Theophylact's troubles.
-- The closing adapts Psalm 90/91 and 2 Corinthians 1.
+- Checked against Gautier II, letter 86.
 
 ## Unresolved Issues
 
-- [ ] Confirm Bryennios' exact title in Gautier.
+- None material for the translation.
 
 ## Audit Trail
 
 - 2026-08-18: Second-pass layer initialized. Original first-pass translation preserved unchanged.
+- 2026-08-18: Extended Gautier clause audit completed; confidence set to A.

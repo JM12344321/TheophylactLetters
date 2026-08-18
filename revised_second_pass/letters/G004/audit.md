@@ -1,18 +1,30 @@
 # G004 Source Identification And Audit
 
-- Clause-by-clause Greek audit status: targeted_completed_against_pg_ocr
-- First-pass status: translated_from_pg_ocr_needs_gautier_collation
-- Source packet used in first pass: PG093
-- PG marker / packet size: 258 / 4812 chars
-- GIBI page: 81
-- Confidence category: C
-- Current exception status: yes
+- Recipient: the Lady Maria
+- Clause-by-clause Greek audit status: completed_against_gautier_packet_with_localized_uncertainty
+- Second-pass status: gautier_collated_targeted_lexical_revision
+- Gautier source packet: 02_sources/gautier/letter_packets/G004_gautier.txt
+- Gautier page range: Gautier II, letter 4; local PDF text pages 068-070
+- PG / earlier source location: PG093 (PG marker 258)
+- Source condition: gautier_collated_complete_targeted_sections
+- Identification confidence: high
+- Confidence category: B
+- Current exception status: no
+- Original first-pass file: 04_letters/G004/translation.md
 
 ## Evidence Notes
 
-Targeted audit completed against `02_sources/pg126/letter_extractions/PG093.txt`. The passage about the north wind was checked directly: the OCR has a storm/squall term (`λαίλαψ` context), so the first-pass "bright wind" had no defensible Greek basis.
+- Gautier's text confirms the nautical passage and the closing blessing as substantially complete; the lexical issue is limited to the force of the wind adjective in context.
+- The "Bulgarians" passage is intentionally sharp and comic. I have preserved its unpleasant force rather than smoothing it into neutral complaint.
 
 ## Direct Greek Audit Notes
 
-- Corrected the nautical passage: "that bright wind" -> "that squall."
-- Remaining unresolved issue: several OCR-damaged words in the nautical and closing blessing sections still require Gautier or PG image collation.
+- Corrected the meteorological phrase governed by Gautier's Greek adjective for a strong/bright wind: not literal "bright," but a brisk and violent wind in context; the previous v2 note overidentified the word as a storm noun.
+
+## Unresolved Issues
+
+- [ ] Final expert audit may revisit the rendering of the wind adjective in context; no larger lacuna is visible in Gautier.
+
+## Audit Trail
+
+- 2026-08-18: Regenerated from current translation_v2 metadata after Gautier packet collation.

@@ -1,6 +1,6 @@
 # G058 Translation V2
 
-Second-pass status: targeted_second_pass_checked_truncated_needs_gautier_collation
+Second-pass status: targeted_second_pass_checked_truncated_needs_full_clause_audit
 Confidence category: C
 
 ## Corpus Identity
@@ -9,10 +9,11 @@ Confidence category: C
 - Recipient: the bishop of Triaditza
 - Old numbering: Finetti XVII
 - Conventional title / incipit: До триадишкия епископ
-- Gautier page range: [not yet verified]
+- Gautier page range: Gautier II, letter 58; local PDF text pages 163-167
+- Gautier source packet: 02_sources/gautier/letter_packets/G058_gautier.txt
 - PG / source location: PG019 (PG marker 176)
 - Source condition: truncated_ocr
-- Identification confidence: medium
+- Identification confidence: high
 - Original first-pass file: 04_letters/G058/translation.md
 
 ## Revised English Translation

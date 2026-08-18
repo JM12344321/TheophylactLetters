@@ -1,6 +1,6 @@
 # G075 Translation V2
 
-Second-pass status: baseline_first_pass_copied_pending_clause_audit
+Second-pass status: baseline_first_pass_gautier_packeted_pending_full_clause_audit
 Confidence category: C
 
 ## Corpus Identity
@@ -9,10 +9,11 @@ Confidence category: C
 - Recipient: Nicholas, bishop of Kerkyra
 - Old numbering: Meursius XVII
 - Conventional title / incipit: До епископа на Керкира
-- Gautier page range: [not yet verified]
+- Gautier page range: Gautier II, letter 75; local PDF text pages 199-200
+- Gautier source packet: 02_sources/gautier/letter_packets/G075_gautier.txt
 - PG / source location: PG038 (PG marker 201)
-- Source condition: pg_ocr_not_collated
-- Identification confidence: medium
+- Source condition: gautier_packet_available_pending_full_clause_audit
+- Identification confidence: high
 - Original first-pass file: 04_letters/G075/translation.md
 
 ## Revised English Translation

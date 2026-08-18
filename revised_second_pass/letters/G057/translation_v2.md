@@ -1,6 +1,6 @@
 # G057 Translation V2
 
-Second-pass status: baseline_first_pass_copied_pending_clause_audit
+Second-pass status: baseline_first_pass_gautier_packeted_pending_full_clause_audit
 Confidence category: C
 
 ## Corpus Identity
@@ -9,10 +9,11 @@ Confidence category: C
 - Recipient: the bishop of Vidin
 - Old numbering: Finetti XVI
 - Conventional title / incipit: До видинския епископ
-- Gautier page range: [not yet verified]
+- Gautier page range: Gautier II, letter 57; local PDF text pages 161-162
+- Gautier source packet: 02_sources/gautier/letter_packets/G057_gautier.txt
 - PG / source location: PG018 (PG marker 175)
 - Source condition: truncated_ocr
-- Identification confidence: medium
+- Identification confidence: high
 - Original first-pass file: 04_letters/G057/translation.md
 
 ## Revised English Translation

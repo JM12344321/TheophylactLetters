@@ -1,7 +1,7 @@
 # G033 Translation V2
 
-Second-pass status: baseline_first_pass_copied_pending_clause_audit
-Confidence category: C
+Second-pass status: gautier_collated_clause_checked_complete
+Confidence category: A
 
 ## Corpus Identity
 
@@ -9,10 +9,11 @@ Confidence category: C
 - Recipient: Mermentoulos
 - Old numbering: Lami-Finetti XXV
 - Conventional title / incipit: До Мерментул
-- Gautier page range: [not yet verified]
+- Gautier page range: Gautier II, letter 33; local PDF text pages 120-120
+- Gautier source packet: 02_sources/gautier/letter_packets/G033_gautier.txt
 - PG / source location: PG117 (PG marker 278)
-- Source condition: pg_ocr_not_collated
-- Identification confidence: medium
+- Source condition: gautier_collated_complete
+- Identification confidence: high
 - Original first-pass file: 04_letters/G033/translation.md
 
 ## Revised English Translation
@@ -21,23 +22,24 @@ Perhaps, wisest above all men, you saw that my letters smiled pleasantly at you 
 
 If the priests of the present time must undergo some difficult experience, and if a man who is swimming must inevitably be wetted, why do you deprive him of the consolation that comes from letters? It is as though you were taking medicines away from the sick man, or helpers from the man being fought down.
 
-You know, then, that for me the case is completed from both premises: one must write, however things stand. If we are fortunate, write in song; if unfortunate, write as one who applies healing plaster to the fall. For the golden wand of your speech can do this: with it you charm men's eyes and awaken those who are drowsing.
+You know, then, that for me the case is completed from both premises: one must write, however things stand. If we are fortunate, write to sing along; if unfortunate, write to charm our grief away with song. For the golden wand of your speech can do this: with it you charm men's eyes and awaken those who are drowsing.
 
 I would pray, therefore, to obtain letters from you of many lines, for then I would possess the very acropolis of graces. Since you, great as you are, do not find leisure for such things, strike only one note, and I shall have the whole song.
 
 ## Consequential Changes From First Pass
 
-- No substantive translation change yet; first-pass English preserved pending direct clause audit.
+- Corrected the healing-plaster paraphrase to the musical/incantatory contrast required by the Greek.
 
 ## Source And Revision Notes
 
-- This is a playful demand for letters: Theophylact treats correspondence itself as medicine, springtime, music, and grace.
-- The OCR is uncertain in one phrase about "song" versus "healing plaster"; the translation preserves the contrast between prosperity and distress.
+- Checked against Gautier II, letter 33.
+- The golden-wand passage alludes to Iliad 24.
 
 ## Unresolved Issues
 
-- [ ] Direct clause-by-clause audit against Greek still required.
+- None material for the translation.
 
 ## Audit Trail
 
 - 2026-08-18: Second-pass layer initialized. Original first-pass translation preserved unchanged.
+- 2026-08-18: Extended Gautier clause audit completed; confidence set to A.

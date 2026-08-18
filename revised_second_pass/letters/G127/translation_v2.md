@@ -1,6 +1,6 @@
 # G127 Translation V2
 
-Second-pass status: baseline_first_pass_copied_pending_clause_audit
+Second-pass status: baseline_first_pass_gautier_packeted_pending_full_clause_audit
 Confidence category: C
 
 ## Corpus Identity
@@ -9,10 +9,11 @@ Confidence category: C
 - Recipient: Gregory Kamateros, protasekretis
 - Old numbering: Meursius LXXI
 - Conventional title / incipit: До протоасикрита господин Григорий Каматир
-- Gautier page range: [not yet verified]
+- Gautier page range: Gautier II, letter 127; local PDF text pages 286-290
+- Gautier source packet: 02_sources/gautier/letter_packets/G127_gautier.txt
 - PG / source location: PG088 (PG marker 252)
-- Source condition: merged_or_continuation_packet
-- Identification confidence: medium
+- Source condition: gautier_packet_available_boundary_sensitive_pending_full_clause_audit
+- Identification confidence: high
 - Original first-pass file: 04_letters/G127/translation.md
 
 ## Revised English Translation

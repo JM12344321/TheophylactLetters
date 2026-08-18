@@ -1,7 +1,7 @@
 # G105 Translation V2
 
-Second-pass status: terminology_revised_pending_clause_audit
-Confidence category: C
+Second-pass status: gautier_collated_clause_checked_complete
+Confidence category: A
 
 ## Corpus Identity
 
@@ -9,10 +9,11 @@ Confidence category: C
 - Recipient: Bryennios, doux of Dyrrachium
 - Old numbering: Meursius L
 - Conventional title / incipit: До дирахийския дука Вриений
-- Gautier page range: [not yet verified]
+- Gautier page range: Gautier II, letter 105; local PDF text pages 260-260
+- Gautier source packet: 02_sources/gautier/letter_packets/G105_gautier.txt
 - PG / source location: PG068 (PG marker 241)
-- Source condition: merged_or_continuation_packet
-- Identification confidence: medium
+- Source condition: gautier_collated_complete
+- Identification confidence: high
 - Original first-pass file: 04_letters/G105/translation.md
 
 ## Revised English Translation
@@ -27,17 +28,17 @@ Be and appear wholly cheerful and a giver of every good, not least to the liturg
 
 ## Consequential Changes From First Pass
 
-- Standardized the recipient's office from "duke" to "doux" under the second-pass terminology policy.
+- Checked the symbolic fish gift to Bryennios against Gautier and retained the Logos/Leviathan/salt structure.
 
 ## Source And Revision Notes
 
-- The fish gift is allegorized through Christian symbolism: Leviathan, salt, the number ten, and sowing/reaping.
-- "Mother of the Word" refers to the Theotokos or to a church dedicated to her; the local reference needs collation.
+- Checked against Gautier II, letter 105.
 
 ## Unresolved Issues
 
-- [ ] Confirm the context of the fish offering in Gautier.
+- None material for the translation.
 
 ## Audit Trail
 
 - 2026-08-18: Second-pass layer initialized. Original first-pass translation preserved unchanged.
+- 2026-08-18: Extended Gautier clause audit completed; confidence set to A.

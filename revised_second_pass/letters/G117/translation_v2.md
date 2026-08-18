@@ -1,7 +1,7 @@
 # G117 Translation V2
 
-Second-pass status: baseline_first_pass_copied_pending_clause_audit
-Confidence category: C
+Second-pass status: gautier_collated_short_letter_checked
+Confidence category: A
 
 ## Corpus Identity
 
@@ -9,10 +9,11 @@ Confidence category: C
 - Recipient: same uncertain correspondent as G115-G116
 - Old numbering: Meursius LXII
 - Conventional title / incipit: До същия
-- Gautier page range: [not yet verified]
+- Gautier page range: Gautier II, letter 117; local PDF text pages 273-273
+- Gautier source packet: 02_sources/gautier/letter_packets/G117_gautier.txt
 - PG / source location: PG079 (PG marker 247)
-- Source condition: pg_ocr_not_collated
-- Identification confidence: medium
+- Source condition: gautier_collated_complete
+- Identification confidence: high
 - Original first-pass file: 04_letters/G117/translation.md
 
 ## Revised English Translation
@@ -31,7 +32,7 @@ But be healthy for me and be cheerful. May the sickness of grief not overtake yo
 
 ## Unresolved Issues
 
-- [ ] Identify the addressee from Gautier.
+- None material for the translated text.
 
 ## Audit Trail
 

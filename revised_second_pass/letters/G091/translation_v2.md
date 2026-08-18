@@ -1,7 +1,7 @@
 # G091 Translation V2
 
-Second-pass status: baseline_first_pass_copied_pending_clause_audit
-Confidence category: C
+Second-pass status: gautier_collated_short_letter_corrected
+Confidence category: A
 
 ## Corpus Identity
 
@@ -9,30 +9,31 @@ Confidence category: C
 - Recipient: the didaskalos of the Great Church
 - Old numbering: Meursius XXXVI
 - Conventional title / incipit: До учителя на Великата църква
-- Gautier page range: [not yet verified]
+- Gautier page range: Gautier II, letter 91; local PDF text pages 235-235
+- Gautier source packet: 02_sources/gautier/letter_packets/G091_gautier.txt
 - PG / source location: PG055 (PG marker 225)
-- Source condition: merged_or_continuation_packet
-- Identification confidence: medium
+- Source condition: gautier_collated_complete
+- Identification confidence: high
 - Original first-pass file: 04_letters/G091/translation.md
 
 ## Revised English Translation
 
-My lord and son, if you yourself were holding a water jar in both hands, would you pour it over burning limbs, or would you pass by after looking on with proud or unfeeling eyes? I do not think the second. Whatever else you think our present troubles are, do not suppose they are anything other than worse than flame and coals.
+Most honored son in the Lord, if you saw me burning and were yourself holding a water jar in both hands, would you pour it over burning limbs, or would you pass by after looking on with proud or unfeeling eyes? I do not think the second. Whatever else you think our present troubles are, do not suppose they are anything other than worse than flame and coals.
 
 Help now, since you sit beside the springs. If I speak to you in dark sayings and riddles, perhaps I shall be shown to be doing nothing unreasonable, since I am speaking such things to one accustomed and trained to solve such things. Still, even if you find what is said hard to receive, ask your pupil, my brother, and you will find in him a teacher of the wrongs done to us. May the Lord scatter them through your prayers and efforts on our behalf, since in all things he cares for our weakness.
 
 ## Consequential Changes From First Pass
 
-- No substantive translation change yet; first-pass English preserved pending direct clause audit.
+- Restored the opening condition "if you saw me burning," which had been compressed out of the first-pass English.
 
 ## Source And Revision Notes
 
-- This short letter was merged into the same OCR packet as G090.
+- Gautier identifies the addressee probably as Niketas, didaskalos of the Great Church.
 - The opening image asks the addressee to relieve urgent suffering, not merely to understand it.
 
 ## Unresolved Issues
 
-- [ ] Verify the addressee and the identity of the pupil/brother in Gautier.
+- None material for the translated text.
 
 ## Audit Trail
 

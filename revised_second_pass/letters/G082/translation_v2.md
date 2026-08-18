@@ -1,6 +1,6 @@
 # G082 Translation V2
 
-Second-pass status: targeted_second_pass_checked_juridical_terms_need_gautier_collation
+Second-pass status: targeted_second_pass_checked_juridical_terms_need_full_clause_audit
 Confidence category: C
 
 ## Corpus Identity
@@ -9,10 +9,11 @@ Confidence category: C
 - Recipient: Michael of Chalcedon
 - Old numbering: Meursius XXVII
 - Conventional title / incipit: До господин Михаил [племенник] на халкидонския епископ
-- Gautier page range: [not yet verified]
+- Gautier page range: Gautier II, letter 82; local PDF text pages 217-218
+- Gautier source packet: 02_sources/gautier/letter_packets/G082_gautier.txt
 - PG / source location: PG047 (PG marker 215)
-- Source condition: pg_ocr_not_collated
-- Identification confidence: medium
+- Source condition: gautier_packet_available_pending_full_clause_audit
+- Identification confidence: high
 - Original first-pass file: 04_letters/G082/translation.md
 
 ## Revised English Translation
@@ -33,16 +34,16 @@ Nevertheless, pray for us to have the more undisturbed and peaceful path. We hav
 
 ## Consequential Changes From First Pass
 
-- Checked against PG047 OCR; no material semantic correction made.
+- Checked against the earlier PG047 OCR and packeted with Gautier; no full Gautier clause audit has yet been completed.
 
 ## Source And Revision Notes
 
 - The key issue is jurisdiction: a claimed patriarchal stauropegion inside the autocephalous Bulgarian archbishopric.
-- "Kittaba" is left transliterated from the OCR; the place-name needs Gautier's spelling.
+- "Kittaba" is left transliterated provisionally; the place-name and juridical terminology need direct review against Gautier's text and apparatus.
 
 ## Unresolved Issues
 
-- [ ] Collate the juridical terminology, especially stauropegion and exarch, against Gautier.
+- [ ] Complete a full clause audit of the juridical terminology, especially stauropegion, exarch, and the place-name printed in Gautier.
 
 ## Audit Trail
 

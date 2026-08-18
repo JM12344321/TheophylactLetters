@@ -1,7 +1,7 @@
 # G101 Translation V2
 
-Second-pass status: baseline_first_pass_copied_pending_clause_audit
-Confidence category: C
+Second-pass status: gautier_collated_short_letter_checked
+Confidence category: A
 
 ## Corpus Identity
 
@@ -9,10 +9,11 @@ Confidence category: C
 - Recipient: John Peribleptenos
 - Old numbering: Meursius XLVI
 - Conventional title / incipit: До господин Йоан Перивлептин
-- Gautier page range: [not yet verified]
+- Gautier page range: Gautier II, letter 101; local PDF text pages 256-256
+- Gautier source packet: 02_sources/gautier/letter_packets/G101_gautier.txt
 - PG / source location: PG065 (PG marker 239)
-- Source condition: pg_ocr_not_collated
-- Identification confidence: medium
+- Source condition: gautier_collated_complete
+- Identification confidence: high
 - Original first-pass file: 04_letters/G101/translation.md
 
 ## Revised English Translation
@@ -23,15 +24,16 @@ Only the power that drives out demons must therefore be invoked against one in s
 
 ## Consequential Changes From First Pass
 
-- No substantive translation change yet; first-pass English preserved pending direct clause audit.
+- Checked the whole short letter against Gautier; no material semantic correction required.
 
 ## Source And Revision Notes
 
 - The letter uses the Gospel story of Legion and the swine to describe an uncorrected opponent.
+- Gautier's note suggests the opponent is probably a praktor such as Iasites, or possibly Lazaros.
 
 ## Unresolved Issues
 
-- [ ] Identify the opponent from Gautier's notes if possible.
+- None material for the translated text.
 
 ## Audit Trail
 

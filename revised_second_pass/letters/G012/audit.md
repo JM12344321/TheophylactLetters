@@ -1,18 +1,30 @@
 # G012 Source Identification And Audit
 
-- Clause-by-clause Greek audit status: targeted_completed_against_pg_ocr
-- First-pass status: translated_from_pg_ocr_needs_gautier_collation
-- Source packet used in first pass: PG100
-- PG marker / packet size: 265 / 2156 chars
-- GIBI page: 92
+- Recipient: the same addressee as G011
+- Clause-by-clause Greek audit status: gautier_packet_identified_pending_full_clause_audit
+- Second-pass status: targeted_second_pass_checked_localized_ocr_uncertainty
+- Gautier source packet: 02_sources/gautier/letter_packets/G012_gautier.txt
+- Gautier page range: Gautier II, letter 12; local PDF text pages 083-084
+- PG / earlier source location: PG100 (PG marker 265)
+- Source condition: gautier_packet_available_pending_full_clause_audit
+- Identification confidence: high
 - Confidence category: C
 - Current exception status: yes
+- Original first-pass file: 04_letters/G012/translation.md
 
 ## Evidence Notes
 
-Checked against `02_sources/pg126/letter_extractions/PG100.txt`. The translation preserves the grant of authority over priests, zeugnelion burden, sigillion reversal, requested written remedy, misuse of priests by intermediaries, and the salted-fish gift.
+- This letter concerns ecclesiastical privilege and fiscal burden. I have left `zeugnelion` transliterated pending historical annotation.
+- The closing gift of salted fish is secure; the sentence after it is too damaged in the PG/OCR to translate confidently.
 
 ## Direct Greek Audit Notes
 
-- No material semantic correction made.
-- Localized uncertainty remains around the administrative `ἐκ προσώπου` phrase, the OCR-damaged salve sentence, and the closing damaged phrase after "one hundred salted fish."
+- Checked against PG100 OCR; no material semantic correction made, but the administrative phrase around `ἐκ προσώπου` and the salve sentence remain OCR-dependent.
+
+## Unresolved Issues
+
+- [ ] Collate `ἐκ προσώπου`, the salve sentence, and the closing damaged fish phrase against Gautier or a page image.
+
+## Audit Trail
+
+- 2026-08-18: Regenerated from current translation_v2 metadata after Gautier packet collation.

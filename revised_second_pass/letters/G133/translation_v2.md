@@ -1,7 +1,7 @@
 # G133 Translation V2
 
-Second-pass status: baseline_first_pass_copied_pending_clause_audit
-Confidence category: C
+Second-pass status: gautier_collated_short_consolation_corrected
+Confidence category: B
 
 ## Corpus Identity
 
@@ -9,15 +9,16 @@ Confidence category: C
 - Recipient: an unnamed beloved brother, possibly Demetrios
 - Old numbering: [not recorded]
 - Conventional title / incipit: Утешително [писмо, написано] от архиепископа на България за различни мъки и болести
-- Gautier page range: [not yet verified]
+- Gautier page range: Gautier II, letter 133; local PDF text pages 296-296
+- Gautier source packet: 02_sources/gautier/letter_packets/G133_gautier.txt
 - PG / source location: GIBI 9.2, pp. 227-228, Greek with facing Bulgarian translation
-- Source condition: gibi_parallel_text_only
-- Identification confidence: medium
+- Source condition: gautier_collated_complete_prosopography_uncertain
+- Identification confidence: high
 - Original first-pass file: 04_letters/G133/translation.md
 
 ## Revised English Translation
 
-Having learned of the sickness that has come upon you, my much-loved and good brother, and not knowing to what end it will bring you, grief sinks my reasoning into the depths; the cloud of despondency covers my mind; and my whole body is fettered with unbreakable bonds.
+Having learned of the sickness that has come upon you, my much-loved and good brother, and not knowing to what end it will bring you, I am wounded in soul; grief sinks my reasoning into the depths; the cloud of despondency covers my mind; and my whole body is fettered with unbreakable bonds.
 
 For how should I not groan and suffer and be filled with pain when I learn that such terrible things have seized you, the light of my eyes, the consolation of my soul? No one will rescue you completely from the sickness now holding you, or make you untroubled by sorrows, unless God himself and the holy Theotokos, who bore him without stain, become for you physicians, deliverers from evils, and givers of good things, both in the present age and in the age to come.
 
@@ -25,15 +26,17 @@ Do not grow weary, therefore, my most noble brother, of telling me through the e
 
 ## Consequential Changes From First Pass
 
-- No substantive translation change yet; first-pass English preserved pending direct clause audit.
+- Restored the omitted opening clause "I am wounded in soul."
+- Checked the prayer for recovery against Gautier's Greek.
 
 ## Source And Revision Notes
 
-- GIBI notes that the heartfelt tone may point to Theophylact's brother Demetrios, gravely ill with tuberculosis; if so, the letter would predate Demetrios' death in 1107.
+- Gautier rejects the manuscript's non-original superscription and treats the correspondent as unnamed, probably Demetrios.
+- The translation keeps the affective intensity without inserting the probable identification into the body text.
 
 ## Unresolved Issues
 
-- [ ] Verify the addressee and date in Gautier.
+- [ ] The addressee remains a prosopographical uncertainty; no textual lacuna affects the translated body.
 
 ## Audit Trail
 

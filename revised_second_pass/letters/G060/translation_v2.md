@@ -1,6 +1,6 @@
 # G060 Translation V2
 
-Second-pass status: baseline_first_pass_copied_pending_clause_audit
+Second-pass status: baseline_first_pass_gautier_packeted_pending_full_clause_audit
 Confidence category: C
 
 ## Corpus Identity
@@ -9,10 +9,11 @@ Confidence category: C
 - Recipient: the same bishop of Triaditza, from the archbishop
 - Old numbering: Finetti XIX
 - Conventional title / incipit: До същия от архиепископа
-- Gautier page range: [not yet verified]
+- Gautier page range: Gautier II, letter 60; local PDF text pages 171-174
+- Gautier source packet: 02_sources/gautier/letter_packets/G060_gautier.txt
 - PG / source location: PG021 (PG marker 182)
 - Source condition: truncated_ocr
-- Identification confidence: medium
+- Identification confidence: high
 - Original first-pass file: 04_letters/G060/translation.md
 
 ## Revised English Translation

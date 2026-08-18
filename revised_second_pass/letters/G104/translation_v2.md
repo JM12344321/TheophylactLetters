@@ -1,7 +1,7 @@
 # G104 Translation V2
 
-Second-pass status: terminology_revised_pending_clause_audit
-Confidence category: C
+Second-pass status: gautier_collated_clause_checked_complete
+Confidence category: A
 
 ## Corpus Identity
 
@@ -9,10 +9,11 @@ Confidence category: C
 - Recipient: John Attaliates, protonotary of the doux of Attaleia
 - Old numbering: Meursius XLIX
 - Conventional title / incipit: До господин Йоан Аталиат, протонотарий на аталийския дука
-- Gautier page range: [not yet verified]
+- Gautier page range: Gautier II, letter 104; local PDF text pages 259-259
+- Gautier source packet: 02_sources/gautier/letter_packets/G104_gautier.txt
 - PG / source location: PG067 (PG marker 240)
-- Source condition: pg_ocr_not_collated
-- Identification confidence: medium
+- Source condition: gautier_collated_complete
+- Identification confidence: high
 - Original first-pass file: 04_letters/G104/translation.md
 
 ## Revised English Translation
@@ -25,17 +26,17 @@ Yes, my most kind son: may I thus enjoy the fruits of my labors over you; may I 
 
 ## Consequential Changes From First Pass
 
-- Standardized the office phrase from "duke of Attaleia" to "doux of Attaleia" under the second-pass terminology policy.
+- Checked the Attaliates/protonotarios recommendation against Gautier.
 
 ## Source And Revision Notes
 
-- The letter is a recommendation on behalf of the metropolitan of Side.
-- The teacher/student debt is cast as repayment for formation in the Muses.
+- Checked against Gautier II, letter 104.
 
 ## Unresolved Issues
 
-- [ ] Confirm the exact office "protonotary of the doux of Attaleia" in Gautier.
+- None material for the translation.
 
 ## Audit Trail
 
 - 2026-08-18: Second-pass layer initialized. Original first-pass translation preserved unchanged.
+- 2026-08-18: Extended Gautier clause audit completed; confidence set to A.

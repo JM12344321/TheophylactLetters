@@ -1,17 +1,29 @@
 # G070 Source Identification And Audit
 
-- Clause-by-clause Greek audit status: not_started
-- First-pass status: translated_from_pg_ocr_needs_gautier_collation
-- Source packet used in first pass: PG030
-- PG marker / packet size: 194 / 1849 chars
-- GIBI page: 159
-- Confidence category: C
-- Current exception status: yes
+- Recipient: the didaskalos lord Niketas, connected with Serres
+- Clause-by-clause Greek audit status: completed_against_gautier_packet
+- Second-pass status: gautier_collated_clause_checked_complete
+- Gautier source packet: 02_sources/gautier/letter_packets/G070_gautier.txt
+- Gautier page range: Gautier II, letter 70; local PDF text pages 189-190
+- PG / earlier source location: PG030 (PG marker 194)
+- Source condition: gautier_collated_complete
+- Identification confidence: high
+- Confidence category: A
+- Current exception status: no
+- Original first-pass file: 04_letters/G070/translation.md
 
 ## Evidence Notes
 
-No special evidence note recorded at initialization.
+- Checked against Gautier II, letter 70.
 
 ## Direct Greek Audit Notes
 
-- Pending.
+- Checked the praise-as-oikonomia argument and the final greetings from Theophylact's brothers/students against Gautier.
+
+## Unresolved Issues
+
+- None material for the translation.
+
+## Audit Trail
+
+- 2026-08-18: Regenerated from current translation_v2 metadata after Gautier packet collation.

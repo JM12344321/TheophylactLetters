@@ -1,7 +1,7 @@
 # G103 Translation V2
 
-Second-pass status: targeted_second_pass_checked_no_material_change_needs_gautier_collation
-Confidence category: C
+Second-pass status: gautier_collated_short_letter_checked
+Confidence category: A
 
 ## Corpus Identity
 
@@ -9,10 +9,11 @@ Confidence category: C
 - Recipient: the Bulgarians educated by him
 - Old numbering: Meursius XLVIII
 - Conventional title / incipit: До поучените от него българи
-- Gautier page range: [not yet verified]
+- Gautier page range: Gautier II, letter 103; local PDF text pages 258-258
+- Gautier source packet: 02_sources/gautier/letter_packets/G103_gautier.txt
 - PG / source location: PG066 (PG marker 239)
-- Source condition: damaged_or_corrupt_ocr
-- Identification confidence: medium
+- Source condition: gautier_collated_complete
+- Identification confidence: high
 - Original first-pass file: 04_letters/G103/translation.md
 
 ## Revised English Translation
@@ -32,7 +33,7 @@ Therefore you who are mine, announce to those who are mine and not mine, as thou
 
 ## Unresolved Issues
 
-- [ ] Collate the corrupted ending and packet boundary in Gautier.
+- None material for the translated text.
 
 ## Audit Trail
 

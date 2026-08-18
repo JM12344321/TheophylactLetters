@@ -1,17 +1,31 @@
 # G125 Source Identification And Audit
 
-- Clause-by-clause Greek audit status: not_started
-- First-pass status: source_text_not_recovered
-- Source packet used in first pass: PG084
-- PG marker / packet size: 251 / 40 chars
-- GIBI page: 220
-- Confidence category: D
-- Current exception status: yes
+- Recipient: unknown; anepigraphic
+- Clause-by-clause Greek audit status: completed_against_gautier_packet
+- Second-pass status: gautier_collated_recovered_short_letter
+- Gautier source packet: 02_sources/gautier/letter_packets/G125_gautier.txt
+- Gautier page range: Gautier II, letter 125; local PDF text pages 284-284
+- PG / earlier source location: local PG084 contained only a corrupt heading/no continuous Greek body
+- Source condition: gautier_collated_complete_short_text
+- Identification confidence: high
+- Confidence category: A
+- Current exception status: no
+- Original first-pass file: 04_letters/G125/translation.md
 
 ## Evidence Notes
 
-Known source gap: local PG084 contains only corrupt heading/no continuous body.
+- Gautier notes that the text is transmitted only by Chisianus R.IV.12 and is anepigraphic.
+- The opening proverb is used for urging someone to do what he would naturally do anyway.
 
 ## Direct Greek Audit Notes
 
-- Pending.
+- Recovered the letter from Gautier after the local PG/OCR source had failed to preserve a usable body text.
+- Restored the horse-proverb opening and the classical references to Achilles' horses Balios and Xanthos and to Hieron's Olympic horse.
+
+## Unresolved Issues
+
+- None material for the surviving text.
+
+## Audit Trail
+
+- 2026-08-18: Regenerated from current translation_v2 metadata after Gautier packet collation.

@@ -1,6 +1,6 @@
 # G015 Translation V2
 
-Second-pass status: baseline_first_pass_copied_pending_clause_audit
+Second-pass status: baseline_first_pass_gautier_packeted_pending_full_clause_audit
 Confidence category: C
 
 ## Corpus Identity
@@ -9,10 +9,11 @@ Confidence category: C
 - Recipient: Diabologyres
 - Old numbering: Lami-Finetti X
 - Conventional title / incipit: До Диавологир
-- Gautier page range: [not yet verified]
+- Gautier page range: Gautier II, letter 15; local PDF text pages 089-090
+- Gautier source packet: 02_sources/gautier/letter_packets/G015_gautier.txt
 - PG / source location: PG102 (PG marker 267)
-- Source condition: pg_ocr_not_collated
-- Identification confidence: medium
+- Source condition: gautier_packet_available_pending_full_clause_audit
+- Identification confidence: high
 - Original first-pass file: 04_letters/G015/translation.md
 
 ## Revised English Translation

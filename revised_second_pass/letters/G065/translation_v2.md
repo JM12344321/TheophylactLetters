@@ -1,7 +1,7 @@
 # G065 Translation V2
 
-Second-pass status: baseline_first_pass_copied_pending_clause_audit
-Confidence category: C
+Second-pass status: gautier_collated_clause_checked_complete
+Confidence category: A
 
 ## Corpus Identity
 
@@ -9,10 +9,11 @@ Confidence category: C
 - Recipient: Gregory Taronites, proedros
 - Old numbering: Meursius IV
 - Conventional title / incipit: До господин Григорий, племенник на Таронит
-- Gautier page range: [not yet verified]
+- Gautier page range: Gautier II, letter 65; local PDF text pages 181-181
+- Gautier source packet: 02_sources/gautier/letter_packets/G065_gautier.txt
 - PG / source location: PG026 (PG marker 189)
-- Source condition: pg_ocr_not_collated
-- Identification confidence: medium
+- Source condition: gautier_collated_complete
+- Identification confidence: high
 - Original first-pass file: 04_letters/G065/translation.md
 
 ## Revised English Translation
@@ -27,16 +28,17 @@ May you have affairs worthy of that spirit and accomplish things better than our
 
 ## Consequential Changes From First Pass
 
-- No substantive translation change yet; first-pass English preserved pending direct clause audit.
+- Checked the Taronites praise letter and military/administrative alternatives against Gautier.
 
 ## Source And Revision Notes
 
-- The letter praises Gregory in both civil and military registers; "Prometheus" is retained as Theophylact's classical allusion.
+- Checked against Gautier II, letter 65.
 
 ## Unresolved Issues
 
-- [ ] Confirm whether this Gregory is the nephew of Taronites noted in the GIBI index.
+- None material for the translation.
 
 ## Audit Trail
 
 - 2026-08-18: Second-pass layer initialized. Original first-pass translation preserved unchanged.
+- 2026-08-18: Extended Gautier clause audit completed; confidence set to A.

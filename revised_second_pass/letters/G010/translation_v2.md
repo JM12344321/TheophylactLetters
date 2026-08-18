@@ -1,7 +1,7 @@
 # G010 Translation V2
 
-Second-pass status: baseline_first_pass_copied_pending_clause_audit
-Confidence category: C
+Second-pass status: gautier_collated_short_letter_checked
+Confidence category: A
 
 ## Corpus Identity
 
@@ -9,10 +9,11 @@ Confidence category: C
 - Recipient: the son of the sebastokrator
 - Old numbering: Lami-Finetti VI
 - Conventional title / incipit: До сина на севастократова
-- Gautier page range: [not yet verified]
+- Gautier page range: Gautier II, letter 10; local PDF text pages 080-080
+- Gautier source packet: 02_sources/gautier/letter_packets/G010_gautier.txt
 - PG / source location: PG098 (PG marker 264)
-- Source condition: pg_ocr_not_collated
-- Identification confidence: medium
+- Source condition: gautier_collated_complete
+- Identification confidence: high
 - Original first-pass file: 04_letters/G010/translation.md
 
 ## Revised English Translation
@@ -27,16 +28,16 @@ May the God of the poor, or rather the God whose poor they are, keep you above e
 
 ## Consequential Changes From First Pass
 
-- No substantive translation change yet; first-pass English preserved pending direct clause audit.
+- Checked the whole short exhortation against Gautier; no material semantic correction required.
 
 ## Source And Revision Notes
 
-- The opening explicitly reflects on letters as a substitute mouth across distance, a recurring motif in Theophylact's correspondence.
-- "Wall and rampart" renders the doubled protective image in the Greek.
+- Gautier identifies the recipient as John Komnenos, son of the sebastokrator Isaac and doux of Dyrrachion.
+- The letter uses Scripture's protective language, "wall and rampart," for the recipient.
 
 ## Unresolved Issues
 
-- [ ] Direct clause-by-clause audit against Greek still required.
+- None material for the translated text.
 
 ## Audit Trail
 

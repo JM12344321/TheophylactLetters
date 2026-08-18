@@ -1,17 +1,29 @@
 # G043 Source Identification And Audit
 
-- Clause-by-clause Greek audit status: not_started
-- First-pass status: translated_from_pg_ocr_needs_gautier_collation
-- Source packet used in first pass: PG127
-- PG marker / packet size: 286 / 2513 chars
-- GIBI page: 124
-- Confidence category: C
-- Current exception status: yes
+- Recipient: the same addressee as G042
+- Clause-by-clause Greek audit status: completed_against_gautier_packet
+- Second-pass status: gautier_collated_clause_checked_complete
+- Gautier source packet: 02_sources/gautier/letter_packets/G043_gautier.txt
+- Gautier page range: Gautier II, letter 43; local PDF text pages 137-137
+- PG / earlier source location: PG127 (PG marker 286)
+- Source condition: gautier_collated_complete
+- Identification confidence: high
+- Confidence category: A
+- Current exception status: no
+- Original first-pass file: 04_letters/G043/translation.md
 
 ## Evidence Notes
 
-No special evidence note recorded at initialization.
+- Checked against Gautier II, letter 43.
 
 ## Direct Greek Audit Notes
 
-- Pending.
+- Checked the Jacob's-ladder ascent and stone/foe comparison against Gautier; no material correction required.
+
+## Unresolved Issues
+
+- None material for the translation.
+
+## Audit Trail
+
+- 2026-08-18: Regenerated from current translation_v2 metadata after Gautier packet collation.

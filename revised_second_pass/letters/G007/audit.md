@@ -1,17 +1,30 @@
 # G007 Source Identification And Audit
 
-- Clause-by-clause Greek audit status: not_started
-- First-pass status: translated_from_pg_ocr_needs_gautier_collation
-- Source packet used in first pass: PG095
-- PG marker / packet size: 262 / 868 chars
-- GIBI page: 87
-- Confidence category: C
-- Current exception status: yes
+- Recipient: Niketas, teacher of the Great Church, connected with Serres
+- Clause-by-clause Greek audit status: completed_against_gautier_packet
+- Second-pass status: gautier_collated_short_letter_checked
+- Gautier source packet: 02_sources/gautier/letter_packets/G007_gautier.txt
+- Gautier page range: Gautier II, letter 7; local PDF text pages 075-075
+- PG / earlier source location: PG095 (PG marker 262)
+- Source condition: gautier_collated_complete
+- Identification confidence: high
+- Confidence category: A
+- Current exception status: no
+- Original first-pass file: 04_letters/G007/translation.md
 
 ## Evidence Notes
 
-No special evidence note recorded at initialization.
+- Gautier confirms that this letter points to G005 and G006 as companion accounts of Theophylact's troubles.
+- The addressee is Niketas, didaskalos of the Great Church and nephew of the metropolitan of Serres.
 
 ## Direct Greek Audit Notes
 
-- Pending.
+- Checked the whole short companion letter against Gautier; no material semantic correction required.
+
+## Unresolved Issues
+
+- None material for the translated text.
+
+## Audit Trail
+
+- 2026-08-18: Regenerated from current translation_v2 metadata after Gautier packet collation.

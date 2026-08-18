@@ -1,7 +1,7 @@
 # G004 Translation V2
 
-Second-pass status: targeted_second_pass_revised_ocr_checked_needs_gautier_collation
-Confidence category: C
+Second-pass status: gautier_collated_targeted_lexical_revision
+Confidence category: B
 
 ## Corpus Identity
 
@@ -9,10 +9,11 @@ Confidence category: C
 - Recipient: the Lady Maria
 - Old numbering: Lami-Finetti I
 - Conventional title / incipit: До деспина госпожа Мария
-- Gautier page range: [not yet verified]
+- Gautier page range: Gautier II, letter 4; local PDF text pages 068-070
+- Gautier source packet: 02_sources/gautier/letter_packets/G004_gautier.txt
 - PG / source location: PG093 (PG marker 258)
-- Source condition: pg_ocr_not_collated
-- Identification confidence: medium
+- Source condition: gautier_collated_complete_targeted_sections
+- Identification confidence: high
 - Original first-pass file: 04_letters/G004/translation.md
 
 ## Revised English Translation
@@ -23,7 +24,7 @@ The earlier griefs your serenity lightened for me, or rather wiped away complete
 
 But this present suffering: who will lighten it for my lowliness? Who will make it more bearable for my weakness? Only if I reckon upon your goodness shall I have consolation even in this. For I believe, as is reasonable, that you will receive this present letter as though it were that bodily audience which, against our will, we missed.
 
-Let your majesty, who has mercy on me, know this. Returning from Nicomedia, for thither the waves of my troubles had carried me, I pressed the sailors many times, trying to make them turn the rudders and shift the sail toward your fortunate little island of Prinkipos. But they did not hear even the command in my forceful words, I suppose because a still more forceful cry, the cry of the north wind, was thundering in their ears. Coming down from the district of Panteichion, that squall made the crossing impassable unless we were to put in at Apollonias and then, after that, make our way safely to the great city. We did come through safely, though almost touching the land with our oars, so far were we kept from the open sea.
+Let your majesty, who has mercy on me, know this. Returning from Nicomedia, for thither the waves of my troubles had carried me, I pressed the sailors many times, trying to make them turn the rudders and shift the sail toward your fortunate little island of Prinkipos. But they did not hear even the command in my forceful words, I suppose because a still more forceful cry, the cry of the north wind, was thundering in their ears. Coming down from the district of Panteichion, that brisk and violent wind made the crossing impassable unless we were to put in at Apollonias and then, after that, make our way safely to the great city. We did come through safely, though almost touching the land with our oars, so far were we kept from the open sea.
 
 Often I wished to complete my desire and run to my only helper after God. But the murderous south wind struck against me in turn, as though it had made a compact with the north wind that each, by turns, should distress me with immeasurable blasts.
 
@@ -41,16 +42,16 @@ These things, then, I have asked of your holy majesty somewhat in an old man's p
 
 ## Consequential Changes From First Pass
 
-- Corrected "that bright wind" to "that squall." The OCR's storm-word is a form of `λαίλαψ` in the context of the north wind's violent cry, not a brightness adjective.
+- Corrected the meteorological phrase governed by Gautier's Greek adjective for a strong/bright wind: not literal "bright," but a brisk and violent wind in context; the previous v2 note overidentified the word as a storm noun.
 
 ## Source And Revision Notes
 
-- The translation follows the PG/OCR text where readable; several phrases in the nautical section and the closing blessing are damaged and require Gautier collation.
+- Gautier's text confirms the nautical passage and the closing blessing as substantially complete; the lexical issue is limited to the force of the wind adjective in context.
 - The "Bulgarians" passage is intentionally sharp and comic. I have preserved its unpleasant force rather than smoothing it into neutral complaint.
 
 ## Unresolved Issues
 
-- [ ] Collate the nautical and closing blessing sections against Gautier or the PG image where the OCR is visibly damaged.
+- [ ] Final expert audit may revisit the rendering of the wind adjective in context; no larger lacuna is visible in Gautier.
 
 ## Audit Trail
 

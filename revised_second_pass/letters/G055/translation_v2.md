@@ -1,6 +1,6 @@
 # G055 Translation V2
 
-Second-pass status: baseline_first_pass_copied_pending_clause_audit
+Second-pass status: baseline_first_pass_gautier_packeted_pending_full_clause_audit
 Confidence category: C
 
 ## Corpus Identity
@@ -9,10 +9,11 @@ Confidence category: C
 - Recipient: Pakourianos
 - Old numbering: Finetti XIV
 - Conventional title / incipit: До Пакуриан
-- Gautier page range: [not yet verified]
+- Gautier page range: Gautier II, letter 55; local PDF text pages 158-159
+- Gautier source packet: 02_sources/gautier/letter_packets/G055_gautier.txt
 - PG / source location: PG015 (PG marker 174)
-- Source condition: merged_or_continuation_packet
-- Identification confidence: medium
+- Source condition: gautier_packet_available_boundary_sensitive_pending_full_clause_audit
+- Identification confidence: high
 - Original first-pass file: 04_letters/G055/translation.md
 
 ## Revised English Translation

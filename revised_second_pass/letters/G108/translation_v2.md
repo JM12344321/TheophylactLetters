@@ -1,7 +1,7 @@
 # G108 Translation V2
 
-Second-pass status: baseline_first_pass_copied_pending_clause_audit
-Confidence category: C
+Second-pass status: gautier_collated_clause_checked_complete
+Confidence category: A
 
 ## Corpus Identity
 
@@ -9,10 +9,11 @@ Confidence category: C
 - Recipient: Makrembolites, ruler of Prespa
 - Old numbering: Meursius LIII
 - Conventional title / incipit: До Макремволит, преспанския управител
-- Gautier page range: [not yet verified]
+- Gautier page range: Gautier II, letter 108; local PDF text pages 263-263
+- Gautier source packet: 02_sources/gautier/letter_packets/G108_gautier.txt
 - PG / source location: PG070 (PG marker 242)
-- Source condition: pg_ocr_not_collated
-- Identification confidence: medium
+- Source condition: gautier_collated_complete
+- Identification confidence: high
 - Original first-pass file: 04_letters/G108/translation.md
 
 ## Revised English Translation
@@ -25,17 +26,17 @@ Then where under the earth will you sink down in order to escape the missiles of
 
 ## Consequential Changes From First Pass
 
-- No substantive translation change yet; first-pass English preserved pending direct clause audit.
+- Checked the Prespa synod letter and cicada/starvation joke against Gautier.
 
 ## Source And Revision Notes
 
-- The letter asks Makrembolites to arrange practical support for the synod at Prespa.
-- The pallet image alludes to Christ's healing command.
+- Checked against Gautier II, letter 108.
 
 ## Unresolved Issues
 
-- [ ] Collate the phrase about the ecclesiastical man sent to collect supplies.
+- None material for the translation.
 
 ## Audit Trail
 
 - 2026-08-18: Second-pass layer initialized. Original first-pass translation preserved unchanged.
+- 2026-08-18: Extended Gautier clause audit completed; confidence set to A.

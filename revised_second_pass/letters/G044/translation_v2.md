@@ -1,7 +1,7 @@
 # G044 Translation V2
 
-Second-pass status: baseline_first_pass_copied_pending_clause_audit
-Confidence category: C
+Second-pass status: gautier_collated_clause_checked_complete
+Confidence category: A
 
 ## Corpus Identity
 
@@ -9,10 +9,11 @@ Confidence category: C
 - Recipient: Machetarios
 - Old numbering: Finetti III
 - Conventional title / incipit: До Махитар
-- Gautier page range: [not yet verified]
+- Gautier page range: Gautier II, letter 44; local PDF text pages 138-139
+- Gautier source packet: 02_sources/gautier/letter_packets/G044_gautier.txt
 - PG / source location: PG002 (PG marker 163)
-- Source condition: pg_ocr_not_collated
-- Identification confidence: medium
+- Source condition: gautier_collated_complete
+- Identification confidence: high
 - Original first-pass file: 04_letters/G044/translation.md
 
 ## Revised English Translation
@@ -31,17 +32,18 @@ Ah, your philosophical soul! How you received the admonition, how you blushed, h
 
 ## Consequential Changes From First Pass
 
-- No substantive translation change yet; first-pass English preserved pending direct clause audit.
+- Checked the love/letters/Jacob's-ladder argument and the admonition about lay and ecclesiastical order against Gautier.
 
 ## Source And Revision Notes
 
-- The opening gives one of Theophylact's clearest accounts of letters as a spiritual medium.
-- The final admonition concerns overreaching into ecclesiastical or spiritual judgment; Gautier collation should refine the immediate occasion.
+- Checked against Gautier II, letter 44.
+- The closing admonition depends on the distinction between the order that initiates and the order that is initiated.
 
 ## Unresolved Issues
 
-- [ ] Direct clause-by-clause audit against Greek still required.
+- None material for the translation.
 
 ## Audit Trail
 
 - 2026-08-18: Second-pass layer initialized. Original first-pass translation preserved unchanged.
+- 2026-08-18: Extended Gautier clause audit completed; confidence set to A.

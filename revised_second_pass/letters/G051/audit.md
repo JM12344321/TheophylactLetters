@@ -1,17 +1,29 @@
 # G051 Source Identification And Audit
 
-- Clause-by-clause Greek audit status: not_started
-- First-pass status: translated_from_pg_ocr_truncated_needs_gautier_collation
-- Source packet used in first pass: PG011
-- PG marker / packet size: 169 / 710 chars
-- GIBI page: 132
-- Confidence category: C
-- Current exception status: yes
+- Recipient: Nikephoros the chartophylax
+- Clause-by-clause Greek audit status: completed_against_gautier_packet
+- Second-pass status: gautier_collated_clause_checked_complete
+- Gautier source packet: 02_sources/gautier/letter_packets/G051_gautier.txt
+- Gautier page range: Gautier II, letter 51; local PDF text pages 150-150
+- PG / earlier source location: PG011 (PG marker 169)
+- Source condition: gautier_collated_complete
+- Identification confidence: high
+- Confidence category: A
+- Current exception status: no
+- Original first-pass file: 04_letters/G051/translation.md
 
 ## Evidence Notes
 
-No special evidence note recorded at initialization.
+- Checked against Gautier II, letter 51.
 
 ## Direct Greek Audit Notes
 
-- Pending.
+- Removed the false PG/OCR break marker; Gautier prints a complete short letter.
+
+## Unresolved Issues
+
+- None material for the translation.
+
+## Audit Trail
+
+- 2026-08-18: Regenerated from current translation_v2 metadata after Gautier packet collation.

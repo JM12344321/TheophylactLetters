@@ -1,0 +1,47 @@
+# G051 Gautier Source Packet
+
+Source: Gautier II, letter 51; local PDF text pages 150-150
+Local extraction: 02_sources/gautier/16_2_pages/page_150.txt-page_150.txt
+
+
+
+===== 16_2 page_150 =====
+
+400 THÉOPHYLACTE D'ACHRIDA
+51
+Achrida
+1093 J4?
+AU CHARTOPHYLAX KYR NICÉPHORE:
+L'Ennemi a beau se déchainer dans le sanctuaire de Dieu et se
+surpasser toujours plus lui-méme en violence, en progressant sans cesse
+en méchanceté, notre trés vénérable seigneur et pére, le Seigneur des
+puissances, est avec nous, qui ruine ses insolenees et annihile sa malfai-
+sance. Et comment ne serait-il pas avec nous, quand ta bonté l'a fait
+habiter en nous, qui en sommes indigne, gráce à tes saintes paroles et
+à tes saintes priéres? Toutefois ne cesse pas de veiller à le maintenir
+en ceux chez qui tu l'as déjà introduit, afin qu'étant avec nous pour le
+reste de notre vie, qui sera illuminée évidemment par l'éclat de tes paroles
+et de tes priéres, il nous garde, jusqu'à la fin de ce siécle mauvais, à
+l'écart de la nuit de la perversité.
+1. Sur ce personnage, voir ci-dessus, p. 92.
+LETTRE bf 801
+51
+Τῷ χαρτοφύλακι κυρῷ Νικηφόρῳ
+Εἰ xai ὃ ἐχθρὸς ἐν τῷ ἁγίῳ τοῦ Θεοῦ πονηρεύεται ἔτι xol ἔτι xol
+αὐτὸς ἑαυτοῦ δραστηριώτερος δείκνυται, τιμιώτατε δέσποτα καὶ πάτερ
+ἡμέτερε, ἀναβάσεις ἀεὶ τῆς κακίας διατιθέμενος, ἀλλὰ Κύριος τῶν δυνά--
+ὅ μεῶν μεθ᾽ ἡμῶν καθαιρῶν τὰς ἐπάρσεις ἐχείνου καὶ μάταια δεικνύων
+τὰ πονηρεύματα. Τί δὲ οὐ μέλλει μεθ᾽ ἡμῶν εἶναι, ὑπὸ τῶν σῶν ἁγίων
+xol λόγων καὶ εὐχῶν ἐνοικισθεὶς τοῖς ἀναξίοις ἡμῖν διὰ τὴν οἰκείαν
+χρηστότητα; ᾿Αλλὰ μὴ παύσαιο τοῦτον παρασκευάζων ἐμμένειν οἷς
+φθάσας ἐνῴκισας ὡσὰν μεθ᾽ ἡμῶν ὧν πάσας τὰς ἡμέρας ἃς ἕξομεν,
+10 δηλαδὴ φωτὶ τῶν λόγων καὶ εὐχῶν ἐλλοαμπόμενοι, ἕως οὗ συντελεσθῇ
+ἐν ἡμῖν ó ἐνεστὼς πονηρὸς αἰών, τηροῖ ἡμᾶς ἐλευθέρους τῆς νυχτὸς
+τῶν πονηρῶν πράξεων.
+51 Codices : V f. 165^", R f. 388: Ὁ, B f. 235'-236 (Finetti 10)
+2 ἔτι xol om. B ὅ χαθαιρῶν : χαθερῶν Β 6 μέλλει 601}. : μέλλεις codd. 7 ἐνοι-
+xtGÜcic ] τοῖς ἀξίοις διὰ τὴν οἰκείαν χρηστότητα. ᾿Αλλὰ μὴ παύσαιο τοῦτον παρασχευάζων
+ἐμμένειν οἷς φθάσας [φθάσας om. V] ἐνῴκισας ὡς ἂν [ἃς RB] μεθ᾽ ἡμῶν ὧν πάσας τὰς
+ἡμέρας ἃς ἔξομεν, δηλαδὴ φωτὶ τῶν σῶν λόγων χαὶ εὐχῶν ἐνοικισθεὶς add. codd. 9 ἡμῶν:
+ὑμῶν R
+2 Ps. 73,3 4 Cf. Ρ5. 83,6 4-5 Ps. 45,12 11 Galates 1, 4

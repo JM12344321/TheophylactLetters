@@ -1,6 +1,6 @@
 # G053 Translation V2
 
-Second-pass status: baseline_first_pass_copied_pending_clause_audit
+Second-pass status: baseline_first_pass_gautier_packeted_pending_full_clause_audit
 Confidence category: C
 
 ## Corpus Identity
@@ -9,10 +9,11 @@ Confidence category: C
 - Recipient: Gregory Kamateros
 - Old numbering: Finetti XII
 - Conventional title / incipit: До господин Григорий Каматир
-- Gautier page range: [not yet verified]
+- Gautier page range: Gautier II, letter 53; local PDF text pages 153-155
+- Gautier source packet: 02_sources/gautier/letter_packets/G053_gautier.txt
 - PG / source location: PG013 (PG marker 170)
-- Source condition: pg_ocr_not_collated
-- Identification confidence: medium
+- Source condition: gautier_packet_available_pending_full_clause_audit
+- Identification confidence: high
 - Original first-pass file: 04_letters/G053/translation.md
 
 ## Revised English Translation

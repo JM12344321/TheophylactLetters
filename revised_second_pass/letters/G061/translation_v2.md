@@ -1,6 +1,6 @@
 # G061 Translation V2
 
-Second-pass status: baseline_first_pass_copied_pending_clause_audit
+Second-pass status: baseline_first_pass_gautier_packeted_pending_full_clause_audit
 Confidence category: C
 
 ## Corpus Identity
@@ -9,10 +9,11 @@ Confidence category: C
 - Recipient: ?John Komnenos; addressed as `pansebastos antileptor`
 - Old numbering: Meursius I
 - Conventional title / incipit: ?
-- Gautier page range: [not yet verified]
+- Gautier page range: Gautier II, letter 61; local PDF text pages 175-176
+- Gautier source packet: 02_sources/gautier/letter_packets/G061_gautier.txt
 - PG / source location: PG 126, cols. 357-360, via Calfa-GREgORI OCR; Mullett cites Gautier II, 353.25-27 for the lake passage; Gautier collation still required
-- Source condition: pg_ocr_not_collated
-- Identification confidence: medium
+- Source condition: gautier_packet_available_pending_full_clause_audit
+- Identification confidence: high
 - Original first-pass file: 04_letters/G061/translation.md
 
 ## Revised English Translation

@@ -1,19 +1,31 @@
 # G122 Source Identification And Audit
 
-- Clause-by-clause Greek audit status: short_letter_checked_against_pg_ocr
-- First-pass status: translated_from_pg_ocr_needs_gautier_collation
-- Source packet used in first pass: PG085
-- PG marker / packet size: 251 / 876 chars
-- GIBI page: 219
-- Confidence category: C
-- Current exception status: yes
+- Recipient: the bishop of Deabolis/Debar
+- Clause-by-clause Greek audit status: completed_against_gautier_packet
+- Second-pass status: gautier_collated_short_letter_checked
+- Gautier source packet: 02_sources/gautier/letter_packets/G122_gautier.txt
+- Gautier page range: Gautier II, letter 122; local PDF text pages 280-281
+- PG / earlier source location: PG085 (PG marker 251)
+- Source condition: gautier_collated_complete
+- Identification confidence: high
+- Confidence category: A
+- Current exception status: no
+- Original first-pass file: 04_letters/G122/translation.md
 
 ## Evidence Notes
 
-- Checked against local PG extraction `02_sources/pg126/letter_extractions/PG085.txt`.
-- Local heading supports a recipient at Debre/Deabolis, but Gautier should be used for the normalized see name.
+- This is another short bereavement letter after the death of Theophylact's brother Demetrios.
+- The final request urges the bishop to return to his see.
 
 ## Direct Greek Audit Notes
 
-- The whole short letter was checked: reception of the brother by the Lord, grief imagery, appeal to the Word/second Adam/first God, confidence in divine help, and request that the bishop return to his allotted place.
-- No material semantic correction was identified.
+- Checked against Gautier II, letter 122; no material semantic correction made.
+- Corrected the see to Debre, a suffragan of Achrida, rather than leaving the Deabolis/Debar doublet unresolved.
+
+## Unresolved Issues
+
+- None material for the translated text.
+
+## Audit Trail
+
+- 2026-08-18: Regenerated from current translation_v2 metadata after Gautier packet collation.

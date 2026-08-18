@@ -1,18 +1,19 @@
 # G014 Translation V2
 
-Second-pass status: targeted_second_pass_checked_metadata_revised_needs_gautier_collation
-Confidence category: C
+Second-pass status: gautier_collated_metadata_corrected
+Confidence category: A
 
 ## Corpus Identity
 
 - Gautier ID: G014
-- Recipient: the bishop of Cyprus (per GIBI; confirm in Gautier)
+- Recipient: the bishop of Kitros
 - Old numbering: Meursius XIV
-- Conventional title / incipit: До кипърския епископ
-- Gautier page range: [not yet verified]
+- Conventional title / incipit: To the bishop of Kitros
+- Gautier page range: Gautier II, letter 14; local PDF text pages 087-088
+- Gautier source packet: 02_sources/gautier/letter_packets/G014_gautier.txt
 - PG / source location: PG035 (PG marker 198)
-- Source condition: pg_ocr_not_collated
-- Identification confidence: medium
+- Source condition: gautier_collated_complete
+- Identification confidence: high
 - Original first-pass file: 04_letters/G014/translation.md
 
 ## Revised English Translation
@@ -29,8 +30,8 @@ I would have had more to write, as I considered how you were teaching my lowline
 
 ## Consequential Changes From First Pass
 
-- Checked the English against PG035 OCR and found no material semantic correction needed.
-- Revised recipient metadata from "uncertain" to "the bishop of Cyprus" on the basis of the local GIBI index; still requires Gautier confirmation.
+- Checked the English against Gautier II and found no material semantic correction needed.
+- Corrected the recipient from "bishop of Cyprus" to bishop of Kitros. Gautier prints `Τῷ Κίτρου` and identifies the see as a suffragan of Thessalonike.
 
 ## Source And Revision Notes
 
@@ -39,8 +40,9 @@ I would have had more to write, as I considered how you were teaching my lowline
 
 ## Unresolved Issues
 
-- [ ] Confirm the addressee against Gautier's heading.
+- None material for the translation.
 
 ## Audit Trail
 
 - 2026-08-18: Second-pass layer initialized. Original first-pass translation preserved unchanged.
+- 2026-08-18: Collated against Gautier II; recipient corrected to Kitros.

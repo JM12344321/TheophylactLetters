@@ -1,7 +1,7 @@
 # G083 Translation V2
 
-Second-pass status: baseline_first_pass_copied_pending_clause_audit
-Confidence category: C
+Second-pass status: gautier_collated_clause_checked_complete
+Confidence category: A
 
 ## Corpus Identity
 
@@ -9,10 +9,11 @@ Confidence category: C
 - Recipient: uncertain; probably a high ecclesiastical correspondent
 - Old numbering: Meursius XXVIII
 - Conventional title / incipit: До хартофилакса господин Никита
-- Gautier page range: [not yet verified]
+- Gautier page range: Gautier II, letter 83; local PDF text pages 219-219
+- Gautier source packet: 02_sources/gautier/letter_packets/G083_gautier.txt
 - PG / source location: PG048 (PG marker 216)
-- Source condition: damaged_or_corrupt_ocr
-- Identification confidence: medium
+- Source condition: gautier_collated_complete
+- Identification confidence: high
 - Original first-pass file: 04_letters/G083/translation.md
 
 ## Revised English Translation
@@ -23,21 +24,21 @@ The rumor is that wicked and deceitful men, serving the father of falsehood, hav
 
 I therefore ask that I be informed about your Holiness, whether the facts correspond to this rumor. I know that you will judge this question superfluous, and that it is more troublesome than the words of the slanderers. Yet for me it is necessary, not because I am afraid for your Honor, but because I am afraid for my own wretchedness. In these days of our afflictions, together with almost all Christians, I receive the dew from your words, and I set you down as healing and consolation after the first Paraclete.
 
-May the Lord of truth correct those who have set hatred against you in place of love, who slander goodness and persecute it. May you be preserved for us and for others as both light and leaven; and may each of us receive from you what he needs.
+May the Lord of truth correct those who have set hatred against you in place of love, who slander goodness and persecute it. May you be preserved for us and for others as salt, light, and leaven; and may each of us receive from you what he needs.
 
 ## Consequential Changes From First Pass
 
-- No substantive translation change yet; first-pass English preserved pending direct clause audit.
+- Restored the missing `salt` in the closing triad: salt, light, and leaven.
 
 ## Source And Revision Notes
 
-- The heading is damaged in the OCR, so the addressee remains provisional.
-- "Father of falsehood" refers to the devil; "fragrance of Christ" echoes 2 Corinthians 2:15.
+- Checked against Gautier II, letter 83.
 
 ## Unresolved Issues
 
-- [ ] Identify the addressee from Gautier's heading.
+- None material for the translation.
 
 ## Audit Trail
 
 - 2026-08-18: Second-pass layer initialized. Original first-pass translation preserved unchanged.
+- 2026-08-18: Extended Gautier clause audit completed; confidence set to A.

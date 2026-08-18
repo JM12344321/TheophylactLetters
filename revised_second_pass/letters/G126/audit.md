@@ -1,20 +1,32 @@
 # G126 Source Identification And Audit
 
-- Clause-by-clause Greek audit status: short_letter_checked_against_pg_ocr
-- First-pass status: translated_from_pg_ocr_merged_packet_needs_gautier_collation
-- Source packet used in first pass: PG088
-- PG marker / packet size: 252 / 9665 chars
-- GIBI page: 220
-- Confidence category: C
-- Current exception status: yes
+- Recipient: Palaiologos
+- Clause-by-clause Greek audit status: completed_against_gautier_packet
+- Second-pass status: gautier_collated_short_letter_checked
+- Gautier source packet: 02_sources/gautier/letter_packets/G126_gautier.txt
+- Gautier page range: Gautier II, letter 126; local PDF text pages 285-285
+- PG / earlier source location: PG088 (PG marker 252)
+- Source condition: gautier_collated_complete
+- Identification confidence: high
+- Confidence category: A
+- Current exception status: no
+- Original first-pass file: 04_letters/G126/translation.md
 
 ## Evidence Notes
 
-- Checked against the first unit of local PG extraction `02_sources/pg126/letter_extractions/PG088.txt`.
-- Same source file continues into G127; this audit treats only the Palaiologos unit before the G127 heading.
+- Gautier identifies the addressee as the sebastos George Palaiologos and the praktor probably as Iasites.
+- The desert/serpent language makes an administrative request rhetorically biblical.
 
 ## Direct Greek Audit Notes
 
-- The whole short Palaiologos unit was checked: thanksgiving for assistance, praktor/taming metaphor, desert/serpents imagery, and final crown/reward prayer.
-- No material semantic correction was identified.
-- Palaiologos still requires prosopographical identification from Gautier or supporting scholarship.
+- Checked against Gautier II, letter 126 and retained the charm/incantation metaphor.
+- Standardized `praktor` rather than modernizing the fiscal office as tax official.
+- Corrected the opening property phrase to the meager properties left to the Church of Achrida.
+
+## Unresolved Issues
+
+- None material for the translated text.
+
+## Audit Trail
+
+- 2026-08-18: Regenerated from current translation_v2 metadata after Gautier packet collation.

@@ -1,7 +1,7 @@
 # G093 Translation V2
 
-Second-pass status: baseline_first_pass_copied_pending_clause_audit
-Confidence category: C
+Second-pass status: gautier_collated_short_letter_corrected
+Confidence category: A
 
 ## Corpus Identity
 
@@ -9,10 +9,11 @@ Confidence category: C
 - Recipient: Nicholas Kallikles, chief physician
 - Old numbering: Meursius XXXVIII
 - Conventional title / incipit: До главния лекар господин Николай Каликъл
-- Gautier page range: [not yet verified]
+- Gautier page range: Gautier II, letter 93; local PDF text pages 238-238
+- Gautier source packet: 02_sources/gautier/letter_packets/G093_gautier.txt
 - PG / source location: PG057 (PG marker 227)
-- Source condition: damaged_or_corrupt_ocr
-- Identification confidence: medium
+- Source condition: gautier_collated_complete
+- Identification confidence: high
 - Original first-pass file: 04_letters/G093/translation.md
 
 ## Revised English Translation
@@ -21,20 +22,20 @@ Are we so hated that you do not even address us? I, at least, address you, clear
 
 But share your good fortune with friends; do not enjoy and possess what is good alone. You would share it if you helped my brother, as far as possible, in the matters in which he needs you. When you see him setting out on so great a road at such a season, calculate the magnitude of the necessity by which he has been driven from here.
 
-Show that you can heal. In this way we shall pray together that you may be able to do even greater things.
+Show us, then, how much you can do. In this way we shall pray together that you may be able to do even greater things.
 
 ## Consequential Changes From First Pass
 
-- No substantive translation change yet; first-pass English preserved pending direct clause audit.
+- Corrected the final request from the over-specific "show that you can heal" to "show us how much you can do."
 
 ## Source And Revision Notes
 
-- The final lines are severely damaged in the OCR; the translation preserves only the recoverable sense.
+- Gautier's printed ending is complete; the old OCR damage note is superseded.
 - The Zeus/thunderbolt joke is a playful classicizing compliment to the imperial physician's proximity to power.
 
 ## Unresolved Issues
 
-- [ ] Collate the damaged ending in Gautier.
+- None material for the translated text.
 
 ## Audit Trail
 

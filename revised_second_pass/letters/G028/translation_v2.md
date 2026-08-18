@@ -1,7 +1,7 @@
 # G028 Translation V2
 
-Second-pass status: baseline_first_pass_copied_pending_clause_audit
-Confidence category: C
+Second-pass status: gautier_collated_clause_checked_complete
+Confidence category: A
 
 ## Corpus Identity
 
@@ -9,10 +9,11 @@ Confidence category: C
 - Recipient: Smyrnaios
 - Old numbering: Lami-Finetti XXI; also Meursius XVI
 - Conventional title / incipit: До Смирненски
-- Gautier page range: [not yet verified]
+- Gautier page range: Gautier II, letter 28; local PDF text pages 111-111
+- Gautier source packet: 02_sources/gautier/letter_packets/G028_gautier.txt
 - PG / source location: PG113 (PG marker 275)
-- Source condition: pg_ocr_not_collated
-- Identification confidence: medium
+- Source condition: gautier_collated_complete
+- Identification confidence: high
 - Original first-pass file: 04_letters/G028/translation.md
 
 ## Revised English Translation
@@ -29,17 +30,18 @@ I will show another thing. Whatever you would wish to be for Paul, if some myste
 
 ## Consequential Changes From First Pass
 
-- No substantive translation change yet; first-pass English preserved pending direct clause audit.
+- Checked the Demetrios/Smyrnaios pedagogical appeal against Gautier; no material correction required.
 
 ## Source And Revision Notes
 
-- The recipient is asked to mentor Demetrios, Theophylact's "half" and special concern.
-- "Initiated into the rites of philosophy" preserves the playful mystery-language of the Greek.
+- Checked against Gautier II, letter 28.
+- The `beautiful fools` phrase alludes to Proverbs 9 and is intentionally playful.
 
 ## Unresolved Issues
 
-- [ ] Direct clause-by-clause audit against Greek still required.
+- None material for the translation.
 
 ## Audit Trail
 
 - 2026-08-18: Second-pass layer initialized. Original first-pass translation preserved unchanged.
+- 2026-08-18: Extended Gautier clause audit completed; confidence set to A.

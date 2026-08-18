@@ -1,17 +1,30 @@
 # G028 Source Identification And Audit
 
-- Clause-by-clause Greek audit status: not_started
-- First-pass status: translated_from_pg_ocr_needs_gautier_collation
-- Source packet used in first pass: PG113
-- PG marker / packet size: 275 / 1404 chars
-- GIBI page: 108
-- Confidence category: C
-- Current exception status: yes
+- Recipient: Smyrnaios
+- Clause-by-clause Greek audit status: completed_against_gautier_packet
+- Second-pass status: gautier_collated_clause_checked_complete
+- Gautier source packet: 02_sources/gautier/letter_packets/G028_gautier.txt
+- Gautier page range: Gautier II, letter 28; local PDF text pages 111-111
+- PG / earlier source location: PG113 (PG marker 275)
+- Source condition: gautier_collated_complete
+- Identification confidence: high
+- Confidence category: A
+- Current exception status: no
+- Original first-pass file: 04_letters/G028/translation.md
 
 ## Evidence Notes
 
-No special evidence note recorded at initialization.
+- Checked against Gautier II, letter 28.
+- The `beautiful fools` phrase alludes to Proverbs 9 and is intentionally playful.
 
 ## Direct Greek Audit Notes
 
-- Pending.
+- Checked the Demetrios/Smyrnaios pedagogical appeal against Gautier; no material correction required.
+
+## Unresolved Issues
+
+- None material for the translation.
+
+## Audit Trail
+
+- 2026-08-18: Regenerated from current translation_v2 metadata after Gautier packet collation.

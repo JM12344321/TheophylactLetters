@@ -1,7 +1,7 @@
 # G132 Translation V2
 
-Second-pass status: baseline_first_pass_copied_pending_clause_audit
-Confidence category: C
+Second-pass status: gautier_collated_short_consolation_checked
+Confidence category: B
 
 ## Corpus Identity
 
@@ -9,10 +9,11 @@ Confidence category: C
 - Recipient: the brother of the deceased Psellos
 - Old numbering: [not recorded]
 - Conventional title / incipit: До брата на покойния Псел от архиепископа на България
-- Gautier page range: [not yet verified]
+- Gautier page range: Gautier II, letter 132; local PDF text pages 295-295
+- Gautier source packet: 02_sources/gautier/letter_packets/G132_gautier.txt
 - PG / source location: GIBI 9.2, p. 227, Greek with facing Bulgarian translation
-- Source condition: gibi_parallel_text_only
-- Identification confidence: medium
+- Source condition: gautier_collated_complete_prosopography_uncertain
+- Identification confidence: high
 - Original first-pass file: 04_letters/G132/translation.md
 
 ## Revised English Translation

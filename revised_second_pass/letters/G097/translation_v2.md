@@ -1,6 +1,6 @@
 # G097 Translation V2
 
-Second-pass status: baseline_first_pass_copied_pending_clause_audit
+Second-pass status: baseline_first_pass_gautier_packeted_pending_full_clause_audit
 Confidence category: C
 
 ## Corpus Identity
@@ -9,10 +9,11 @@ Confidence category: C
 - Recipient: John Peribleptenos
 - Old numbering: Meursius XLII
 - Conventional title / incipit: До господин Йоан Перивлептин
-- Gautier page range: [not yet verified]
+- Gautier page range: Gautier II, letter 97; local PDF text pages 247-248
+- Gautier source packet: 02_sources/gautier/letter_packets/G097_gautier.txt
 - PG / source location: PG061 (PG marker 233)
-- Source condition: pg_ocr_not_collated
-- Identification confidence: medium
+- Source condition: gautier_packet_available_pending_full_clause_audit
+- Identification confidence: high
 - Original first-pass file: 04_letters/G097/translation.md
 
 ## Revised English Translation

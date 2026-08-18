@@ -1,7 +1,7 @@
 # G110 Translation V2
 
-Second-pass status: baseline_first_pass_copied_pending_clause_audit
-Confidence category: C
+Second-pass status: gautier_collated_targeted_corrections
+Confidence category: B
 
 ## Corpus Identity
 
@@ -9,17 +9,18 @@ Confidence category: C
 - Recipient: Niketas, imperial physician
 - Old numbering: Meursius LV
 - Conventional title / incipit: До царския лекар господин Никита
-- Gautier page range: [not yet verified]
+- Gautier page range: Gautier II, letter 110; local PDF text pages 265-266
+- Gautier source packet: 02_sources/gautier/letter_packets/G110_gautier.txt
 - PG / source location: PG072 (PG marker 243)
-- Source condition: pg_ocr_not_collated
-- Identification confidence: medium
+- Source condition: gautier_collated_complete_targeted_sections
+- Identification confidence: high
 - Original first-pass file: 04_letters/G110/translation.md
 
 ## Revised English Translation
 
-Many things press me to cross over to your tents, which you, the new Israel, have pitched while wandering through the desert on your account. But two streams cut off my crossing. One is common and epidemic: when the brain is filled, it produces catarrh and coughs, and not unreasonably brings on fear about diseases of the chest. What would not happen to me if I went out into the clear air, when even lying hidden I am in this condition?
+Many things press me to cross over to your tents, which you, the new Israel, have pitched while wandering through our desert. But two streams cut off my crossing. One is common and epidemic: when the brain is filled, it produces catarrh and coughs, and not unreasonably brings on fear about diseases of the chest. What would not happen to me if I went out into the clear air, when even lying hidden I am in this condition?
 
-The other stream is the neighboring river, which the old Greek tongue calls Axios and the new barbarian tongue calls Bardouarios. Since it flows through many mountains and is now swollen by the melting snow among them, it allows neither foot-travelers nor horsemen to cross; and because the river tolls are badly disappearing, it has no bridge. It is passable only by a skiff one cubit long. This skiff gives the river a third name for me, and I judge that it should be called Acheron, the river which the children of poets mythologize as flowing in Hades. For all those who sail in boats of any kind are separated from the dead, they say, by the breadth of a finger; for them this is the wide and long wall. But those who enter this skiff are separated from the life below by a spider-web.
+The other stream is the neighboring river, which the old Greek tongue calls Axios and the new barbarian tongue calls Bardouarios. Since it flows through many mountains and is now swollen by the melting snow among them, it allows neither foot-travelers nor horsemen to cross; and because of the accursed river tolls, it has no bridge. It is passable only by a skiff one cubit long. This skiff gives the river a third name for me, and I judge that it should be called Acheron, the river which the children of poets mythologize as flowing in Hades. For all those who sail in boats of any kind are separated from the dead, they say, by the breadth of a finger; for them this is the wide and long wall. But those who enter this skiff are separated from the life below by a spider-web.
 
 For these reasons I send you my brother, whose coming to you neither of the two streams prevents. The first does not, because he is now lightened by the wings of longing for you. As for the other, he cannot bear even to call the boat a boat, as we ancients and rustics do, untasted of the wisdom - or sophistry - of the present days. He considers it a ship that carries ten thousand loads, and he sails more confidently than when he walks on dry land.
 
@@ -27,7 +28,7 @@ I have sent him to you from home to home - for that is how I judge our relations
 
 ## Consequential Changes From First Pass
 
-- No substantive translation change yet; first-pass English preserved pending direct clause audit.
+- Corrected two Gautier-controlled details: the army moves through Theophylact's desert, not a desert "on your account"; the bridge problem is due to accursed river tolls, not tolls "disappearing."
 
 ## Source And Revision Notes
 
@@ -36,7 +37,7 @@ I have sent him to you from home to home - for that is how I judge our relations
 
 ## Unresolved Issues
 
-- [ ] Collate the river-toll/bridge passage against Gautier.
+- [ ] Final expert audit should revisit the long river-crossing sentence and the exact form Bardouarios/Bardarion.
 
 ## Audit Trail
 

@@ -1,6 +1,6 @@
 # G045 Translation V2
 
-Second-pass status: targeted_second_pass_checked_truncated_needs_gautier_collation
+Second-pass status: targeted_second_pass_checked_truncated_needs_full_clause_audit
 Confidence category: C
 
 ## Corpus Identity
@@ -9,10 +9,11 @@ Confidence category: C
 - Recipient: the patriarch, probably Nicholas III Grammatikos
 - Old numbering: Finetti IV
 - Conventional title / incipit: До патриарха [Николай III Граматик]
-- Gautier page range: [not yet verified]
+- Gautier page range: Gautier II, letter 45; local PDF text pages 140-143
+- Gautier source packet: 02_sources/gautier/letter_packets/G045_gautier.txt
 - PG / source location: PG003 (PG marker 164)
 - Source condition: truncated_ocr
-- Identification confidence: medium
+- Identification confidence: high
 - Original first-pass file: 04_letters/G045/translation.md
 
 ## Revised English Translation

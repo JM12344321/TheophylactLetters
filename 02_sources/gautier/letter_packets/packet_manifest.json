@@ -1,0 +1,1082 @@
+[
+  {
+    "gautier_id": "G001",
+    "volume": "16_1",
+    "start_pdf_page": 64,
+    "end_pdf_page": 71,
+    "citation": "Gautier I, pp. 130-143; cross-referenced in Gautier II, p. 184",
+    "packet": "02_sources/gautier/letter_packets/G001_gautier.txt"
+  },
+  {
+    "gautier_id": "G002",
+    "volume": "16_1",
+    "start_pdf_page": 72,
+    "end_pdf_page": 82,
+    "citation": "Gautier I, pp. 146-165; cross-referenced in Gautier II, p. 184",
+    "packet": "02_sources/gautier/letter_packets/G002_gautier.txt"
+  },
+  {
+    "gautier_id": "G003",
+    "volume": "16_1",
+    "start_pdf_page": 83,
+    "end_pdf_page": 87,
+    "citation": "Gautier I, pp. 168-175; cross-referenced in Gautier II, p. 184",
+    "packet": "02_sources/gautier/letter_packets/G003_gautier.txt"
+  },
+  {
+    "gautier_id": "G004",
+    "volume": "16_2",
+    "start_pdf_page": 68,
+    "end_pdf_page": 70,
+    "citation": "Gautier II, letter 4; local PDF text pages 068-070",
+    "packet": "02_sources/gautier/letter_packets/G004_gautier.txt"
+  },
+  {
+    "gautier_id": "G005",
+    "volume": "16_2",
+    "start_pdf_page": 71,
+    "end_pdf_page": 72,
+    "citation": "Gautier II, letter 5; local PDF text pages 071-072",
+    "packet": "02_sources/gautier/letter_packets/G005_gautier.txt"
+  },
+  {
+    "gautier_id": "G006",
+    "volume": "16_2",
+    "start_pdf_page": 73,
+    "end_pdf_page": 74,
+    "citation": "Gautier II, letter 6; local PDF text pages 073-074",
+    "packet": "02_sources/gautier/letter_packets/G006_gautier.txt"
+  },
+  {
+    "gautier_id": "G007",
+    "volume": "16_2",
+    "start_pdf_page": 75,
+    "end_pdf_page": 75,
+    "citation": "Gautier II, letter 7; local PDF text pages 075-075",
+    "packet": "02_sources/gautier/letter_packets/G007_gautier.txt"
+  },
+  {
+    "gautier_id": "G008",
+    "volume": "16_2",
+    "start_pdf_page": 76,
+    "end_pdf_page": 77,
+    "citation": "Gautier II, letter 8; local PDF text pages 076-077",
+    "packet": "02_sources/gautier/letter_packets/G008_gautier.txt"
+  },
+  {
+    "gautier_id": "G009",
+    "volume": "16_2",
+    "start_pdf_page": 78,
+    "end_pdf_page": 79,
+    "citation": "Gautier II, letter 9; local PDF text pages 078-079",
+    "packet": "02_sources/gautier/letter_packets/G009_gautier.txt"
+  },
+  {
+    "gautier_id": "G010",
+    "volume": "16_2",
+    "start_pdf_page": 80,
+    "end_pdf_page": 80,
+    "citation": "Gautier II, letter 10; local PDF text pages 080-080",
+    "packet": "02_sources/gautier/letter_packets/G010_gautier.txt"
+  },
+  {
+    "gautier_id": "G011",
+    "volume": "16_2",
+    "start_pdf_page": 81,
+    "end_pdf_page": 82,
+    "citation": "Gautier II, letter 11; local PDF text pages 081-082",
+    "packet": "02_sources/gautier/letter_packets/G011_gautier.txt"
+  },
+  {
+    "gautier_id": "G012",
+    "volume": "16_2",
+    "start_pdf_page": 83,
+    "end_pdf_page": 84,
+    "citation": "Gautier II, letter 12; local PDF text pages 083-084",
+    "packet": "02_sources/gautier/letter_packets/G012_gautier.txt"
+  },
+  {
+    "gautier_id": "G013",
+    "volume": "16_2",
+    "start_pdf_page": 85,
+    "end_pdf_page": 86,
+    "citation": "Gautier II, letter 13; local PDF text pages 085-086",
+    "packet": "02_sources/gautier/letter_packets/G013_gautier.txt"
+  },
+  {
+    "gautier_id": "G014",
+    "volume": "16_2",
+    "start_pdf_page": 87,
+    "end_pdf_page": 88,
+    "citation": "Gautier II, letter 14; local PDF text pages 087-088",
+    "packet": "02_sources/gautier/letter_packets/G014_gautier.txt"
+  },
+  {
+    "gautier_id": "G015",
+    "volume": "16_2",
+    "start_pdf_page": 89,
+    "end_pdf_page": 90,
+    "citation": "Gautier II, letter 15; local PDF text pages 089-090",
+    "packet": "02_sources/gautier/letter_packets/G015_gautier.txt"
+  },
+  {
+    "gautier_id": "G016",
+    "volume": "16_2",
+    "start_pdf_page": 91,
+    "end_pdf_page": 92,
+    "citation": "Gautier II, letter 16; local PDF text pages 091-092",
+    "packet": "02_sources/gautier/letter_packets/G016_gautier.txt"
+  },
+  {
+    "gautier_id": "G017",
+    "volume": "16_2",
+    "start_pdf_page": 93,
+    "end_pdf_page": 94,
+    "citation": "Gautier II, letter 17; local PDF text pages 093-094",
+    "packet": "02_sources/gautier/letter_packets/G017_gautier.txt"
+  },
+  {
+    "gautier_id": "G018",
+    "volume": "16_2",
+    "start_pdf_page": 95,
+    "end_pdf_page": 96,
+    "citation": "Gautier II, letter 18; local PDF text pages 095-096",
+    "packet": "02_sources/gautier/letter_packets/G018_gautier.txt"
+  },
+  {
+    "gautier_id": "G019",
+    "volume": "16_2",
+    "start_pdf_page": 97,
+    "end_pdf_page": 97,
+    "citation": "Gautier II, letter 19; local PDF text pages 097-097",
+    "packet": "02_sources/gautier/letter_packets/G019_gautier.txt"
+  },
+  {
+    "gautier_id": "G020",
+    "volume": "16_2",
+    "start_pdf_page": 98,
+    "end_pdf_page": 98,
+    "citation": "Gautier II, letter 20; local PDF text pages 098-098",
+    "packet": "02_sources/gautier/letter_packets/G020_gautier.txt"
+  },
+  {
+    "gautier_id": "G021",
+    "volume": "16_2",
+    "start_pdf_page": 99,
+    "end_pdf_page": 100,
+    "citation": "Gautier II, letter 21; local PDF text pages 099-100",
+    "packet": "02_sources/gautier/letter_packets/G021_gautier.txt"
+  },
+  {
+    "gautier_id": "G022",
+    "volume": "16_2",
+    "start_pdf_page": 101,
+    "end_pdf_page": 102,
+    "citation": "Gautier II, letter 22; local PDF text pages 101-102",
+    "packet": "02_sources/gautier/letter_packets/G022_gautier.txt"
+  },
+  {
+    "gautier_id": "G023",
+    "volume": "16_2",
+    "start_pdf_page": 103,
+    "end_pdf_page": 103,
+    "citation": "Gautier II, letter 23; local PDF text pages 103-103",
+    "packet": "02_sources/gautier/letter_packets/G023_gautier.txt"
+  },
+  {
+    "gautier_id": "G024",
+    "volume": "16_2",
+    "start_pdf_page": 104,
+    "end_pdf_page": 105,
+    "citation": "Gautier II, letter 24; local PDF text pages 104-105",
+    "packet": "02_sources/gautier/letter_packets/G024_gautier.txt"
+  },
+  {
+    "gautier_id": "G025",
+    "volume": "16_2",
+    "start_pdf_page": 106,
+    "end_pdf_page": 106,
+    "citation": "Gautier II, letter 25; local PDF text pages 106-106",
+    "packet": "02_sources/gautier/letter_packets/G025_gautier.txt"
+  },
+  {
+    "gautier_id": "G026",
+    "volume": "16_2",
+    "start_pdf_page": 107,
+    "end_pdf_page": 108,
+    "citation": "Gautier II, letter 26; local PDF text pages 107-108",
+    "packet": "02_sources/gautier/letter_packets/G026_gautier.txt"
+  },
+  {
+    "gautier_id": "G027",
+    "volume": "16_2",
+    "start_pdf_page": 109,
+    "end_pdf_page": 110,
+    "citation": "Gautier II, letter 27; local PDF text pages 109-110",
+    "packet": "02_sources/gautier/letter_packets/G027_gautier.txt"
+  },
+  {
+    "gautier_id": "G028",
+    "volume": "16_2",
+    "start_pdf_page": 111,
+    "end_pdf_page": 111,
+    "citation": "Gautier II, letter 28; local PDF text pages 111-111",
+    "packet": "02_sources/gautier/letter_packets/G028_gautier.txt"
+  },
+  {
+    "gautier_id": "G029",
+    "volume": "16_2",
+    "start_pdf_page": 112,
+    "end_pdf_page": 113,
+    "citation": "Gautier II, letter 29; local PDF text pages 112-113",
+    "packet": "02_sources/gautier/letter_packets/G029_gautier.txt"
+  },
+  {
+    "gautier_id": "G030",
+    "volume": "16_2",
+    "start_pdf_page": 114,
+    "end_pdf_page": 115,
+    "citation": "Gautier II, letter 30; local PDF text pages 114-115",
+    "packet": "02_sources/gautier/letter_packets/G030_gautier.txt"
+  },
+  {
+    "gautier_id": "G031",
+    "volume": "16_2",
+    "start_pdf_page": 116,
+    "end_pdf_page": 117,
+    "citation": "Gautier II, letter 31; local PDF text pages 116-117",
+    "packet": "02_sources/gautier/letter_packets/G031_gautier.txt"
+  },
+  {
+    "gautier_id": "G032",
+    "volume": "16_2",
+    "start_pdf_page": 118,
+    "end_pdf_page": 119,
+    "citation": "Gautier II, letter 32; local PDF text pages 118-119",
+    "packet": "02_sources/gautier/letter_packets/G032_gautier.txt"
+  },
+  {
+    "gautier_id": "G033",
+    "volume": "16_2",
+    "start_pdf_page": 120,
+    "end_pdf_page": 120,
+    "citation": "Gautier II, letter 33; local PDF text pages 120-120",
+    "packet": "02_sources/gautier/letter_packets/G033_gautier.txt"
+  },
+  {
+    "gautier_id": "G034",
+    "volume": "16_2",
+    "start_pdf_page": 121,
+    "end_pdf_page": 121,
+    "citation": "Gautier II, letter 34; local PDF text pages 121-121",
+    "packet": "02_sources/gautier/letter_packets/G034_gautier.txt"
+  },
+  {
+    "gautier_id": "G035",
+    "volume": "16_2",
+    "start_pdf_page": 122,
+    "end_pdf_page": 123,
+    "citation": "Gautier II, letter 35; local PDF text pages 122-123",
+    "packet": "02_sources/gautier/letter_packets/G035_gautier.txt"
+  },
+  {
+    "gautier_id": "G036",
+    "volume": "16_2",
+    "start_pdf_page": 124,
+    "end_pdf_page": 125,
+    "citation": "Gautier II, letter 36; local PDF text pages 124-125",
+    "packet": "02_sources/gautier/letter_packets/G036_gautier.txt"
+  },
+  {
+    "gautier_id": "G037",
+    "volume": "16_2",
+    "start_pdf_page": 126,
+    "end_pdf_page": 128,
+    "citation": "Gautier II, letter 37; local PDF text pages 126-128",
+    "packet": "02_sources/gautier/letter_packets/G037_gautier.txt"
+  },
+  {
+    "gautier_id": "G038",
+    "volume": "16_2",
+    "start_pdf_page": 129,
+    "end_pdf_page": 130,
+    "citation": "Gautier II, letter 38; local PDF text pages 129-130",
+    "packet": "02_sources/gautier/letter_packets/G038_gautier.txt"
+  },
+  {
+    "gautier_id": "G039",
+    "volume": "16_2",
+    "start_pdf_page": 131,
+    "end_pdf_page": 132,
+    "citation": "Gautier II, letter 39; local PDF text pages 131-132",
+    "packet": "02_sources/gautier/letter_packets/G039_gautier.txt"
+  },
+  {
+    "gautier_id": "G040",
+    "volume": "16_2",
+    "start_pdf_page": 133,
+    "end_pdf_page": 133,
+    "citation": "Gautier II, letter 40; local PDF text pages 133-133",
+    "packet": "02_sources/gautier/letter_packets/G040_gautier.txt"
+  },
+  {
+    "gautier_id": "G041",
+    "volume": "16_2",
+    "start_pdf_page": 134,
+    "end_pdf_page": 134,
+    "citation": "Gautier II, letter 41; local PDF text pages 134-134",
+    "packet": "02_sources/gautier/letter_packets/G041_gautier.txt"
+  },
+  {
+    "gautier_id": "G042",
+    "volume": "16_2",
+    "start_pdf_page": 135,
+    "end_pdf_page": 136,
+    "citation": "Gautier II, letter 42; local PDF text pages 135-136",
+    "packet": "02_sources/gautier/letter_packets/G042_gautier.txt"
+  },
+  {
+    "gautier_id": "G043",
+    "volume": "16_2",
+    "start_pdf_page": 137,
+    "end_pdf_page": 137,
+    "citation": "Gautier II, letter 43; local PDF text pages 137-137",
+    "packet": "02_sources/gautier/letter_packets/G043_gautier.txt"
+  },
+  {
+    "gautier_id": "G044",
+    "volume": "16_2",
+    "start_pdf_page": 138,
+    "end_pdf_page": 139,
+    "citation": "Gautier II, letter 44; local PDF text pages 138-139",
+    "packet": "02_sources/gautier/letter_packets/G044_gautier.txt"
+  },
+  {
+    "gautier_id": "G045",
+    "volume": "16_2",
+    "start_pdf_page": 140,
+    "end_pdf_page": 143,
+    "citation": "Gautier II, letter 45; local PDF text pages 140-143",
+    "packet": "02_sources/gautier/letter_packets/G045_gautier.txt"
+  },
+  {
+    "gautier_id": "G046",
+    "volume": "16_2",
+    "start_pdf_page": 144,
+    "end_pdf_page": 145,
+    "citation": "Gautier II, letter 46; local PDF text pages 144-145",
+    "packet": "02_sources/gautier/letter_packets/G046_gautier.txt"
+  },
+  {
+    "gautier_id": "G047",
+    "volume": "16_2",
+    "start_pdf_page": 146,
+    "end_pdf_page": 146,
+    "citation": "Gautier II, letter 47; local PDF text pages 146-146",
+    "packet": "02_sources/gautier/letter_packets/G047_gautier.txt"
+  },
+  {
+    "gautier_id": "G048",
+    "volume": "16_2",
+    "start_pdf_page": 147,
+    "end_pdf_page": 147,
+    "citation": "Gautier II, letter 48; local PDF text pages 147-147",
+    "packet": "02_sources/gautier/letter_packets/G048_gautier.txt"
+  },
+  {
+    "gautier_id": "G049",
+    "volume": "16_2",
+    "start_pdf_page": 148,
+    "end_pdf_page": 148,
+    "citation": "Gautier II, letter 49; local PDF text pages 148-148",
+    "packet": "02_sources/gautier/letter_packets/G049_gautier.txt"
+  },
+  {
+    "gautier_id": "G050",
+    "volume": "16_2",
+    "start_pdf_page": 149,
+    "end_pdf_page": 149,
+    "citation": "Gautier II, letter 50; local PDF text pages 149-149",
+    "packet": "02_sources/gautier/letter_packets/G050_gautier.txt"
+  },
+  {
+    "gautier_id": "G051",
+    "volume": "16_2",
+    "start_pdf_page": 150,
+    "end_pdf_page": 150,
+    "citation": "Gautier II, letter 51; local PDF text pages 150-150",
+    "packet": "02_sources/gautier/letter_packets/G051_gautier.txt"
+  },
+  {
+    "gautier_id": "G052",
+    "volume": "16_2",
+    "start_pdf_page": 151,
+    "end_pdf_page": 152,
+    "citation": "Gautier II, letter 52; local PDF text pages 151-152",
+    "packet": "02_sources/gautier/letter_packets/G052_gautier.txt"
+  },
+  {
+    "gautier_id": "G053",
+    "volume": "16_2",
+    "start_pdf_page": 153,
+    "end_pdf_page": 155,
+    "citation": "Gautier II, letter 53; local PDF text pages 153-155",
+    "packet": "02_sources/gautier/letter_packets/G053_gautier.txt"
+  },
+  {
+    "gautier_id": "G054",
+    "volume": "16_2",
+    "start_pdf_page": 156,
+    "end_pdf_page": 157,
+    "citation": "Gautier II, letter 54; local PDF text pages 156-157",
+    "packet": "02_sources/gautier/letter_packets/G054_gautier.txt"
+  },
+  {
+    "gautier_id": "G055",
+    "volume": "16_2",
+    "start_pdf_page": 158,
+    "end_pdf_page": 159,
+    "citation": "Gautier II, letter 55; local PDF text pages 158-159",
+    "packet": "02_sources/gautier/letter_packets/G055_gautier.txt"
+  },
+  {
+    "gautier_id": "G056",
+    "volume": "16_2",
+    "start_pdf_page": 160,
+    "end_pdf_page": 160,
+    "citation": "Gautier II, letter 56; local PDF text pages 160-160",
+    "packet": "02_sources/gautier/letter_packets/G056_gautier.txt"
+  },
+  {
+    "gautier_id": "G057",
+    "volume": "16_2",
+    "start_pdf_page": 161,
+    "end_pdf_page": 162,
+    "citation": "Gautier II, letter 57; local PDF text pages 161-162",
+    "packet": "02_sources/gautier/letter_packets/G057_gautier.txt"
+  },
+  {
+    "gautier_id": "G058",
+    "volume": "16_2",
+    "start_pdf_page": 163,
+    "end_pdf_page": 167,
+    "citation": "Gautier II, letter 58; local PDF text pages 163-167",
+    "packet": "02_sources/gautier/letter_packets/G058_gautier.txt"
+  },
+  {
+    "gautier_id": "G059",
+    "volume": "16_2",
+    "start_pdf_page": 168,
+    "end_pdf_page": 170,
+    "citation": "Gautier II, letter 59; local PDF text pages 168-170",
+    "packet": "02_sources/gautier/letter_packets/G059_gautier.txt"
+  },
+  {
+    "gautier_id": "G060",
+    "volume": "16_2",
+    "start_pdf_page": 171,
+    "end_pdf_page": 174,
+    "citation": "Gautier II, letter 60; local PDF text pages 171-174",
+    "packet": "02_sources/gautier/letter_packets/G060_gautier.txt"
+  },
+  {
+    "gautier_id": "G061",
+    "volume": "16_2",
+    "start_pdf_page": 175,
+    "end_pdf_page": 176,
+    "citation": "Gautier II, letter 61; local PDF text pages 175-176",
+    "packet": "02_sources/gautier/letter_packets/G061_gautier.txt"
+  },
+  {
+    "gautier_id": "G062",
+    "volume": "16_2",
+    "start_pdf_page": 177,
+    "end_pdf_page": 177,
+    "citation": "Gautier II, letter 62; local PDF text pages 177-177",
+    "packet": "02_sources/gautier/letter_packets/G062_gautier.txt"
+  },
+  {
+    "gautier_id": "G063",
+    "volume": "16_2",
+    "start_pdf_page": 178,
+    "end_pdf_page": 179,
+    "citation": "Gautier II, letter 63; local PDF text pages 178-179",
+    "packet": "02_sources/gautier/letter_packets/G063_gautier.txt"
+  },
+  {
+    "gautier_id": "G064",
+    "volume": "16_2",
+    "start_pdf_page": 180,
+    "end_pdf_page": 180,
+    "citation": "Gautier II, letter 64; local PDF text pages 180-180",
+    "packet": "02_sources/gautier/letter_packets/G064_gautier.txt"
+  },
+  {
+    "gautier_id": "G065",
+    "volume": "16_2",
+    "start_pdf_page": 181,
+    "end_pdf_page": 181,
+    "citation": "Gautier II, letter 65; local PDF text pages 181-181",
+    "packet": "02_sources/gautier/letter_packets/G065_gautier.txt"
+  },
+  {
+    "gautier_id": "G066",
+    "volume": "16_2",
+    "start_pdf_page": 182,
+    "end_pdf_page": 183,
+    "citation": "Gautier II, letter 66; local PDF text pages 182-183",
+    "packet": "02_sources/gautier/letter_packets/G066_gautier.txt"
+  },
+  {
+    "gautier_id": "G067",
+    "volume": "16_2",
+    "start_pdf_page": 184,
+    "end_pdf_page": 185,
+    "citation": "Gautier II, letter 67; local PDF text pages 184-185",
+    "packet": "02_sources/gautier/letter_packets/G067_gautier.txt"
+  },
+  {
+    "gautier_id": "G068",
+    "volume": "16_2",
+    "start_pdf_page": 186,
+    "end_pdf_page": 187,
+    "citation": "Gautier II, letter 68; local PDF text pages 186-187",
+    "packet": "02_sources/gautier/letter_packets/G068_gautier.txt"
+  },
+  {
+    "gautier_id": "G069",
+    "volume": "16_2",
+    "start_pdf_page": 188,
+    "end_pdf_page": 188,
+    "citation": "Gautier II, letter 69; local PDF text pages 188-188",
+    "packet": "02_sources/gautier/letter_packets/G069_gautier.txt"
+  },
+  {
+    "gautier_id": "G070",
+    "volume": "16_2",
+    "start_pdf_page": 189,
+    "end_pdf_page": 190,
+    "citation": "Gautier II, letter 70; local PDF text pages 189-190",
+    "packet": "02_sources/gautier/letter_packets/G070_gautier.txt"
+  },
+  {
+    "gautier_id": "G071",
+    "volume": "16_2",
+    "start_pdf_page": 191,
+    "end_pdf_page": 192,
+    "citation": "Gautier II, letter 71; local PDF text pages 191-192",
+    "packet": "02_sources/gautier/letter_packets/G071_gautier.txt"
+  },
+  {
+    "gautier_id": "G072",
+    "volume": "16_2",
+    "start_pdf_page": 193,
+    "end_pdf_page": 193,
+    "citation": "Gautier II, letter 72; local PDF text pages 193-193",
+    "packet": "02_sources/gautier/letter_packets/G072_gautier.txt"
+  },
+  {
+    "gautier_id": "G073",
+    "volume": "16_2",
+    "start_pdf_page": 194,
+    "end_pdf_page": 196,
+    "citation": "Gautier II, letter 73; local PDF text pages 194-196",
+    "packet": "02_sources/gautier/letter_packets/G073_gautier.txt"
+  },
+  {
+    "gautier_id": "G074",
+    "volume": "16_2",
+    "start_pdf_page": 197,
+    "end_pdf_page": 198,
+    "citation": "Gautier II, letter 74; local PDF text pages 197-198",
+    "packet": "02_sources/gautier/letter_packets/G074_gautier.txt"
+  },
+  {
+    "gautier_id": "G075",
+    "volume": "16_2",
+    "start_pdf_page": 199,
+    "end_pdf_page": 200,
+    "citation": "Gautier II, letter 75; local PDF text pages 199-200",
+    "packet": "02_sources/gautier/letter_packets/G075_gautier.txt"
+  },
+  {
+    "gautier_id": "G076",
+    "volume": "16_2",
+    "start_pdf_page": 201,
+    "end_pdf_page": 202,
+    "citation": "Gautier II, letter 76; local PDF text pages 201-202",
+    "packet": "02_sources/gautier/letter_packets/G076_gautier.txt"
+  },
+  {
+    "gautier_id": "G077",
+    "volume": "16_2",
+    "start_pdf_page": 203,
+    "end_pdf_page": 206,
+    "citation": "Gautier II, letter 77; local PDF text pages 203-206",
+    "packet": "02_sources/gautier/letter_packets/G077_gautier.txt"
+  },
+  {
+    "gautier_id": "G078",
+    "volume": "16_2",
+    "start_pdf_page": 207,
+    "end_pdf_page": 208,
+    "citation": "Gautier II, letter 78; local PDF text pages 207-208",
+    "packet": "02_sources/gautier/letter_packets/G078_gautier.txt"
+  },
+  {
+    "gautier_id": "G079",
+    "volume": "16_2",
+    "start_pdf_page": 209,
+    "end_pdf_page": 210,
+    "citation": "Gautier II, letter 79; local PDF text pages 209-210",
+    "packet": "02_sources/gautier/letter_packets/G079_gautier.txt"
+  },
+  {
+    "gautier_id": "G080",
+    "volume": "16_2",
+    "start_pdf_page": 211,
+    "end_pdf_page": 212,
+    "citation": "Gautier II, letter 80; local PDF text pages 211-212",
+    "packet": "02_sources/gautier/letter_packets/G080_gautier.txt"
+  },
+  {
+    "gautier_id": "G081",
+    "volume": "16_2",
+    "start_pdf_page": 213,
+    "end_pdf_page": 216,
+    "citation": "Gautier II, letter 81; local PDF text pages 213-216",
+    "packet": "02_sources/gautier/letter_packets/G081_gautier.txt"
+  },
+  {
+    "gautier_id": "G082",
+    "volume": "16_2",
+    "start_pdf_page": 217,
+    "end_pdf_page": 218,
+    "citation": "Gautier II, letter 82; local PDF text pages 217-218",
+    "packet": "02_sources/gautier/letter_packets/G082_gautier.txt"
+  },
+  {
+    "gautier_id": "G083",
+    "volume": "16_2",
+    "start_pdf_page": 219,
+    "end_pdf_page": 219,
+    "citation": "Gautier II, letter 83; local PDF text pages 219-219",
+    "packet": "02_sources/gautier/letter_packets/G083_gautier.txt"
+  },
+  {
+    "gautier_id": "G084",
+    "volume": "16_2",
+    "start_pdf_page": 220,
+    "end_pdf_page": 221,
+    "citation": "Gautier II, letter 84; local PDF text pages 220-221",
+    "packet": "02_sources/gautier/letter_packets/G084_gautier.txt"
+  },
+  {
+    "gautier_id": "G085",
+    "volume": "16_2",
+    "start_pdf_page": 222,
+    "end_pdf_page": 225,
+    "citation": "Gautier II, letter 85; local PDF text pages 222-225",
+    "packet": "02_sources/gautier/letter_packets/G085_gautier.txt"
+  },
+  {
+    "gautier_id": "G086",
+    "volume": "16_2",
+    "start_pdf_page": 226,
+    "end_pdf_page": 227,
+    "citation": "Gautier II, letter 86; local PDF text pages 226-227",
+    "packet": "02_sources/gautier/letter_packets/G086_gautier.txt"
+  },
+  {
+    "gautier_id": "G087",
+    "volume": "16_2",
+    "start_pdf_page": 228,
+    "end_pdf_page": 229,
+    "citation": "Gautier II, letter 87; local PDF text pages 228-229",
+    "packet": "02_sources/gautier/letter_packets/G087_gautier.txt"
+  },
+  {
+    "gautier_id": "G088",
+    "volume": "16_2",
+    "start_pdf_page": 230,
+    "end_pdf_page": 231,
+    "citation": "Gautier II, letter 88; local PDF text pages 230-231",
+    "packet": "02_sources/gautier/letter_packets/G088_gautier.txt"
+  },
+  {
+    "gautier_id": "G089",
+    "volume": "16_2",
+    "start_pdf_page": 232,
+    "end_pdf_page": 233,
+    "citation": "Gautier II, letter 89; local PDF text pages 232-233",
+    "packet": "02_sources/gautier/letter_packets/G089_gautier.txt"
+  },
+  {
+    "gautier_id": "G090",
+    "volume": "16_2",
+    "start_pdf_page": 234,
+    "end_pdf_page": 234,
+    "citation": "Gautier II, letter 90; local PDF text pages 234-234",
+    "packet": "02_sources/gautier/letter_packets/G090_gautier.txt"
+  },
+  {
+    "gautier_id": "G091",
+    "volume": "16_2",
+    "start_pdf_page": 235,
+    "end_pdf_page": 235,
+    "citation": "Gautier II, letter 91; local PDF text pages 235-235",
+    "packet": "02_sources/gautier/letter_packets/G091_gautier.txt"
+  },
+  {
+    "gautier_id": "G092",
+    "volume": "16_2",
+    "start_pdf_page": 236,
+    "end_pdf_page": 237,
+    "citation": "Gautier II, letter 92; local PDF text pages 236-237",
+    "packet": "02_sources/gautier/letter_packets/G092_gautier.txt"
+  },
+  {
+    "gautier_id": "G093",
+    "volume": "16_2",
+    "start_pdf_page": 238,
+    "end_pdf_page": 238,
+    "citation": "Gautier II, letter 93; local PDF text pages 238-238",
+    "packet": "02_sources/gautier/letter_packets/G093_gautier.txt"
+  },
+  {
+    "gautier_id": "G094",
+    "volume": "16_2",
+    "start_pdf_page": 239,
+    "end_pdf_page": 239,
+    "citation": "Gautier II, letter 94; local PDF text pages 239-239",
+    "packet": "02_sources/gautier/letter_packets/G094_gautier.txt"
+  },
+  {
+    "gautier_id": "G095",
+    "volume": "16_2",
+    "start_pdf_page": 240,
+    "end_pdf_page": 240,
+    "citation": "Gautier II, letter 95; local PDF text pages 240-240",
+    "packet": "02_sources/gautier/letter_packets/G095_gautier.txt"
+  },
+  {
+    "gautier_id": "G096",
+    "volume": "16_2",
+    "start_pdf_page": 241,
+    "end_pdf_page": 246,
+    "citation": "Gautier II, letter 96; local PDF text pages 241-246",
+    "packet": "02_sources/gautier/letter_packets/G096_gautier.txt"
+  },
+  {
+    "gautier_id": "G097",
+    "volume": "16_2",
+    "start_pdf_page": 247,
+    "end_pdf_page": 248,
+    "citation": "Gautier II, letter 97; local PDF text pages 247-248",
+    "packet": "02_sources/gautier/letter_packets/G097_gautier.txt"
+  },
+  {
+    "gautier_id": "G098",
+    "volume": "16_2",
+    "start_pdf_page": 249,
+    "end_pdf_page": 252,
+    "citation": "Gautier II, letter 98; local PDF text pages 249-252",
+    "packet": "02_sources/gautier/letter_packets/G098_gautier.txt"
+  },
+  {
+    "gautier_id": "G099",
+    "volume": "16_2",
+    "start_pdf_page": 253,
+    "end_pdf_page": 253,
+    "citation": "Gautier II, letter 99; local PDF text pages 253-253",
+    "packet": "02_sources/gautier/letter_packets/G099_gautier.txt"
+  },
+  {
+    "gautier_id": "G100",
+    "volume": "16_2",
+    "start_pdf_page": 254,
+    "end_pdf_page": 255,
+    "citation": "Gautier II, letter 100; local PDF text pages 254-255",
+    "packet": "02_sources/gautier/letter_packets/G100_gautier.txt"
+  },
+  {
+    "gautier_id": "G101",
+    "volume": "16_2",
+    "start_pdf_page": 256,
+    "end_pdf_page": 256,
+    "citation": "Gautier II, letter 101; local PDF text pages 256-256",
+    "packet": "02_sources/gautier/letter_packets/G101_gautier.txt"
+  },
+  {
+    "gautier_id": "G102",
+    "volume": "16_2",
+    "start_pdf_page": 257,
+    "end_pdf_page": 257,
+    "citation": "Gautier II, letter 102; local PDF text pages 257-257",
+    "packet": "02_sources/gautier/letter_packets/G102_gautier.txt"
+  },
+  {
+    "gautier_id": "G103",
+    "volume": "16_2",
+    "start_pdf_page": 258,
+    "end_pdf_page": 258,
+    "citation": "Gautier II, letter 103; local PDF text pages 258-258",
+    "packet": "02_sources/gautier/letter_packets/G103_gautier.txt"
+  },
+  {
+    "gautier_id": "G104",
+    "volume": "16_2",
+    "start_pdf_page": 259,
+    "end_pdf_page": 259,
+    "citation": "Gautier II, letter 104; local PDF text pages 259-259",
+    "packet": "02_sources/gautier/letter_packets/G104_gautier.txt"
+  },
+  {
+    "gautier_id": "G105",
+    "volume": "16_2",
+    "start_pdf_page": 260,
+    "end_pdf_page": 260,
+    "citation": "Gautier II, letter 105; local PDF text pages 260-260",
+    "packet": "02_sources/gautier/letter_packets/G105_gautier.txt"
+  },
+  {
+    "gautier_id": "G106",
+    "volume": "16_2",
+    "start_pdf_page": 261,
+    "end_pdf_page": 261,
+    "citation": "Gautier II, letter 106; local PDF text pages 261-261",
+    "packet": "02_sources/gautier/letter_packets/G106_gautier.txt"
+  },
+  {
+    "gautier_id": "G107",
+    "volume": "16_2",
+    "start_pdf_page": 262,
+    "end_pdf_page": 262,
+    "citation": "Gautier II, letter 107; local PDF text pages 262-262",
+    "packet": "02_sources/gautier/letter_packets/G107_gautier.txt"
+  },
+  {
+    "gautier_id": "G108",
+    "volume": "16_2",
+    "start_pdf_page": 263,
+    "end_pdf_page": 263,
+    "citation": "Gautier II, letter 108; local PDF text pages 263-263",
+    "packet": "02_sources/gautier/letter_packets/G108_gautier.txt"
+  },
+  {
+    "gautier_id": "G109",
+    "volume": "16_2",
+    "start_pdf_page": 264,
+    "end_pdf_page": 264,
+    "citation": "Gautier II, letter 109; local PDF text pages 264-264",
+    "packet": "02_sources/gautier/letter_packets/G109_gautier.txt"
+  },
+  {
+    "gautier_id": "G110",
+    "volume": "16_2",
+    "start_pdf_page": 265,
+    "end_pdf_page": 266,
+    "citation": "Gautier II, letter 110; local PDF text pages 265-266",
+    "packet": "02_sources/gautier/letter_packets/G110_gautier.txt"
+  },
+  {
+    "gautier_id": "G111",
+    "volume": "16_2",
+    "start_pdf_page": 267,
+    "end_pdf_page": 267,
+    "citation": "Gautier II, letter 111; local PDF text pages 267-267",
+    "packet": "02_sources/gautier/letter_packets/G111_gautier.txt"
+  },
+  {
+    "gautier_id": "G112",
+    "volume": "16_2",
+    "start_pdf_page": 268,
+    "end_pdf_page": 268,
+    "citation": "Gautier II, letter 112; local PDF text pages 268-268",
+    "packet": "02_sources/gautier/letter_packets/G112_gautier.txt"
+  },
+  {
+    "gautier_id": "G113",
+    "volume": "16_2",
+    "start_pdf_page": 269,
+    "end_pdf_page": 269,
+    "citation": "Gautier II, letter 113; local PDF text pages 269-269",
+    "packet": "02_sources/gautier/letter_packets/G113_gautier.txt"
+  },
+  {
+    "gautier_id": "G114",
+    "volume": "16_2",
+    "start_pdf_page": 270,
+    "end_pdf_page": 270,
+    "citation": "Gautier II, letter 114; local PDF text pages 270-270",
+    "packet": "02_sources/gautier/letter_packets/G114_gautier.txt"
+  },
+  {
+    "gautier_id": "G115",
+    "volume": "16_2",
+    "start_pdf_page": 271,
+    "end_pdf_page": 271,
+    "citation": "Gautier II, letter 115; local PDF text pages 271-271",
+    "packet": "02_sources/gautier/letter_packets/G115_gautier.txt"
+  },
+  {
+    "gautier_id": "G116",
+    "volume": "16_2",
+    "start_pdf_page": 272,
+    "end_pdf_page": 272,
+    "citation": "Gautier II, letter 116; local PDF text pages 272-272",
+    "packet": "02_sources/gautier/letter_packets/G116_gautier.txt"
+  },
+  {
+    "gautier_id": "G117",
+    "volume": "16_2",
+    "start_pdf_page": 273,
+    "end_pdf_page": 273,
+    "citation": "Gautier II, letter 117; local PDF text pages 273-273",
+    "packet": "02_sources/gautier/letter_packets/G117_gautier.txt"
+  },
+  {
+    "gautier_id": "G118",
+    "volume": "16_2",
+    "start_pdf_page": 274,
+    "end_pdf_page": 274,
+    "citation": "Gautier II, letter 118; local PDF text pages 274-274",
+    "packet": "02_sources/gautier/letter_packets/G118_gautier.txt"
+  },
+  {
+    "gautier_id": "G119",
+    "volume": "16_2",
+    "start_pdf_page": 275,
+    "end_pdf_page": 275,
+    "citation": "Gautier II, letter 119; local PDF text pages 275-275",
+    "packet": "02_sources/gautier/letter_packets/G119_gautier.txt"
+  },
+  {
+    "gautier_id": "G120",
+    "volume": "16_2",
+    "start_pdf_page": 276,
+    "end_pdf_page": 278,
+    "citation": "Gautier II, letter 120; local PDF text pages 276-278",
+    "packet": "02_sources/gautier/letter_packets/G120_gautier.txt"
+  },
+  {
+    "gautier_id": "G121",
+    "volume": "16_2",
+    "start_pdf_page": 279,
+    "end_pdf_page": 279,
+    "citation": "Gautier II, letter 121; local PDF text pages 279-279",
+    "packet": "02_sources/gautier/letter_packets/G121_gautier.txt"
+  },
+  {
+    "gautier_id": "G122",
+    "volume": "16_2",
+    "start_pdf_page": 280,
+    "end_pdf_page": 281,
+    "citation": "Gautier II, letter 122; local PDF text pages 280-281",
+    "packet": "02_sources/gautier/letter_packets/G122_gautier.txt"
+  },
+  {
+    "gautier_id": "G123",
+    "volume": "16_2",
+    "start_pdf_page": 282,
+    "end_pdf_page": 282,
+    "citation": "Gautier II, letter 123; local PDF text pages 282-282",
+    "packet": "02_sources/gautier/letter_packets/G123_gautier.txt"
+  },
+  {
+    "gautier_id": "G124",
+    "volume": "16_2",
+    "start_pdf_page": 283,
+    "end_pdf_page": 283,
+    "citation": "Gautier II, letter 124; local PDF text pages 283-283",
+    "packet": "02_sources/gautier/letter_packets/G124_gautier.txt"
+  },
+  {
+    "gautier_id": "G125",
+    "volume": "16_2",
+    "start_pdf_page": 284,
+    "end_pdf_page": 284,
+    "citation": "Gautier II, letter 125; local PDF text pages 284-284",
+    "packet": "02_sources/gautier/letter_packets/G125_gautier.txt"
+  },
+  {
+    "gautier_id": "G126",
+    "volume": "16_2",
+    "start_pdf_page": 285,
+    "end_pdf_page": 285,
+    "citation": "Gautier II, letter 126; local PDF text pages 285-285",
+    "packet": "02_sources/gautier/letter_packets/G126_gautier.txt"
+  },
+  {
+    "gautier_id": "G127",
+    "volume": "16_2",
+    "start_pdf_page": 286,
+    "end_pdf_page": 290,
+    "citation": "Gautier II, letter 127; local PDF text pages 286-290",
+    "packet": "02_sources/gautier/letter_packets/G127_gautier.txt"
+  },
+  {
+    "gautier_id": "G128",
+    "volume": "16_2",
+    "start_pdf_page": 291,
+    "end_pdf_page": 291,
+    "citation": "Gautier II, letter 128; local PDF text pages 291-291",
+    "packet": "02_sources/gautier/letter_packets/G128_gautier.txt"
+  },
+  {
+    "gautier_id": "G129",
+    "volume": "16_2",
+    "start_pdf_page": 292,
+    "end_pdf_page": 292,
+    "citation": "Gautier II, letter 129; local PDF text pages 292-292",
+    "packet": "02_sources/gautier/letter_packets/G129_gautier.txt"
+  },
+  {
+    "gautier_id": "G130",
+    "volume": "16_2",
+    "start_pdf_page": 293,
+    "end_pdf_page": 293,
+    "citation": "Gautier II, letter 130; local PDF text pages 293-293",
+    "packet": "02_sources/gautier/letter_packets/G130_gautier.txt"
+  },
+  {
+    "gautier_id": "G131",
+    "volume": "16_2",
+    "start_pdf_page": 294,
+    "end_pdf_page": 294,
+    "citation": "Gautier II, letter 131; local PDF text pages 294-294",
+    "packet": "02_sources/gautier/letter_packets/G131_gautier.txt"
+  },
+  {
+    "gautier_id": "G132",
+    "volume": "16_2",
+    "start_pdf_page": 295,
+    "end_pdf_page": 295,
+    "citation": "Gautier II, letter 132; local PDF text pages 295-295",
+    "packet": "02_sources/gautier/letter_packets/G132_gautier.txt"
+  },
+  {
+    "gautier_id": "G133",
+    "volume": "16_2",
+    "start_pdf_page": 296,
+    "end_pdf_page": 296,
+    "citation": "Gautier II, letter 133; local PDF text pages 296-296",
+    "packet": "02_sources/gautier/letter_packets/G133_gautier.txt"
+  },
+  {
+    "gautier_id": "G134",
+    "volume": "16_1",
+    "start_pdf_page": 166,
+    "end_pdf_page": 171,
+    "citation": "Gautier I, pp. 334-343; cross-referenced in Gautier II, p. 592",
+    "packet": "02_sources/gautier/letter_packets/G134_gautier.txt"
+  },
+  {
+    "gautier_id": "G135",
+    "volume": "16_2",
+    "start_pdf_page": 298,
+    "end_pdf_page": 299,
+    "citation": "Gautier II, letter 135; local PDF text pages 298-299",
+    "packet": "02_sources/gautier/letter_packets/G135_gautier.txt"
+  }
+]

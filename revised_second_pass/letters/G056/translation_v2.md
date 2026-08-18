@@ -1,7 +1,7 @@
 # G056 Translation V2
 
-Second-pass status: baseline_first_pass_copied_pending_clause_audit
-Confidence category: C
+Second-pass status: gautier_collated_short_letter_checked
+Confidence category: A
 
 ## Corpus Identity
 
@@ -9,10 +9,11 @@ Confidence category: C
 - Recipient: the bishop of Semnoi
 - Old numbering: Finetti XV
 - Conventional title / incipit: До семнонския епископ
-- Gautier page range: [not yet verified]
+- Gautier page range: Gautier II, letter 56; local PDF text pages 160-160
+- Gautier source packet: 02_sources/gautier/letter_packets/G056_gautier.txt
 - PG / source location: PG017 (PG marker 175)
-- Source condition: pg_ocr_not_collated
-- Identification confidence: medium
+- Source condition: gautier_collated_complete
+- Identification confidence: high
 - Original first-pass file: 04_letters/G056/translation.md
 
 ## Revised English Translation
@@ -25,15 +26,15 @@ For these things, and against these things, we call on your prayers: may they ma
 
 ## Consequential Changes From First Pass
 
-- No substantive translation change yet; first-pass English preserved pending direct clause audit.
+- Checked the whole short appeal to the bishop of Semna against Gautier; no material semantic correction required.
 
 ## Source And Revision Notes
 
-- The altered quotation is Romans 13:4 turned bitterly against oppressive officials.
+- The altered quotation is Romans 13:4 turned bitterly against oppressive fiscal officials.
 
 ## Unresolved Issues
 
-- [ ] None yet.
+- None material for the translated text.
 
 ## Audit Trail
 

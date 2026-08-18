@@ -1,7 +1,7 @@
 # G116 Translation V2
 
-Second-pass status: baseline_first_pass_copied_pending_clause_audit
-Confidence category: C
+Second-pass status: gautier_collated_short_letter_checked
+Confidence category: A
 
 ## Corpus Identity
 
@@ -9,10 +9,11 @@ Confidence category: C
 - Recipient: same uncertain correspondent as G115
 - Old numbering: Meursius LXI
 - Conventional title / incipit: До същия
-- Gautier page range: [not yet verified]
+- Gautier page range: Gautier II, letter 116; local PDF text pages 272-272
+- Gautier source packet: 02_sources/gautier/letter_packets/G116_gautier.txt
 - PG / source location: PG078 (PG marker 247)
-- Source condition: pg_ocr_not_collated
-- Identification confidence: medium
+- Source condition: gautier_collated_complete
+- Identification confidence: high
 - Original first-pass file: 04_letters/G116/translation.md
 
 ## Revised English Translation
@@ -31,7 +32,7 @@ Against all things I call upon the Lord as helper. May you be kept by him above 
 
 ## Unresolved Issues
 
-- [ ] Confirm the shared addressee with G115 and G117.
+- None material for the translated text.
 
 ## Audit Trail
 

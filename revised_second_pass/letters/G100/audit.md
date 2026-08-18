@@ -1,17 +1,30 @@
 # G100 Source Identification And Audit
 
-- Clause-by-clause Greek audit status: not_started
-- First-pass status: translated_from_pg_ocr_needs_gautier_collation
-- Source packet used in first pass: PG064
-- PG marker / packet size: 238 / 2181 chars
-- GIBI page: 204
-- Confidence category: C
-- Current exception status: yes
+- Recipient: John the philosopher
+- Clause-by-clause Greek audit status: completed_against_gautier_packet
+- Second-pass status: gautier_collated_clause_checked_complete
+- Gautier source packet: 02_sources/gautier/letter_packets/G100_gautier.txt
+- Gautier page range: Gautier II, letter 100; local PDF text pages 254-255
+- PG / earlier source location: PG064 (PG marker 238)
+- Source condition: gautier_collated_complete
+- Identification confidence: high
+- Confidence category: A
+- Current exception status: no
+- Original first-pass file: 04_letters/G100/translation.md
 
 ## Evidence Notes
 
-No special evidence note recorded at initialization.
+- Checked against Gautier II, letter 100.
+- The superior Logos/eagle image is retained, while the following enemy phrase is translated literally.
 
 ## Direct Greek Audit Notes
 
-- Pending.
+- Corrected the phrase about the enemies wasting away; the first pass turned it into an exhortation to prick them again.
+
+## Unresolved Issues
+
+- None material for the translation.
+
+## Audit Trail
+
+- 2026-08-18: Regenerated from current translation_v2 metadata after Gautier packet collation.

@@ -9,10 +9,11 @@ Confidence category: C
 - Recipient: the bishop of Kitros
 - Old numbering: Finetti XI
 - Conventional title / incipit: До кипърския епископ
-- Gautier page range: [not yet verified]
+- Gautier page range: Gautier II, letter 52; local PDF text pages 151-152
+- Gautier source packet: 02_sources/gautier/letter_packets/G052_gautier.txt
 - PG / source location: PG012 (PG marker 169)
-- Source condition: pg_ocr_not_collated
-- Identification confidence: medium
+- Source condition: gautier_packet_available_pending_full_clause_audit
+- Identification confidence: high
 - Original first-pass file: 04_letters/G052/translation.md
 
 ## Revised English Translation

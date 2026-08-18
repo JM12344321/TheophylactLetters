@@ -1,7 +1,7 @@
 # G135 Translation V2
 
-Second-pass status: targeted_second_pass_revised_ocr_checked_needs_gautier_collation
-Confidence category: C
+Second-pass status: gautier_collated_christological_fragment_reassigned
+Confidence category: B
 
 ## Corpus Identity
 
@@ -9,9 +9,10 @@ Confidence category: C
 - Recipient: Tivanios/Tigranes the Armenian
 - Old numbering: Finetti XX; previously misfiled locally as G134
 - Conventional title / incipit: Christological fragment to Tivanios/Tigranes the Armenian
-- Gautier page range: II 595-597 (Mullett citation; verify in Gautier)
+- Gautier page range: Gautier II, letter 135; local PDF text pages 298-299
+- Gautier source packet: 02_sources/gautier/letter_packets/G135_gautier.txt
 - PG / source location: PG022 (PG marker 184)
-- Source condition: pg_ocr_and_gibi_fragment_not_collated
+- Source condition: gautier_collated_complete_surviving_excerpt
 - Identification confidence: high
 - Original first-pass file: 04_letters/G134/translation.md
 
@@ -37,20 +38,17 @@ So then the natural will, having been glorified and willing what seemed good to 
 
 - Reassigned the Tivanios/Tigranes Armenian fragment from old local G134 to Gautier G135.
 - Tightened the iron analogy by translating the shape adjective as "elongated and blade-like."
-- Corrected the confused-union sentence from "neither the one nor the other" to "not one rather than the other," matching `οὐδ' ἕτερόν ἐστι μᾶλλον`.
+- Corrected the confused-union sentence from "neither the one nor the other" to "not one rather than the other," matching Gautier's Greek.
 
 ## Source And Revision Notes
 
-- Corrected corpus identity: the Tivanios/Tigranes Armenian Christological fragment is G135, not G134.
+- Corrected corpus identity: the Tivanios/Tigranes Armenian Christological excerpt is G135, not G134.
 - Subject: natures and wills of Christ; iron/fire analogy.
-- Evidence: Mullett identifies G135 as the fragment to Tibanios/Tigranes; Pinakes distinguishes Ep. 135 as an excerpt in Vat. Reg. gr. 057.
-- The local PG OCR packet breaks off after the phrase "even after the union"; the final "the fire and the iron" is supported by Mullett's desinit, but the passage still requires Gautier collation.
+- Gautier's printed excerpt continues through the final iron/fire sentence; the local PG OCR break is superseded by the Gautier packet.
 
 ## Unresolved Issues
 
-- [ ] Collate the PG/GIBI text against Gautier II, 595-597.
-- [ ] Verify whether Tibanios should be identified with Tigranes in final prosopography.
-- [ ] Verify the exact final words after the OCR break.
+- [ ] Verify whether Tibanios should be identified with Tigranes in final prosopography; the translated excerpt itself is complete as preserved by Gautier.
 
 ## Audit Trail
 

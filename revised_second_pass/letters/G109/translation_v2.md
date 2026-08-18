@@ -1,7 +1,7 @@
 # G109 Translation V2
 
-Second-pass status: baseline_first_pass_copied_pending_clause_audit
-Confidence category: C
+Second-pass status: gautier_collated_opening_corrected
+Confidence category: A
 
 ## Corpus Identity
 
@@ -9,15 +9,16 @@ Confidence category: C
 - Recipient: the official in charge of petitions
 - Old numbering: Meursius LIV
 - Conventional title / incipit: До [препозита] за молбите
-- Gautier page range: [not yet verified]
+- Gautier page range: Gautier II, letter 109; local PDF text pages 264-264
+- Gautier source packet: 02_sources/gautier/letter_packets/G109_gautier.txt
 - PG / source location: PG071 (PG marker 242)
-- Source condition: damaged_or_corrupt_ocr
-- Identification confidence: medium
+- Source condition: gautier_collated_complete
+- Identification confidence: high
 - Original first-pass file: 04_letters/G109/translation.md
 
 ## Revised English Translation
 
-You do Athenian things, and we are so hated by you that you do not even address us. I, however, am so far from thinking anything unusual toward you that I both address you and make my customary jokes. They are brief, but of such a kind that they ought to be judged more like oracles than common words.
+You behave toward us as the Mycenaeans did toward Orestes, and we are so hated by you that you do not even address us. I, however, am so far from thinking anything unusual toward you that I both address you and make my customary jokes. They are brief, but of such a kind that they ought to be judged more like oracles than common words.
 
 A furnace is being kindled against you: the jokes about your slowness. You do not merely supply vine-shoots and tow, nor even the tear of the pine; naphtha is transported to you from beyond the borders, and with it you water the furnace. So much do you desire to see the flame rise to something more magnificent.
 
@@ -27,16 +28,17 @@ But may you be kept above the other evils, and above that dreadful beast, slowne
 
 ## Consequential Changes From First Pass
 
-- No substantive translation change yet; first-pass English preserved pending direct clause audit.
+- Corrected the opening comparison from unsupported "Athenian things" to the Mycenaeans' treatment of Orestes.
+- Gautier confirms Tornikios as Theophylact's son-in-law through his niece and explains the likely military-camp leave request.
 
 ## Source And Revision Notes
 
 - The letter asks for Tornikios to be released from a military-camp obligation.
-- The opening is corrupt in the OCR; the main request is clear.
+- The opening alludes to Euripides' Orestes, as Gautier notes.
 
 ## Unresolved Issues
 
-- [ ] Verify the opening and Tornikios' relationship in Gautier.
+- None material for the translated text.
 
 ## Audit Trail
 

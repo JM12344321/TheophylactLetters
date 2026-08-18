@@ -1,7 +1,7 @@
 # G095 Translation V2
 
-Second-pass status: baseline_first_pass_copied_pending_clause_audit
-Confidence category: C
+Second-pass status: gautier_collated_clause_checked_complete
+Confidence category: A
 
 ## Corpus Identity
 
@@ -9,10 +9,11 @@ Confidence category: C
 - Recipient: Smyrnaios, hypatos of the philosophers
 - Old numbering: Meursius XL
 - Conventional title / incipit: До началника на философите, Смирненски
-- Gautier page range: [not yet verified]
+- Gautier page range: Gautier II, letter 95; local PDF text pages 240-240
+- Gautier source packet: 02_sources/gautier/letter_packets/G095_gautier.txt
 - PG / source location: PG059 (PG marker 228)
-- Source condition: damaged_or_corrupt_ocr
-- Identification confidence: medium
+- Source condition: gautier_collated_complete
+- Identification confidence: high
 - Original first-pass file: 04_letters/G095/translation.md
 
 ## Revised English Translation
@@ -21,21 +22,22 @@ If you wish to hear tragedies, O chief among Christian philosophers or philosoph
 
 Do not press us for letters that make our affairs known to you; even if we wished to write otherwise, we cannot. The report of our misfortunes comes of itself beneath the scribe's reed. At the same time as we write, we write calamities.
 
-May you yourself fare more easily than such things, so that those who afflict virtue may not prosper in everything. We have made our own weakness one of their objects, but because of your own goodness, may the outcome be better.
+But may you yourself be more lightly touched by such things, so that those who afflict virtue may not prosper in everything. May the Lord deliver our own weakness from them too, not because of any righteous deeds we have done, but because of his own goodness.
 
 ## Consequential Changes From First Pass
 
-- No substantive translation change yet; first-pass English preserved pending direct clause audit.
+- Restored the Titus 3:5-based closing prayer; the first pass incorrectly made Theophylact's weakness an object of the oppressors.
 
 ## Source And Revision Notes
 
-- The last sentence is damaged; the translation follows the general direction of the closing prayer.
-- The addressee is the philosopher Smyrnaios, a frequent learned correspondent.
+- Checked against Gautier II, letter 95.
+- The last sentence alludes to Titus 3:5.
 
 ## Unresolved Issues
 
-- [ ] Collate the final corrupted line against Gautier.
+- None material for the translation.
 
 ## Audit Trail
 
 - 2026-08-18: Second-pass layer initialized. Original first-pass translation preserved unchanged.
+- 2026-08-18: Extended Gautier clause audit completed; confidence set to A.

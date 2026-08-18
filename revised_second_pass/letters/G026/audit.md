@@ -1,17 +1,31 @@
 # G026 Source Identification And Audit
 
-- Clause-by-clause Greek audit status: not_started
-- First-pass status: translated_from_pg_ocr_needs_gautier_collation
-- Source packet used in first pass: PG112
-- PG marker / packet size: 274 / 2015 chars
-- GIBI page: 106
-- Confidence category: C
-- Current exception status: yes
+- Recipient: the sebastos, son of the sebastokrator
+- Clause-by-clause Greek audit status: completed_against_gautier_packet_with_localized_uncertainty
+- Second-pass status: gautier_collated_clause_checked_with_property_term_uncertainty
+- Gautier source packet: 02_sources/gautier/letter_packets/G026_gautier.txt
+- Gautier page range: Gautier II, letter 26; local PDF text pages 107-108
+- PG / earlier source location: PG112 (PG marker 274)
+- Source condition: gautier_collated_complete_with_localized_uncertainty
+- Identification confidence: high
+- Confidence category: B
+- Current exception status: no
+- Original first-pass file: 04_letters/G026/translation.md
 
 ## Evidence Notes
 
-No special evidence note recorded at initialization.
+- Checked against Gautier II, letter 26.
+- The property/fiscal vocabulary is technical and should be checked against Byzantine fiscal scholarship in the final audit.
 
 ## Direct Greek Audit Notes
 
-- Pending.
+- Corrected `praktikon`, `praktor`, `ospetion`, `aule`, and `zeugologion` terminology.
+- Changed the courtyard language to a farm/farmyard sense, following Gautier's note on `aule`.
+
+## Unresolved Issues
+
+- Precise legal force of `douleia` and `aule` remains localized B-level uncertainty.
+
+## Audit Trail
+
+- 2026-08-18: Regenerated from current translation_v2 metadata after Gautier packet collation.

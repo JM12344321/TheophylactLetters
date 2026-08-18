@@ -1,17 +1,30 @@
 # G094 Source Identification And Audit
 
-- Clause-by-clause Greek audit status: not_started
-- First-pass status: translated_from_pg_ocr_needs_gautier_collation
-- Source packet used in first pass: PG058
-- PG marker / packet size: 228 / 881 chars
-- GIBI page: 193
-- Confidence category: C
-- Current exception status: yes
+- Recipient: Nicholas Kallikles
+- Clause-by-clause Greek audit status: completed_against_gautier_packet
+- Second-pass status: gautier_collated_short_letter_checked
+- Gautier source packet: 02_sources/gautier/letter_packets/G094_gautier.txt
+- Gautier page range: Gautier II, letter 94; local PDF text pages 239-239
+- PG / earlier source location: PG058 (PG marker 228)
+- Source condition: gautier_collated_complete
+- Identification confidence: high
+- Confidence category: A
+- Current exception status: no
+- Original first-pass file: 04_letters/G094/translation.md
 
 ## Evidence Notes
 
-No special evidence note recorded at initialization.
+- Alcmaeon found refuge on newly formed land, often associated with Achelous; Theophylact recasts that myth as a plea for safe standing ground.
+- The fiscal officer/executioner wordplay is deliberately retained.
 
 ## Direct Greek Audit Notes
 
-- Pending.
+- Checked the whole Alcmaeon/Achelous appeal against Gautier; no material semantic correction required.
+
+## Unresolved Issues
+
+- None material for the translated text.
+
+## Audit Trail
+
+- 2026-08-18: Regenerated from current translation_v2 metadata after Gautier packet collation.

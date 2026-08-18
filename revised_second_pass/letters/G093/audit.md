@@ -1,17 +1,30 @@
 # G093 Source Identification And Audit
 
-- Clause-by-clause Greek audit status: not_started
-- First-pass status: translated_from_pg_ocr_damaged_needs_gautier_collation
-- Source packet used in first pass: PG057
-- PG marker / packet size: 227 / 861 chars
-- GIBI page: 193
-- Confidence category: C
-- Current exception status: yes
+- Recipient: Nicholas Kallikles, chief physician
+- Clause-by-clause Greek audit status: completed_against_gautier_packet
+- Second-pass status: gautier_collated_short_letter_corrected
+- Gautier source packet: 02_sources/gautier/letter_packets/G093_gautier.txt
+- Gautier page range: Gautier II, letter 93; local PDF text pages 238-238
+- PG / earlier source location: PG057 (PG marker 227)
+- Source condition: gautier_collated_complete
+- Identification confidence: high
+- Confidence category: A
+- Current exception status: no
+- Original first-pass file: 04_letters/G093/translation.md
 
 ## Evidence Notes
 
-No special evidence note recorded at initialization.
+- Gautier's printed ending is complete; the old OCR damage note is superseded.
+- The Zeus/thunderbolt joke is a playful classicizing compliment to the imperial physician's proximity to power.
 
 ## Direct Greek Audit Notes
 
-- Pending.
+- Corrected the final request from the over-specific "show that you can heal" to "show us how much you can do."
+
+## Unresolved Issues
+
+- None material for the translated text.
+
+## Audit Trail
+
+- 2026-08-18: Regenerated from current translation_v2 metadata after Gautier packet collation.

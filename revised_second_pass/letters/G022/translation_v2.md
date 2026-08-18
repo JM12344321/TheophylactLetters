@@ -1,6 +1,6 @@
 # G022 Translation V2
 
-Second-pass status: baseline_first_pass_copied_pending_clause_audit
+Second-pass status: baseline_first_pass_gautier_packeted_pending_full_clause_audit
 Confidence category: C
 
 ## Corpus Identity
@@ -9,10 +9,11 @@ Confidence category: C
 - Recipient: the son of the sebastokrator
 - Old numbering: Lami-Finetti XVI
 - Conventional title / incipit: До сина на севастократора
-- Gautier page range: [not yet verified]
+- Gautier page range: Gautier II, letter 22; local PDF text pages 101-102
+- Gautier source packet: 02_sources/gautier/letter_packets/G022_gautier.txt
 - PG / source location: PG108 (PG marker 272)
-- Source condition: pg_ocr_not_collated
-- Identification confidence: medium
+- Source condition: gautier_packet_available_pending_full_clause_audit
+- Identification confidence: high
 - Original first-pass file: 04_letters/G022/translation.md
 
 ## Revised English Translation

@@ -9,10 +9,11 @@ Confidence category: C
 - Recipient: Taronitopoulos, doux of Skopje
 - Old numbering: Lami-Finetti XIII
 - Conventional title / incipit: До Таронитопул, дука на Скопие
-- Gautier page range: [not yet verified]
+- Gautier page range: Gautier II, letter 18; local PDF text pages 095-096
+- Gautier source packet: 02_sources/gautier/letter_packets/G018_gautier.txt
 - PG / source location: PG105 (PG marker 269)
-- Source condition: pg_ocr_not_collated
-- Identification confidence: medium
+- Source condition: gautier_packet_available_pending_full_clause_audit
+- Identification confidence: high
 - Original first-pass file: 04_letters/G018/translation.md
 
 ## Revised English Translation

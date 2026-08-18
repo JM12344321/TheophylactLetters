@@ -1,17 +1,29 @@
 # G056 Source Identification And Audit
 
-- Clause-by-clause Greek audit status: not_started
-- First-pass status: translated_from_pg_ocr_needs_gautier_collation
-- Source packet used in first pass: PG017
-- PG marker / packet size: 175 / 1167 chars
-- GIBI page: 139
-- Confidence category: C
-- Current exception status: yes
+- Recipient: the bishop of Semnoi
+- Clause-by-clause Greek audit status: completed_against_gautier_packet
+- Second-pass status: gautier_collated_short_letter_checked
+- Gautier source packet: 02_sources/gautier/letter_packets/G056_gautier.txt
+- Gautier page range: Gautier II, letter 56; local PDF text pages 160-160
+- PG / earlier source location: PG017 (PG marker 175)
+- Source condition: gautier_collated_complete
+- Identification confidence: high
+- Confidence category: A
+- Current exception status: no
+- Original first-pass file: 04_letters/G056/translation.md
 
 ## Evidence Notes
 
-No special evidence note recorded at initialization.
+- The altered quotation is Romans 13:4 turned bitterly against oppressive fiscal officials.
 
 ## Direct Greek Audit Notes
 
-- Pending.
+- Checked the whole short appeal to the bishop of Semna against Gautier; no material semantic correction required.
+
+## Unresolved Issues
+
+- None material for the translated text.
+
+## Audit Trail
+
+- 2026-08-18: Regenerated from current translation_v2 metadata after Gautier packet collation.

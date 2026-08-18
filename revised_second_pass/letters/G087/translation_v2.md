@@ -1,6 +1,6 @@
 # G087 Translation V2
 
-Second-pass status: baseline_first_pass_copied_pending_clause_audit
+Second-pass status: baseline_first_pass_gautier_packeted_pending_full_clause_audit
 Confidence category: C
 
 ## Corpus Identity
@@ -9,10 +9,11 @@ Confidence category: C
 - Recipient: the bishop of Triaditza
 - Old numbering: Meursius XXXIII
 - Conventional title / incipit: До триадишкия епископ
-- Gautier page range: [not yet verified]
+- Gautier page range: Gautier II, letter 87; local PDF text pages 228-229
+- Gautier source packet: 02_sources/gautier/letter_packets/G087_gautier.txt
 - PG / source location: PG052 (PG marker 222)
-- Source condition: pg_ocr_not_collated
-- Identification confidence: medium
+- Source condition: gautier_packet_available_pending_full_clause_audit
+- Identification confidence: high
 - Original first-pass file: 04_letters/G087/translation.md
 
 ## Revised English Translation

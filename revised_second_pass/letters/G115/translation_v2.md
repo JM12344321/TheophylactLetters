@@ -1,7 +1,7 @@
 # G115 Translation V2
 
-Second-pass status: baseline_first_pass_copied_pending_clause_audit
-Confidence category: C
+Second-pass status: gautier_collated_difficult_name_reading_checked
+Confidence category: B
 
 ## Corpus Identity
 
@@ -9,10 +9,11 @@ Confidence category: C
 - Recipient: uncertain
 - Old numbering: Meursius LX
 - Conventional title / incipit: ?
-- Gautier page range: [not yet verified]
+- Gautier page range: Gautier II, letter 115; local PDF text pages 271-271
+- Gautier source packet: 02_sources/gautier/letter_packets/G115_gautier.txt
 - PG / source location: PG077 (PG marker 247)
-- Source condition: damaged_or_corrupt_ocr
-- Identification confidence: medium
+- Source condition: gautier_collated_localized_uncertainty
+- Identification confidence: high
 - Original first-pass file: 04_letters/G115/translation.md
 
 ## Revised English Translation
@@ -21,20 +22,20 @@ We long to learn how you are, my surpassingly brilliant son in the Lord - not be
 
 If you too long to learn our affairs, I shall give you yours as a rule. Looking at them, you will not be ignorant of how we are. If your affairs are in the midst of evils, know that ours are at the extremes. If yours have suffered misfortune on the very summit, know that ours rest their head against heaven.
 
-But do you wish me to give a rule? We lie beneath the brows of cheerfulness - or rather beneath whatever way they may incline; where they incline, the man always meeting them knows. May the Lord, who preached release even to the captives in Hades, rescue us from this and keep you above every difficulty of affairs.
+Do you wish me to give another rule? We lie beneath the brows of Euphemianos: wherever they nod, that way we are carried; in what direction they nod, anyone who has ever met him knows. May the Lord, who preached release even to the captives in Hades, rescue us from this and keep you above every difficulty of affairs.
 
 ## Consequential Changes From First Pass
 
-- No substantive translation change yet; first-pass English preserved pending direct clause audit.
+- Corrected the difficult brows sentence from abstract "cheerfulness" to Gautier's proposed proper name Euphemianos.
 
 ## Source And Revision Notes
 
-- The addressee is not recoverable from the OCR heading.
-- The letter measures Theophylact's troubles by comparison with the addressee's own difficulties.
+- Gautier treats the addressee as uncertain and the name Euphemianos as a cautious proposal from a difficult abbreviation.
+- The final sentence alludes to Christ's proclamation of release to captives in Hades.
 
 ## Unresolved Issues
 
-- [ ] Identify the addressee from Gautier.
+- [ ] The reading Euphemianos and the exact force of the brows joke remain localized uncertainties.
 
 ## Audit Trail
 

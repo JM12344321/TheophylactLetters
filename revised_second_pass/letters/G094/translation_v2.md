@@ -1,7 +1,7 @@
 # G094 Translation V2
 
-Second-pass status: baseline_first_pass_copied_pending_clause_audit
-Confidence category: C
+Second-pass status: gautier_collated_short_letter_checked
+Confidence category: A
 
 ## Corpus Identity
 
@@ -9,10 +9,11 @@ Confidence category: C
 - Recipient: Nicholas Kallikles
 - Old numbering: Meursius XXXIX
 - Conventional title / incipit: До същия
-- Gautier page range: [not yet verified]
+- Gautier page range: Gautier II, letter 94; local PDF text pages 239-239
+- Gautier source packet: 02_sources/gautier/letter_packets/G094_gautier.txt
 - PG / source location: PG058 (PG marker 228)
-- Source condition: pg_ocr_not_collated
-- Identification confidence: medium
+- Source condition: gautier_collated_complete
+- Identification confidence: high
 - Original first-pass file: 04_letters/G094/translation.md
 
 ## Revised English Translation
@@ -23,15 +24,16 @@ Why, then, do I lament these things to you? So that you yourself may put an end 
 
 ## Consequential Changes From First Pass
 
-- No substantive translation change yet; first-pass English preserved pending direct clause audit.
+- Checked the whole Alcmaeon/Achelous appeal against Gautier; no material semantic correction required.
 
 ## Source And Revision Notes
 
 - Alcmaeon found refuge on newly formed land, often associated with Achelous; Theophylact recasts that myth as a plea for safe standing ground.
+- The fiscal officer/executioner wordplay is deliberately retained.
 
 ## Unresolved Issues
 
-- [ ] Check the exact legal force of "public executioner" in Gautier's notes.
+- None material for the translated text.
 
 ## Audit Trail
 

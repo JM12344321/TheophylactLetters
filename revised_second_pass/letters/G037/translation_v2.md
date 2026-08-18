@@ -1,6 +1,6 @@
 # G037 Translation V2
 
-Second-pass status: baseline_first_pass_copied_pending_clause_audit
+Second-pass status: baseline_first_pass_gautier_packeted_pending_full_clause_audit
 Confidence category: C
 
 ## Corpus Identity
@@ -9,10 +9,11 @@ Confidence category: C
 - Recipient: Symeon, hegoumenos of the monastery at Anaplous
 - Old numbering: Lami-Finetti XXIX
 - Conventional title / incipit: До господин Симеон, игумен на манастира в Анаплус
-- Gautier page range: [not yet verified]
+- Gautier page range: Gautier II, letter 37; local PDF text pages 126-128
+- Gautier source packet: 02_sources/gautier/letter_packets/G037_gautier.txt
 - PG / source location: PG121 (PG marker 281)
 - Source condition: truncated_ocr
-- Identification confidence: medium
+- Identification confidence: high
 - Original first-pass file: 04_letters/G037/translation.md
 
 ## Revised English Translation

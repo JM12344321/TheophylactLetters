@@ -1,6 +1,6 @@
 # G077 Translation V2
 
-Second-pass status: baseline_first_pass_copied_pending_clause_audit
+Second-pass status: baseline_first_pass_gautier_packeted_pending_full_clause_audit
 Confidence category: C
 
 ## Corpus Identity
@@ -9,10 +9,11 @@ Confidence category: C
 - Recipient: Nicholas, bishop of Kerkyra
 - Old numbering: probably Meursius XXII
 - Conventional title / incipit: До Мерментул
-- Gautier page range: [not yet verified]
+- Gautier page range: Gautier II, letter 77; local PDF text pages 203-206
+- Gautier source packet: 02_sources/gautier/letter_packets/G077_gautier.txt
 - PG / source location: PG042 (PG marker 205)
-- Source condition: merged_or_continuation_packet
-- Identification confidence: medium
+- Source condition: gautier_packet_available_boundary_sensitive_pending_full_clause_audit
+- Identification confidence: high
 - Original first-pass file: 04_letters/G077/translation.md
 
 ## Revised English Translation

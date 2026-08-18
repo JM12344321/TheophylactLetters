@@ -1,6 +1,6 @@
 # G067 Translation V2
 
-Second-pass status: baseline_first_pass_copied_pending_clause_audit
+Second-pass status: baseline_first_pass_gautier_packeted_pending_full_clause_audit
 Confidence category: C
 
 ## Corpus Identity
@@ -9,10 +9,11 @@ Confidence category: C
 - Recipient: Gregory Kamateros
 - Old numbering: Meursius VI
 - Conventional title / incipit: До господин Григорий Каматир
-- Gautier page range: [not yet verified]
+- Gautier page range: Gautier II, letter 67; local PDF text pages 184-185
+- Gautier source packet: 02_sources/gautier/letter_packets/G067_gautier.txt
 - PG / source location: PG028 (PG marker 191)
 - Source condition: truncated_ocr
-- Identification confidence: medium
+- Identification confidence: high
 - Original first-pass file: 04_letters/G067/translation.md
 
 ## Revised English Translation

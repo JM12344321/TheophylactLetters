@@ -9,19 +9,19 @@ a baseline copy awaiting direct Greek audit or a corrected/revised item.
 
 ## Current Status
 
-- A: 0
-- B: 0
-- C: 129
-- D: 6
+- A: 68
+- B: 19
+- C: 46
+- D: 2
 
-Most complete first-pass translations remain C because they have not yet been
-fully rechecked clause by clause against Greek in this layer. That is
-intentional: the revision layer distinguishes existence from verification.
+All Gautier numbers G001-G135 are accounted for and now have per-letter Gautier
+source packets. Remaining C letters are not missing; they are complete or
+mostly complete first-pass texts still awaiting full clause-by-clause audit.
+The only D items are the mutilated/lacunose fragments G062 and G063.
 
-As of this pass, 15 letters have received targeted source-backed checks against
-local Greek extractions: G004, G006, G012, G014, G045, G052, G058, G082, G096,
-G103, G107, G121, G122, G126, and G135. None has been raised above C, because
-Gautier collation has not been completed.
+This pass added Gautier CFHB volumes, extracted page text, built 135 source
+packets, recovered missing Gautier letters, corrected major numbering errors,
+and completed targeted or full short-letter Gautier checks for 95 letters.
 
 Primary reports:
 
@@ -34,10 +34,12 @@ Primary reports:
 ## Key Correction Already Applied
 
 The local first-pass corpus filed the Tivanios/Tigranes Armenian Christological
-fragment as G134 and left G135 empty. The second-pass corpus map corrects this:
+fragment as G134. The second-pass corpus map corrects this:
 
-- G134: genuine Demetrios/liturgy letter; Greek not recovered locally; D.
+- G134: genuine Demetrios/liturgy letter recovered from Gautier I; A.
 - G135: Tivanios/Tigranes Armenian Christological fragment; reassigned from old
-  local G134; C pending direct Gautier collation.
+  local G134; B because the surviving excerpt is collated but prosopography and
+  fragment status remain localized uncertainties.
 
-Evidence recorded in `revision_log.csv` cites Pinakes and Mullett.
+Evidence is recorded in `revision_log.csv`, `master_concordance.csv`, and the
+per-letter `translation_v2.md` files.

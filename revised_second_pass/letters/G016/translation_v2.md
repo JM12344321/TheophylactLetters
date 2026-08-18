@@ -1,7 +1,7 @@
 # G016 Translation V2
 
-Second-pass status: baseline_first_pass_copied_pending_clause_audit
-Confidence category: C
+Second-pass status: gautier_collated_clause_checked_complete
+Confidence category: A
 
 ## Corpus Identity
 
@@ -9,10 +9,11 @@ Confidence category: C
 - Recipient: Tarchaneiotes
 - Old numbering: Lami-Finetti XI
 - Conventional title / incipit: До Тарханиот
-- Gautier page range: [not yet verified]
+- Gautier page range: Gautier II, letter 16; local PDF text pages 091-092
+- Gautier source packet: 02_sources/gautier/letter_packets/G016_gautier.txt
 - PG / source location: PG103 (PG marker 267)
-- Source condition: pg_ocr_not_collated
-- Identification confidence: medium
+- Source condition: gautier_collated_complete
+- Identification confidence: high
 - Original first-pass file: 04_letters/G016/translation.md
 
 ## Revised English Translation
@@ -25,23 +26,25 @@ Surely you know the verdict of the man who more than all others tested the goods
 
 "Look," Scripture says, "to the generations of old: who has hoped in the Lord and been put to shame?" And again: "I have not seen the righteous abandoned"; "the remnants of the impious shall be destroyed"; and "the salvation of the righteous is from the Lord." Who is now so deceived, so thickened, so grazing in mind, as to hope in injustice and yearn after plunder after hearing Job, than whom no one could be richer, nor more truthful: "Wealth unjustly gathered will be vomited out"?
 
-Since you know these things, most noble lord, as we have heard and believed no less than anyone, what more will our speech be able to offer by way of admonition? Surely nothing, unless we wish to be pointlessly burdensome. Yet since all things are possible to the one who believes, take thought for my affairs just as you have believed. I know, moreover, that the words friends cry out beneath runners become wings to them.
+Since you know these things, most noble lord, as we have heard and believed no less than anyone, what more will our speech be able to offer by way of admonition? Surely nothing, unless we wish to be pointlessly burdensome. Yet since all things are possible to the one who believes, may you profit from my letter in the measure of your faith. I know, moreover, that the words friends cry out beneath runners become wings to them.
 
-May God, who benefits us from every side, for he made all things very good, grant you benefit that is true life-benefit [a damaged phrase intervenes], not only in deed but also in threat, as the great Apostle commanded.
+May God, who benefits us from every side, for he made all things very good, grant you both to be benefited and to benefit, by relaxing for those under your hand not only the work but also the threat, as the great Apostle commanded.
 
 ## Consequential Changes From First Pass
 
-- No substantive translation change yet; first-pass English preserved pending direct clause audit.
+- Removed a false damaged-phrase marker in the closing sentence.
+- Corrected the exhortation: the addressee is to profit from the letter according to faith and relax both labor and threat for subordinates.
 
 ## Source And Revision Notes
 
-- The opening plays on words as coinage: speech reveals the treasury of the heart.
-- The final clause is damaged; the likely sense is that charitable correction may be performed both by action and by warning.
+- Checked against Gautier II, letter 16.
+- The closing alludes to Ephesians 6:9 on masters giving up threats.
 
 ## Unresolved Issues
 
-- [ ] Direct clause-by-clause audit against Greek still required.
+- None material for the translation.
 
 ## Audit Trail
 
 - 2026-08-18: Second-pass layer initialized. Original first-pass translation preserved unchanged.
+- 2026-08-18: Extended Gautier clause audit completed; confidence set to A.

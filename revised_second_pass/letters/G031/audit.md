@@ -1,17 +1,30 @@
 # G031 Source Identification And Audit
 
-- Clause-by-clause Greek audit status: not_started
-- First-pass status: translated_from_pg_ocr_needs_gautier_collation
-- Source packet used in first pass: PG115
-- PG marker / packet size: 276 / 2736 chars
-- GIBI page: 111
+- Recipient: Kamateros
+- Clause-by-clause Greek audit status: gautier_packet_identified_pending_full_clause_audit
+- Second-pass status: baseline_first_pass_gautier_packeted_pending_full_clause_audit
+- Gautier source packet: 02_sources/gautier/letter_packets/G031_gautier.txt
+- Gautier page range: Gautier II, letter 31; local PDF text pages 116-117
+- PG / earlier source location: PG115 (PG marker 276)
+- Source condition: gautier_packet_available_pending_full_clause_audit
+- Identification confidence: high
 - Confidence category: C
 - Current exception status: yes
+- Original first-pass file: 04_letters/G031/translation.md
 
 ## Evidence Notes
 
-No special evidence note recorded at initialization.
+- The nautical chain - jars, waves, reefs, Euroclydon, Christ stilling the sea - is deliberate and sustained.
+- "The village of the churches" likely belongs with the property/fiscal disputes of the surrounding letters.
 
 ## Direct Greek Audit Notes
 
-- Pending.
+- No substantive translation change yet; first-pass English preserved pending direct clause audit.
+
+## Unresolved Issues
+
+- [ ] Direct clause-by-clause audit against Greek still required.
+
+## Audit Trail
+
+- 2026-08-18: Regenerated from current translation_v2 metadata after Gautier packet collation.

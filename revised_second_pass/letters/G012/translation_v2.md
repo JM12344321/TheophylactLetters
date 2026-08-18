@@ -9,10 +9,11 @@ Confidence category: C
 - Recipient: the same addressee as G011
 - Old numbering: Lami-Finetti VIII
 - Conventional title / incipit: До същия
-- Gautier page range: [not yet verified]
+- Gautier page range: Gautier II, letter 12; local PDF text pages 083-084
+- Gautier source packet: 02_sources/gautier/letter_packets/G012_gautier.txt
 - PG / source location: PG100 (PG marker 265)
-- Source condition: pg_ocr_not_collated
-- Identification confidence: medium
+- Source condition: gautier_packet_available_pending_full_clause_audit
+- Identification confidence: high
 - Original first-pass file: 04_letters/G012/translation.md
 
 ## Revised English Translation

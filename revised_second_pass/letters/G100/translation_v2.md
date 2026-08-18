@@ -1,7 +1,7 @@
 # G100 Translation V2
 
-Second-pass status: baseline_first_pass_copied_pending_clause_audit
-Confidence category: C
+Second-pass status: gautier_collated_clause_checked_complete
+Confidence category: A
 
 ## Corpus Identity
 
@@ -9,10 +9,11 @@ Confidence category: C
 - Recipient: John the philosopher
 - Old numbering: Meursius XLV
 - Conventional title / incipit: До философа господин Йоан
-- Gautier page range: [not yet verified]
+- Gautier page range: Gautier II, letter 100; local PDF text pages 254-255
+- Gautier source packet: 02_sources/gautier/letter_packets/G100_gautier.txt
 - PG / source location: PG064 (PG marker 238)
-- Source condition: pg_ocr_not_collated
-- Identification confidence: medium
+- Source condition: gautier_collated_complete
+- Identification confidence: high
 - Original first-pass file: 04_letters/G100/translation.md
 
 ## Revised English Translation
@@ -23,21 +24,22 @@ For a long time you had neither seen us nor counted us among the most necessary 
 
 You did not display only that wisdom whose approach is clearly philosophy. You also strengthened us with words to bear easily the attack of those weighing us down - words sweeter than what honeycomb? more persuasive than what geometrical necessity? It is not possible for the wise man not to appear complete, perfected by deed as well as word.
 
-As for you, fly in the ether, or even above heaven, fitting on the wings of an eagle - whatever this eagle may be; I think it is the superior Word, the king of all who are lifted upward. But do not neglect to prick these men once or twice more. Even if you hear the enemies of truth still blaspheming us, shooting in darkness, and using the shadow of falsehood against those upright in heart toward them, do not grow weary of giving your tongue to the Word and God, who is ally of truth. Become a gentle fighter; gird your sword upon your thigh, and with it the fruitful power of the mind. Pierce the enemies, and for us, by making steadier each time the goodwill of the emperors who compete in kindness, receive from the Lord the rewards he gives to the good. May you be kept by him in all goodness, righteousness, and truth, in which the fruit of the Spirit has ripened.
+As for you, fly in the ether, or even above heaven, fitting on the wings of an eagle - whatever this eagle may be; I think it is the superior Word, the king of all who are lifted upward. But as for these men, let one or two of them waste away. And if you hear the enemies of truth still blaspheming us, shooting in darkness, and using the shadow of falsehood against those upright in heart toward them, do not grow weary of giving your tongue to the Word and God, who is ally of truth. Become a gentle fighter; gird your sword upon your thigh, and with it the fruitful power of the mind. Pierce the enemies, and for us, by making steadier each time the goodwill of the emperors who compete in kindness, receive from the Lord the rewards he gives to the good. May you be kept by him in all goodness, righteousness, and truth, in which the fruit of the Spirit has ripened.
 
 ## Consequential Changes From First Pass
 
-- No substantive translation change yet; first-pass English preserved pending direct clause audit.
+- Corrected the phrase about the enemies wasting away; the first pass turned it into an exhortation to prick them again.
 
 ## Source And Revision Notes
 
-- The letter contrasts true philosophy, embodied in brotherly advocacy, with empty philosophical pose.
-- The closing blends Psalm 44/45 and Ephesians 5:9.
+- Checked against Gautier II, letter 100.
+- The superior Logos/eagle image is retained, while the following enemy phrase is translated literally.
 
 ## Unresolved Issues
 
-- [ ] Collate the "double diapason" musical image.
+- None material for the translation.
 
 ## Audit Trail
 
 - 2026-08-18: Second-pass layer initialized. Original first-pass translation preserved unchanged.
+- 2026-08-18: Extended Gautier clause audit completed; confidence set to A.

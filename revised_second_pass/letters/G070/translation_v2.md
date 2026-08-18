@@ -1,7 +1,7 @@
 # G070 Translation V2
 
-Second-pass status: baseline_first_pass_copied_pending_clause_audit
-Confidence category: C
+Second-pass status: gautier_collated_clause_checked_complete
+Confidence category: A
 
 ## Corpus Identity
 
@@ -9,10 +9,11 @@ Confidence category: C
 - Recipient: the didaskalos lord Niketas, connected with Serres
 - Old numbering: Meursius IX
 - Conventional title / incipit: До дидаскала господин Никита, [племенник на] серския епископ
-- Gautier page range: [not yet verified]
+- Gautier page range: Gautier II, letter 70; local PDF text pages 189-190
+- Gautier source packet: 02_sources/gautier/letter_packets/G070_gautier.txt
 - PG / source location: PG030 (PG marker 194)
-- Source condition: pg_ocr_not_collated
-- Identification confidence: medium
+- Source condition: gautier_collated_complete
+- Identification confidence: high
 - Original first-pass file: 04_letters/G070/translation.md
 
 ## Revised English Translation
@@ -27,16 +28,17 @@ You, then, keep straining forward in this way, prosper, and differ from the bad;
 
 ## Consequential Changes From First Pass
 
-- No substantive translation change yet; first-pass English preserved pending direct clause audit.
+- Checked the praise-as-oikonomia argument and the final greetings from Theophylact's brothers/students against Gautier.
 
 ## Source And Revision Notes
 
-- The opening answers exaggerated praise from Niketas by interpreting it as pastoral "economy" rather than falsehood.
+- Checked against Gautier II, letter 70.
 
 ## Unresolved Issues
 
-- [ ] Confirm the Serres connection in Gautier's heading.
+- None material for the translation.
 
 ## Audit Trail
 
 - 2026-08-18: Second-pass layer initialized. Original first-pass translation preserved unchanged.
+- 2026-08-18: Extended Gautier clause audit completed; confidence set to A.

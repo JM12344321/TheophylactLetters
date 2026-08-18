@@ -1,7 +1,7 @@
 # G107 Translation V2
 
-Second-pass status: targeted_second_pass_checked_no_material_change_needs_gautier_collation
-Confidence category: C
+Second-pass status: gautier_collated_short_letter_checked
+Confidence category: A
 
 ## Corpus Identity
 
@@ -9,10 +9,11 @@ Confidence category: C
 - Recipient: the Despoina, Maria of Alania, who visited him when he was ill
 - Old numbering: Meursius LII
 - Conventional title / incipit: До деспината [Мария Аланска], която го посети, когато беше болен
-- Gautier page range: [not yet verified]
+- Gautier page range: Gautier II, letter 107; local PDF text pages 262-262
+- Gautier source packet: 02_sources/gautier/letter_packets/G107_gautier.txt
 - PG / source location: PG069 (PG marker 242)
-- Source condition: pg_ocr_not_collated
-- Identification confidence: medium
+- Source condition: gautier_collated_complete
+- Identification confidence: high
 - Original first-pass file: 04_letters/G107/translation.md
 
 ## Revised English Translation
@@ -32,7 +33,7 @@ In return for these things, what greater prayer could I offer you than that you 
 
 ## Unresolved Issues
 
-- [ ] Confirm the identification with Maria of Alania in Gautier.
+- None material for the translated text.
 
 ## Audit Trail
 

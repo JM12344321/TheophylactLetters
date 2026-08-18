@@ -1,6 +1,6 @@
 # G035 Translation V2
 
-Second-pass status: baseline_first_pass_copied_pending_clause_audit
+Second-pass status: baseline_first_pass_gautier_packeted_pending_full_clause_audit
 Confidence category: C
 
 ## Corpus Identity
@@ -9,10 +9,11 @@ Confidence category: C
 - Recipient: Chrysoberges, metropolitan of Naupaktos
 - Old numbering: Lami-Finetti XXVII
 - Conventional title / incipit: До навпактския митрополит Хризоверг
-- Gautier page range: [not yet verified]
+- Gautier page range: Gautier II, letter 35; local PDF text pages 122-123
+- Gautier source packet: 02_sources/gautier/letter_packets/G035_gautier.txt
 - PG / source location: PG119 (PG marker 279)
-- Source condition: pg_ocr_not_collated
-- Identification confidence: medium
+- Source condition: gautier_packet_available_pending_full_clause_audit
+- Identification confidence: high
 - Original first-pass file: 04_letters/G035/translation.md
 
 ## Revised English Translation

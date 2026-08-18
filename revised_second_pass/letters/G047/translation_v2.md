@@ -1,7 +1,7 @@
 # G047 Translation V2
 
-Second-pass status: baseline_first_pass_copied_pending_clause_audit
-Confidence category: C
+Second-pass status: gautier_collated_short_letter_checked
+Confidence category: A
 
 ## Corpus Identity
 
@@ -9,10 +9,11 @@ Confidence category: C
 - Recipient: Mermentopoulos
 - Old numbering: Finetti VI
 - Conventional title / incipit: До Мерментопул
-- Gautier page range: [not yet verified]
+- Gautier page range: Gautier II, letter 47; local PDF text pages 146-146
+- Gautier source packet: 02_sources/gautier/letter_packets/G047_gautier.txt
 - PG / source location: PG006 (PG marker 167)
-- Source condition: pg_ocr_not_collated
-- Identification confidence: medium
+- Source condition: gautier_collated_complete
+- Identification confidence: high
 - Original first-pass file: 04_letters/G047/translation.md
 
 ## Revised English Translation
@@ -27,16 +28,16 @@ I am formed for the case by a sharp advocate: the facts themselves. Even if my s
 
 ## Consequential Changes From First Pass
 
-- No substantive translation change yet; first-pass English preserved pending direct clause audit.
+- Checked the whole Mermentopoulos letter against Gautier and confirmed it as the source that had been duplicated into the old G006 slot.
 
 ## Source And Revision Notes
 
 - This is a playful complaint that the addressee's eloquence benefits everyone except Theophylact.
-- The ending alludes to Homeric rescue imagery; the sense is that weak resources can still be saved by a powerful ally.
+- The ending alludes to Homeric rescue imagery; weak resources can still be saved by a powerful ally.
 
 ## Unresolved Issues
 
-- [ ] Direct clause-by-clause audit against Greek still required.
+- None material for the translated text.
 
 ## Audit Trail
 

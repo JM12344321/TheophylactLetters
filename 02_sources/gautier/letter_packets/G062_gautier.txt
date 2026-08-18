@@ -1,0 +1,29 @@
+# G062 Gautier Source Packet
+
+Source: Gautier II, letter 62; local PDF text pages 177-177
+Local extraction: 02_sources/gautier/16_2_pages/page_177.txt-page_177.txt
+
+
+
+===== 16_2 page_177 =====
+
+364 THÉOPHYLACTE D'ACHRIDA
+62
+Achrida
+?
+AU MAÍSTÓR KYR JEAN!
+Moi non plus je n'ai pas de grands loisirs, et l'affaire οὐ nous étions
+engagé, du fait de sa présence à nos cótés, aurait pu vraisemblablement
+nous affliger...?
+1. Correspondant inconnu; voir ci-dessus, p. 68.
+2. Sur cette mutilation du texte, voir ci-dessus, p. 14.
+LETTaAE 62 855
+62
+Τῷ μαΐστορι κυρῷ Ἰωάννῃ
+Οὔτ᾽ ἐμοὶ σχολὴ μακρά, καὶ ἡμᾶς τῶν ἐν οἷς ἦμεν ὅτι συνὴν ἡμῖν
+ἴσως ἂν εἶχε λυπεῖν τὸ πρᾶγμα...
+62 Codex : 1, f. 188" (Meursius 2)
+2 Forsitan restituend. ὅτε συνῆν ὑμῖν — 3 λυπεῖν corr. : λύπην L || post πρᾶγμα
+(f01. 1885 ult. lin.) codex L perturbatus (fol. 1897" versus Michaelis Choniatae praebet )
+et, ni fallimur, lacunosus, ita ut incipiat mut. folio 190 altera epistola (de quo vide
+adnot. ad versionem gallicam ).

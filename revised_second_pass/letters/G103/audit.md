@@ -1,18 +1,30 @@
 # G103 Source Identification And Audit
 
-- Clause-by-clause Greek audit status: targeted_completed_against_pg_ocr
-- First-pass status: translated_from_pg_ocr_damaged_needs_gautier_collation
-- Source packet used in first pass: PG066
-- PG marker / packet size: 239 / 2191 chars
-- GIBI page: 206
-- Confidence category: C
-- Current exception status: yes
+- Recipient: the Bulgarians educated by him
+- Clause-by-clause Greek audit status: completed_against_gautier_packet
+- Second-pass status: gautier_collated_short_letter_checked
+- Gautier source packet: 02_sources/gautier/letter_packets/G103_gautier.txt
+- Gautier page range: Gautier II, letter 103; local PDF text pages 258-258
+- PG / earlier source location: PG066 (PG marker 239)
+- Source condition: gautier_collated_complete
+- Identification confidence: high
+- Confidence category: A
+- Current exception status: no
+- Original first-pass file: 04_letters/G103/translation.md
 
 ## Evidence Notes
 
-Checked against the second embedded unit in `02_sources/pg126/letter_extractions/PG066.txt`, lines 29-45. The translation accurately preserves the longing for God's dwellings, the sciatica rebuke, and the warning not to use wicked power to unload their burden.
+- The last lines of the OCR packet are badly corrupted; only the coherent body is translated.
+- The letter is pastoral, warning former pupils not to exploit Theophylact's illness or absence.
 
 ## Direct Greek Audit Notes
 
-- No material semantic correction required.
-- Packet remains damaged/merged: PG066 begins with G102 and then continues into G103.
+- Checked the G103 embedded unit against PG066 OCR; no material semantic correction required.
+
+## Unresolved Issues
+
+- None material for the translated text.
+
+## Audit Trail
+
+- 2026-08-18: Regenerated from current translation_v2 metadata after Gautier packet collation.

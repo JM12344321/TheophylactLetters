@@ -1,7 +1,7 @@
 # G040 Translation V2
 
-Second-pass status: baseline_first_pass_copied_pending_clause_audit
-Confidence category: C
+Second-pass status: gautier_collated_short_letter_checked
+Confidence category: A
 
 ## Corpus Identity
 
@@ -9,10 +9,11 @@ Confidence category: C
 - Recipient: Niketas Polites
 - Old numbering: Lami-Finetti XXXII
 - Conventional title / incipit: До господин Никита Полит
-- Gautier page range: [not yet verified]
+- Gautier page range: Gautier II, letter 40; local PDF text pages 133-133
+- Gautier source packet: 02_sources/gautier/letter_packets/G040_gautier.txt
 - PG / source location: PG124 (PG marker 284)
-- Source condition: pg_ocr_not_collated
-- Identification confidence: medium
+- Source condition: gautier_collated_complete
+- Identification confidence: high
 - Original first-pass file: 04_letters/G040/translation.md
 
 ## Revised English Translation
@@ -27,16 +28,16 @@ For now, we ask you for a favor. Tomorrow you yourself will acknowledge that we 
 
 ## Consequential Changes From First Pass
 
-- No substantive translation change yet; first-pass English preserved pending direct clause audit.
+- Checked the whole recommendation letter against Gautier; no material semantic correction required.
 
 ## Source And Revision Notes
 
 - The letter commends the newly burdened bishop Glabenitzes to Niketas Polites.
-- The "treasure turning to coals" is proverbial: hopes must not become a disappointment.
+- The Koprinista/dung-heap joke is kept because Gautier's note confirms the Heracles/Augean-stables play.
 
 ## Unresolved Issues
 
-- [ ] Direct clause-by-clause audit against Greek still required.
+- None material for the translated text.
 
 ## Audit Trail
 

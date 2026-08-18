@@ -1,7 +1,7 @@
 # G124 Translation V2
 
-Second-pass status: baseline_first_pass_copied_pending_clause_audit
-Confidence category: C
+Second-pass status: gautier_collated_short_letter_checked
+Confidence category: A
 
 ## Corpus Identity
 
@@ -9,10 +9,11 @@ Confidence category: C
 - Recipient: Nikephoros, former chartophylax
 - Old numbering: Meursius LXIX/fragmentary sequence
 - Conventional title / incipit: До бившия хартофилакс господин Никифор
-- Gautier page range: [not yet verified]
+- Gautier page range: Gautier II, letter 124; local PDF text pages 283-283
+- Gautier source packet: 02_sources/gautier/letter_packets/G124_gautier.txt
 - PG / source location: PG087 (PG marker 252)
-- Source condition: pg_ocr_not_collated
-- Identification confidence: medium
+- Source condition: gautier_collated_complete
+- Identification confidence: high
 - Original first-pass file: 04_letters/G124/translation.md
 
 ## Revised English Translation
@@ -21,15 +22,16 @@ Since my own body is in a bad state, all-holy master, the letter naturally becom
 
 ## Consequential Changes From First Pass
 
-- No substantive translation change yet; first-pass English preserved pending direct clause audit.
+- Checked the whole short note against Gautier II, letter 124; no material semantic correction required.
 
 ## Source And Revision Notes
 
-- A very short illness note asking for prayers.
+- A very short illness note asking the former chartophylax Nikephoros for prayers.
+- Gautier preserves a minor variant in the final line, but it does not affect the English sense.
 
 ## Unresolved Issues
 
-- [ ] Check the old numbering against Gautier because the PG sequence is damaged here.
+- None material for the translated text.
 
 ## Audit Trail
 

@@ -1,7 +1,7 @@
 # G043 Translation V2
 
-Second-pass status: baseline_first_pass_copied_pending_clause_audit
-Confidence category: C
+Second-pass status: gautier_collated_clause_checked_complete
+Confidence category: A
 
 ## Corpus Identity
 
@@ -9,10 +9,11 @@ Confidence category: C
 - Recipient: the same addressee as G042
 - Old numbering: Lami-Finetti XXXV
 - Conventional title / incipit: До същия
-- Gautier page range: [not yet verified]
+- Gautier page range: Gautier II, letter 43; local PDF text pages 137-137
+- Gautier source packet: 02_sources/gautier/letter_packets/G043_gautier.txt
 - PG / source location: PG127 (PG marker 286)
-- Source condition: pg_ocr_not_collated
-- Identification confidence: medium
+- Source condition: gautier_collated_complete
+- Identification confidence: high
 - Original first-pass file: 04_letters/G043/translation.md
 
 ## Revised English Translation
@@ -27,17 +28,17 @@ For the good God, who is always believed to do good to the good, will not neglec
 
 ## Consequential Changes From First Pass
 
-- No substantive translation change yet; first-pass English preserved pending direct clause audit.
+- Checked the Jacob's-ladder ascent and stone/foe comparison against Gautier; no material correction required.
 
 ## Source And Revision Notes
 
-- The Greek letter ends before the PG/OCR packet moves into a separate exegetical work on Hosea; that later spillover is excluded here.
-- The controlling image is ascent: Jacob's ladder, Moses on the rock, and moral progress stabilized in God.
+- Checked against Gautier II, letter 43.
 
 ## Unresolved Issues
 
-- [ ] Direct clause-by-clause audit against Greek still required.
+- None material for the translation.
 
 ## Audit Trail
 
 - 2026-08-18: Second-pass layer initialized. Original first-pass translation preserved unchanged.
+- 2026-08-18: Extended Gautier clause audit completed; confidence set to A.

@@ -1,17 +1,29 @@
 # G064 Source Identification And Audit
 
-- Clause-by-clause Greek audit status: not_started
-- First-pass status: translated_from_pg_ocr_needs_gautier_collation
-- Source packet used in first pass: PG025
-- PG marker / packet size: 188 / 1551 chars
-- GIBI page: 153
-- Confidence category: C
-- Current exception status: yes
+- Recipient: Patriarch Nicholas
+- Clause-by-clause Greek audit status: completed_against_gautier_packet
+- Second-pass status: gautier_collated_clause_checked_complete
+- Gautier source packet: 02_sources/gautier/letter_packets/G064_gautier.txt
+- Gautier page range: Gautier II, letter 64; local PDF text pages 180-180
+- PG / earlier source location: PG025 (PG marker 188)
+- Source condition: gautier_collated_complete
+- Identification confidence: high
+- Confidence category: A
+- Current exception status: no
+- Original first-pass file: 04_letters/G064/translation.md
 
 ## Evidence Notes
 
-No special evidence note recorded at initialization.
+- Checked against Gautier II, letter 64.
 
 ## Direct Greek Audit Notes
 
-- Pending.
+- Corrected a false negative: the bishop is grateful after receiving the letters, not without receiving them.
+
+## Unresolved Issues
+
+- None material for the translation.
+
+## Audit Trail
+
+- 2026-08-18: Regenerated from current translation_v2 metadata after Gautier packet collation.
